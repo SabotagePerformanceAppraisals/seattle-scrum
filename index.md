@@ -2,14 +2,20 @@
 layout: front
 author_profile: true
 feature_row:
-  - image_path: /assets/images/Agile-education.svg
-    alt: "xyz"
-  - image_path: /assets/images/Agile-coaching.svg
-    alt: "xyz"
-  - image_path: /assets/images/Agile-resources.svg
-    alt: "xyz"
-  - image_path: /assets/images/Agile-articles.svg
-    alt: "xyz"
+  - image_path: assets/images/Agile-education.svg
+    alt: "Agile Education"
+    url: "http://Disney.com"
+    title: "Education"
+    btn_class: btn--primary
+  - image_path: assets/images/Agile-coaching.svg
+    alt: "Agile Coaching"
+    title: "Coaching"
+  - image_path: assets/images/Agile-resources.svg
+    alt: "Agile Resources"
+    title: "Free Resources"
+  - image_path: assets/images/Agile-articles.svg
+    alt: "Agile Articles"
+    title: "Articles"
 ---
 
 ![Seattle Scrum Company](/assets/images/Seattle-Scrum-Company-1024.png){: .align-center }
@@ -41,24 +47,28 @@ Helping organizations learn to adapt to ever-changing reality.
 
 </style>
 
-{% include feature_row %}
 
 <div class="feature__wrapper">
-    <div class="feature__item">
-      <div class="archive__item">
+
+<div class="feature__item">
+		  <a href="http://Netflix.com">
+
+
           <div class="archive__item-teaser">
-            <img src="/assets/images/Agile-education.svg" alt=""/>
+		  <img src="assets/images/Agile-education.svg" alt=""/> 
           </div>
           <div class="archive__item-title">
 		  Agile Education
         </div>
-      </div>
-    </div>
+
+		  </a>
+</div>
+
   
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="/assets/images/Agile-coaching.svg" alt="" />
+            <img src="assets/images/Agile-coaching.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Agile Coaching
@@ -69,7 +79,7 @@ Helping organizations learn to adapt to ever-changing reality.
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="/assets/images/Agile-resources.svg" alt="" />
+            <img src="assets/images/Agile-resources.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Agile Resources
@@ -80,7 +90,7 @@ Helping organizations learn to adapt to ever-changing reality.
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="/assets/images/Agile-articles.svg" alt="" />
+            <img src="assets/images/Agile-articles.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Articles
