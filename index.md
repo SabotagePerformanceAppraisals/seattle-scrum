@@ -33,8 +33,7 @@ Helping organizations learn to adapt to ever-changing reality.
 <style>
 
 .archive__item-teaser img {
-    width: 50%;
-    height: 50%;
+    max-width: 120px;
 }
 
 .archive__item-teaser {
@@ -45,6 +44,9 @@ Helping organizations learn to adapt to ever-changing reality.
   text-align: center;
 }
 
+.feature__item {
+  width: 20%;
+}
 </style>
 
 
@@ -66,36 +68,36 @@ Helping organizations learn to adapt to ever-changing reality.
 
   
     <div class="feature__item">
-      <div class="archive__item">
+		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-coaching.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Agile Coaching
         </div>
-      </div>
+		  </a>
     </div>
   
     <div class="feature__item">
-      <div class="archive__item">
+		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-resources.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Agile Resources
         </div>
-      </div>
+		  </a>
     </div>
   
     <div class="feature__item">
-      <div class="archive__item">
+		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-articles.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		  Articles
         </div>
-      </div>
+		  </a>
     </div>
   
 
