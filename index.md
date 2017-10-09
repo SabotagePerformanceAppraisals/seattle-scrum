@@ -100,6 +100,17 @@ Helping organizations learn to adapt to ever-changing reality.
 		  </a>
     </div>
   
+    <div class="feature__item">
+		  <a href="http://Netflix.com">
+          <div class="archive__item-teaser">
+            <img src="assets/images/Testimonials.svg" alt="" />
+          </div>
+          <div class="archive__item-title">
+		  Testimonials
+        </div>
+		  </a>
+    </div>
+
 
 </div>
 
