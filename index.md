@@ -66,7 +66,7 @@ Helping organizations adapt to ever-changing reality.
           <img src="assets/images/Agile-education.svg" alt=""/> 
       </div>
       <div class="archive__item-title">
-		  Agile Education
+		  Education
       </div>
 		  </a>
 </div>
@@ -78,7 +78,7 @@ Helping organizations adapt to ever-changing reality.
             <img src="assets/images/Agile-coaching.svg" alt="" />
           </div>
           <div class="archive__item-title">
-		  Agile Coaching
+		  Coaching
         </div>
 		  </a>
     </div>
@@ -89,7 +89,7 @@ Helping organizations adapt to ever-changing reality.
             <img src="assets/images/Agile-resources.svg" alt="" />
           </div>
           <div class="archive__item-title">
-		  Agile Resources
+		  Resources
         </div>
 		  </a>
     </div>
