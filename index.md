@@ -32,7 +32,6 @@ Helping organizations adapt to ever-changing reality.
 
 <style>
 
-
 .archive__item-teaser img {
     max-width: 40%;
 }
@@ -60,7 +59,7 @@ Helping organizations adapt to ever-changing reality.
 
 <div class="feature__wrapper">
 
-<div class="feature__item">
+<div class="feature__item" style="clear:none;margin-left:0px">
 		  <a href="http://Netflix.com">
       <div class="archive__item-teaser">
           <img src="assets/images/Agile-education.svg" alt=""/> 
@@ -72,7 +71,7 @@ Helping organizations adapt to ever-changing reality.
 </div>
 
   
-    <div class="feature__item">
+    <div class="feature__item" style="clear:none;margin-left:0px">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-coaching.svg" alt="" />
@@ -83,7 +82,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item">
+    <div class="feature__item" style="clear:none;margin-left:0px">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-resources.svg" alt="" />
@@ -94,7 +93,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item">
+    <div class="feature__item" style="clear:none;margin-left:0px">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-articles.svg" alt="" />
@@ -105,7 +104,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item">
+    <div class="feature__item" style="clear:none;margin-left:0px">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Testimonials.svg" alt="" />
