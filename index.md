@@ -32,8 +32,20 @@ Helping organizations learn to adapt to ever-changing reality.
 
 <style>
 
+
+.archive__item-teaser img {
+    max-width: 40%;
+}
+
+
+@media screen and (min-width: 600px) {
 .archive__item-teaser img {
     max-width: 120px;
+}
+
+.feature__item {
+  width: 20%;
+}
 }
 
 .archive__item-teaser {
@@ -44,9 +56,7 @@ Helping organizations learn to adapt to ever-changing reality.
   text-align: center;
 }
 
-.feature__item {
-  width: 20%;
-}
+
 </style>
 
 
@@ -54,15 +64,12 @@ Helping organizations learn to adapt to ever-changing reality.
 
 <div class="feature__item">
 		  <a href="http://Netflix.com">
-
-
-          <div class="archive__item-teaser">
-		  <img src="assets/images/Agile-education.svg" alt=""/> 
-          </div>
-          <div class="archive__item-title">
+      <div class="archive__item-teaser">
+          <img src="assets/images/Agile-education.svg" alt=""/> 
+      </div>
+      <div class="archive__item-title">
 		  Agile Education
-        </div>
-
+      </div>
 		  </a>
 </div>
 
