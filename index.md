@@ -18,11 +18,11 @@ feature_row:
     title: "Articles"
 ---
 
-![Seattle Scrum Company](/assets/images/Seattle-Scrum-Company-1024.png){: .align-center }
+![Seattle Scrum Company](assets/images/Seattle-Scrum-Company-1024.png){: .align-center }
 
 ----
 
-![CSM class](/assets/images/NYC-CSM-class.jpg){: .align-center }
+![CSM class](assets/images/NYC-CSM-class.jpg){: .align-center }
 
 ----
 Helping organizations adapt to ever-changing reality.
