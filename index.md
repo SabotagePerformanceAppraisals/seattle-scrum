@@ -25,7 +25,7 @@ feature_row:
 ![CSM class](/assets/images/NYC-CSM-class.jpg){: .align-center }
 
 ----
-Helping organizations learn to adapt to ever-changing reality.
+Helping organizations adapt to ever-changing reality.
 {: .text-center}
 
 ----
@@ -37,17 +37,6 @@ Helping organizations learn to adapt to ever-changing reality.
     max-width: 40%;
 }
 
-
-@media screen and (min-width: 600px) {
-.archive__item-teaser img {
-    max-width: 120px;
-}
-
-.feature__item {
-  width: 20%;
-}
-}
-
 .archive__item-teaser {
    text-align: center;
 }
@@ -56,6 +45,15 @@ Helping organizations learn to adapt to ever-changing reality.
   text-align: center;
 }
 
+@media screen and (min-width: 600px) {
+  .archive__item-teaser img {
+      max-width: 120px;
+  }
+
+  .feature__item {
+    width: 20%;
+  }
+}
 
 </style>
 
