@@ -1,6 +1,7 @@
 ---
+layout: single
 permalink: /education
-title: education
+title: Education
 ---
 
 # CSM (Certified Scrum Master) Experience #

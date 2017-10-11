@@ -1,6 +1,7 @@
 ---
+layout: single
 title: Testimonials
-permalink: /testimonials/
+permalink: /testimonials
 ---
 * Great class!
 
