@@ -1,6 +1,6 @@
 ---
 layout: front
-author_profile: true
+author_profile: false
 feature_row:
   - image_path: assets/images/Agile-education.svg
     alt: "Agile Education"
@@ -60,7 +60,7 @@ Helping organizations adapt to ever-changing reality.
 <div class="feature__wrapper">
 
 <div class="feature__item" style="clear:none;margin-left:0px">
-		  <a href="http://Netflix.com">
+		  <a href="education">
       <div class="archive__item-teaser">
           <img src="assets/images/Agile-education.svg" alt=""/> 
       </div>
