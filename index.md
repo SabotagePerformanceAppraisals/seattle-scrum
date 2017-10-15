@@ -1,21 +1,6 @@
 ---
 layout: front
 author_profile: false
-feature_row:
-  - image_path: assets/images/Agile-education.svg
-    alt: "Agile Education"
-    url: "http://Disney.com"
-    title: "Education"
-    btn_class: btn--primary
-  - image_path: assets/images/Agile-coaching.svg
-    alt: "Agile Coaching"
-    title: "Coaching"
-  - image_path: assets/images/Agile-resources.svg
-    alt: "Agile Resources"
-    title: "Free Resources"
-  - image_path: assets/images/Agile-articles.svg
-    alt: "Agile Articles"
-    title: "Articles"
 ---
 
 ![Seattle Scrum Company](assets/images/Seattle-Scrum-Company-1024.png){: .align-center }
@@ -52,6 +37,15 @@ Helping organizations adapt to ever-changing reality.
   .feature__item {
     width: 20%;
   }
+  .feature__item:nth-child(3n+1) {
+    clear:none;
+  }
+  .feature__item:nth-child(3n+2) {
+    margin-left:0
+  }
+  .feature__item:nth-child(3n+3) {
+    margin-left:0
+  }
 }
 
 </style>
@@ -59,7 +53,7 @@ Helping organizations adapt to ever-changing reality.
 
 <div class="feature__wrapper">
 
-<div class="feature__item" style="clear:none;margin-left:0px">
+<div class="feature__item">
 		  <a href="education">
       <div class="archive__item-teaser">
           <img src="assets/images/Agile-education.svg" alt=""/> 
@@ -71,7 +65,7 @@ Helping organizations adapt to ever-changing reality.
 </div>
 
   
-    <div class="feature__item" style="clear:none;margin-left:0px">
+    <div class="feature__item">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-coaching.svg" alt="" />
@@ -82,7 +76,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item" style="clear:none;margin-left:0px">
+    <div class="feature__item">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-resources.svg" alt="" />
@@ -93,7 +87,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item" style="clear:none;margin-left:0px">
+    <div class="feature__item">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-articles.svg" alt="" />
@@ -104,7 +98,7 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
   
-    <div class="feature__item" style="clear:none;margin-left:0px">
+    <div class="feature__item">
 		  <a href="testimonials">
           <div class="archive__item-teaser">
             <img src="assets/images/Testimonials.svg" alt="" />
