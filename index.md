@@ -54,27 +54,26 @@ Helping organizations adapt to ever-changing reality.
 <div class="feature__wrapper">
 
 <div class="feature__item">
-		  <a href="education">
-      <div class="archive__item-teaser">
-          <img src="assets/images/Agile-education.svg" alt=""/> 
-      </div>
-      <div class="archive__item-title">
+   <a href="education">
+   <div class="archive__item-teaser">
+      <img src="assets/images/Agile-education.svg" alt=""/>
+   </div>
+   <div class="archive__item-title">
 		  Education
-      </div>
-		  </a>
+   </div>
+   </a>
 </div>
 
-  
-    <div class="feature__item">
-		  <a href="http://Netflix.com">
-          <div class="archive__item-teaser">
-            <img src="assets/images/Agile-coaching.svg" alt="" />
-          </div>
-          <div class="archive__item-title">
-		  Coaching
-        </div>
-		  </a>
-    </div>
+<div class="feature__item">
+   <a href="http://Netflix.com">
+   <div class="archive__item-teaser">
+      <img src="assets/images/Agile-coaching.svg" alt="" />
+   </div>
+   <div class="archive__item-title">
+      Coaching
+   </div>
+   </a>
+</div>
   
     <div class="feature__item">
 		  <a href="http://Netflix.com">
