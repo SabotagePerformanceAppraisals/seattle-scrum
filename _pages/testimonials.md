@@ -36,7 +36,7 @@ Michael led a superb SCRUM certification class. He gave an excellent overview of
 ----
 I had the pleasure of having Michael as the instructor in my Scrum Master course, and I can say without a doubt that this was the best training I have taken, and an excellent use of my time. Michael's high-energy, dynamic personality kept us engaged for two solid, long days, where he combined interactive team activities, hand outs and relevant feedback to ALL participants. Not only did we laugh, we learned, and after taking a nice month-long holiday, I passed my Scrum Master certification on the first attempt. His use of stories, combined with his extensive knowledge of Agile theory AND real life examples served to drive home and make relevant his material; I would gladly take another course from Michael and highly recommend him to anyone considering Agile coursework.
 
-*— Angela Mahoney, MBA, CSM, IT Cloud Consultant and Cat-Herder | Salesforce Platform*
+*— Angela Mahoney, MBA, CSM, IT Cloud Consultant and Cat-Herder / Salesforce Platform*
 
 ----
 Michael is an excellent instructor. He conveys the information with clarity, grace, and good humor. I especially like how he is very reality-based; no pie-in-the-sky theorizing. He makes the teaching look easy, which is the mark of a true expert. Michael involves the students thoroughly in the learning process, so that you almost don't know that you're being taught per se — yet at the end of the two-day class, all the information is right there in your head. I passed the CSM test on the first try without the need for subsequent review (and with Christmas and New Year's coming in between) — largely due to Michael's class...
@@ -74,7 +74,7 @@ I have nothing but rave reviews for Michael’s recent Scrum Master course in NY
 ----
 Michael runs a great scrum training class, keeping the subject matter interesting and interactive. If you are willing to work hard and engage fully during the course, he will go the extra mile for you. I highly recommend him as a trainer.
 
-*— Clarissa Springer, Business Analyst/Systems Analyst | Project Manager/Program Manager*
+*— Clarissa Springer, Business Analyst/Systems Analyst / Project Manager/Program Manager*
 
 ----
 I took Michael's two day class for Certified Scrum Master training. It was one of the best (if not the best) trainings I have had in my career. Michael is very generous with the wisdom gained in practicing scrum over the years. He provided information through awesome, fun webinars, printed material, discussion, and most importantly, through experiential exercises in our class. I paid for the class myself so it was expensive for two days, but it was worth every penny. I don't regret the investment I made in my growth of knowledge and new experience. If you are new to practicing scrum or have been practicing with difficulty, this class is for you. It is for people in any role, business analyst, product owner, tester, developer, scrum masters, managers, etc...
