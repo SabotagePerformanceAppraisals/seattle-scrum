@@ -4,7 +4,7 @@
 Exactly as you said. The best class in NYC. Thank you so much.
 
 *— Anjali Gandekar, Technical Business Analyst*
- 
+
 ---
 I attended one of Michael's CSM classes in 2013. I was pleasantly surprised how Michael chose to approach the content. Instead of rehashing the same old material on scrum (which you can easily read by yourself elsewhere), Michael's class provided a unique and refreshing approach to the subject — it was based on *experiencing* key concepts of scrum (e.g. self-organization) rather than *discussing* them in an abstract sense. This class is truly awesome especially if you have experience with scrum and know the basics already. You will not only easily pass the CSM test, you will also actually get some additional insight, and be challenged to rethink some of your preconceptions. Overall, I found the class inspiring and it exceeded my expectations.
 
@@ -24,12 +24,12 @@ I had the pleasure of attending a CSM course run by Michael and found him to be 
 Michael James is a gifted facilitator of the learning process who knows how to create engaging experiences that go above and beyond the expectations of his students. One of the keys to his approach is to offload teaching the introductory theory of Scrum into series of interactive e-learning modules as well as a handy, Scrum reference card. These prerequisite training materials are both really well-produced and freely available to anyone. They also freed up the class from being a boring, broadcast-only overview of Scrum theory and instead it helped to create one of the most experiential and interactive training sessions that I've ever been a part of. He used a time-boxed structure of only lecturing for 10-minutes at any given time, which led to many opportunities to learn through doing exercises and small group discussions. There was a strong emphasis of letting the students teach and learn from each other based upon their own experiences, and then he would follow up on the more confusing or controversial points. Michael is completely committed to preparing his student for success before, during and after his class. I'd highly recommend Michael's CSM course to any serious student looking to learn more about Scrum and agile methodologies.
 
 *— Kent Bye, Videographer / Editor at Puppet Labs, Inc.*
- 
+
 ---
 Michael led a superb SCRUM certification class. He gave an excellent overview of the material and walked the class through grounded, practical exercises. His explanations and examples provided great context for the SCRUM principles. He was truly interested in seeing us master the material and put it into practice. I highly recommend his course.
 
 *— Jaydeep Joshi, CSM, Project Manager, Knowledge Management*
- 
+
 ---
 I had the pleasure of having Michael as the instructor in my Scrum Master course, and I can say without a doubt that this was the best training I have taken, and an excellent use of my time. Michael's high-energy, dynamic personality kept us engaged for two solid, long days, where he combined interactive team activities, hand outs and relevant feedback to ALL participants. Not only did we laugh, we learned, and after taking a nice month-long holiday, I passed my Scrum Master certification on the first attempt. His use of stories, combined with his extensive knowledge of Agile theory AND real life examples served to drive home and make relevant his material; I would gladly take another course from Michael and highly recommend him to anyone considering Agile coursework.
 
@@ -50,7 +50,7 @@ Michael has that rare and enviable gift of being able to teach in a way that eng
 I recommend Michael without hesitation as an excellent Scrum trainer and Michael would be my first recommendation for Agile consultation and training within any organization I worked in.
 
 *— Kevin Johnsrude, Senior Software Designer, Developer, Tech Lead, Scrum Master*
- 
+
 ---
 I had the great opportunity to attend a Certified Scrum Master two-day training course from Michael. Having attended many education conferences I was not expecting what I got. I was expecting a dull conference room full of other people who were just there because they need PDUs fiddling with their laptops and phones all day. Instead, for two whole days I was completely engaged in learning the principles and practices of Scrum/Agile development. There wasn't a dull moment and the material was covered in a very comprehensible manner. If you want a boring 2-day lecture to just sit and earn PDUs Michael is not your guy. If you want to learn Scrum and have an engaging and enjoyable training, then you've come to the right place.
 
@@ -103,7 +103,7 @@ I attended Scrum Training conducted by Michael James. He is an expert in the fie
 
 *— Paul Tippetts, Sr. Professional Services Consultant at NetDocuments*
 
- 
+---
 Just went through a very well organized two day SCRUM training session with Michael and it was well worth the time. I had heard and read about SCRUM but this gave me the details I needed to at least start down the path of evangelizing scrum and trying to work it into my methodology.
 
 *— Adam Shun, PMP, CSM, Director - Projects at Cognizant Technology Solutions*
@@ -118,12 +118,12 @@ Michael led a robust 2-day CSM training which gave me very good knowledge in Scr
 
 *— Jasbir Jaswal, Development Lead at Binary Stream Software*
 
- 
+---
 Michael did a great job teaching the CSM class I attended last week. He is very knowledgeable and passionate about the subject matter, and is an excellent teacher. If you are considering CSM or Agile training, I highly recommend him.
 
 *— Murray Macdonald, President/CTO at Storefront.com*
 
-----
+---
 Michael led a robust 2-day CSM training which strengthened and clarified my experience in Scrum, re-aligning to best practice. Michael's in-depth knowledge and ability to shepherd our large group (~ 30 people) were outstanding. I recommend Michael to organizations looking to create a change to Agile methodology, as he is a great Champion of this effort.
 
 *— Holly Ripley, PMP, CSM, PSM, Program Manager/Director*
@@ -238,9 +238,10 @@ I would like to share my experience of the time spent in Michael James Scrum Mas
 ---
 I recently completed the ScrumMaster Certification Training with Michael in San Diego. His approach to the training was unique and incredibly effective. He forces you to actually put the Scrum framework concepts and process into practice immediately, rather than sitting around talking about theory. There were no Power Point slides (thank God), and he never talked for more than 10 minutes at a time before starting a new group exercise. Not only did this give me insight into the realities and complexities that I will face in trying to implement Scrum in my workplace, but I was able to work through many of those hurdles and frustrations in the class rather than back at work. Michael is a gifted instructor and trainer, and for those willing to dig in and challenge themselves, I think they will find his training very productive. Highly recommended.
 
-*— Matthew Critchlow, Web Technical Manager at UC San Diego*
+*— Matthew CritchLow, Web Technical Manager at UC San Diego*
+
 [NOTE: MJ generally avoids slides but does use some from time to time.]
- 
+
 ---
 Michael brings a refreshing approach to his CSM Class. With his mixture of discussion, activities, and handouts, I was able to complete his class with the confidence and tools needed to bring Scrum back to my client. I highly recommend Michael as an Scrum Instructor or Agile Coach to anyone looking to add Scrum to their toolset.
 
@@ -250,7 +251,7 @@ Michael brings a refreshing approach to his CSM Class. With his mixture of discu
 Michael James was my instructor for Certified Scrum Master class that I attended in Dallas, TX. Mr James is very well grounded in the Agile/Scrum methodology and presents the course extremely well. The class moved along at a good pace and was full of practical exercises. I would highly recommend Mr James for anything dealing with Agile/Scrum.
 
 *— James Smith, Sr Project Manager*
- 
+
 ---
 Michael is an excellent instructor. He teaches Scrum by using scrum principles such as self-organization and collaboration. Instead of lecturing, he helps students grasp and apply things through experience, practice, and group learning. I'd recommend him for anyone needing to know how to do agile/scrum and helping to apply it to your business for a higher ROI.
 
