@@ -4,6 +4,15 @@ permalink: /testimonials
 ---
 
 ----
+I cannot thank MJ enough for the amazing CSM class he delivered to my cohort in NYC.  The class was even better than I had anticipated.  Because the CSM is not a standardized certification, I felt obligated to do thorough research on Scrum Trainers before selecting one, and my organization supported my doing this, to avoid inadvertently endorsing "fake agile".  I selected MJ's "harder than normal" class in NYC over the many available in my state for this reason.  The exam itself is not difficult - the real value comes from the learning that takes place in the classroom.  
+
+If you are a person who prefers to sit back and listen to a lecture via Powerpoint (yuck), this class is not for you.  If you prefer face-to-face interactions, hands-on, real Scrum scenario applications, learning by doing, and engaging with others, this is 100% a better fit.  MJ teaches Scrum as it was intended by the founders of Scrum to help prepare for the exam, while also taking the time to learn about the professional needs and interests of the class, teaching his students how Scrum can be implemented in various organizational contexts given the impediments their organizations are currently experiencing.  
+
+I agree with all of the positive reviews the class has received, and for me, I felt it was inspiring and even life-changing.  Each day of class, I was excited to be there, to be challenged and learn more about what Scrum has to offer.
+
+*— Katie Castelle, Ph.D., PMP, Adjunct Assistant Professor at Old Dominion University*
+
+----
 Exactly as you said. The best class in NYC. Thank you so much.
 
 *— Anjali Gandekar, Technical Business Analyst*
