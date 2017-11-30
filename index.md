@@ -122,7 +122,7 @@ Helping organizations adapt to ever-changing reality.
     <div class="feature__item">
 		  <a href ="contact">
           <div class="archive__item-teaser">
-            <img src="assets/images/contact.svg" alt="" />
+            <img src="assets/images/Contact.svg" alt="" />
           </div>
           <div class="archive__item-title">
 		        Contact us
