@@ -4,6 +4,30 @@ permalink: /testimonials
 ---
 
 ----
+I've been studying and practicing Agile and Scrum for years, but never took the time to get certified. When my firm offered me the opportunity to do just that, I was kind of half-interested, thinking — I'll just attend a class, brush up on the Scrum Guide and get the test out of the way. Our team found MJ, who came highly recommended. I gotta say — I was pleasantly surprised. MJ got all the book work out of the way before the class even began, and our time was spent in creative, practical exercises that helped illuminate some of the finer points of Scrum and LeSS. MJ's insights and experience were peppered throughout, and these were worth the price of admission alone. MJ is thorough, opinionated and authoritative, but in the best ways. He backs up his strong opinions with unassailable logic and an appeal to our better natures. He really knows this stuff, and he comes from a place of deep respect and care for self-organizing teams of human beings rather than slavish adherence to a "methodology." I'm recommending MJ's class to all my colleagues, without hesitation.
+
+*— Rob West, Sr. Project Manager - IT PMO at the Bill & Melinda Gates Foundation*
+
+----
+Michael provided a deeper understanding to the "whys" of scrum techniques. I learned valuable skills I could apply in my work life. The best training, it would be worth it at three times the cost.
+
+*— Patricia Heyn, PMP, IT Project Manager at WCG Clinical*
+
+----
+I cannot thank MJ enough for the amazing CSM class he delivered to my cohort in NYC.  The class was even better than I had anticipated.  Because the CSM is not a standardized certification, I felt obligated to do thorough research on Scrum Trainers before selecting one, and my organization supported my doing this, to avoid inadvertently endorsing "fake agile".  I selected MJ's "harder than normal" class in NYC over the many available in my state for this reason.  The exam itself is not difficult — the real value comes from the learning that takes place in the classroom.  
+
+If you are a person who prefers to sit back and listen to a lecture via Powerpoint (yuck), this class is not for you.  If you prefer face-to-face interactions, hands-on, real Scrum scenario applications, learning by doing, and engaging with others, this is 100% a better fit.  MJ teaches Scrum as it was intended by the founders of Scrum to help prepare for the exam, while also taking the time to learn about the professional needs and interests of the class, teaching his students how Scrum can be implemented in various organizational contexts given the impediments their organizations are currently experiencing.  
+
+I agree with all of the positive reviews the class has received, and for me, I felt it was inspiring and even life-changing.  Each day of class, I was excited to be there, to be challenged and learn more about what Scrum has to offer.
+
+*— Katie Castelle, Ph.D., PMP, Adjunct Assistant Professor at Old Dominion University*
+
+----
+I am glad that I took the class from MJ. The sessions were insightful and he used a very practical approach. MJ was awesome and is very passionate about all the topics that were covered as part of the sessions. I would certainly recommend for anyone considering the scrum classes.
+
+*— Ravi Govindaiah*
+
+----
 Exactly as you said. The best class in NYC. Thank you so much.
 
 *— Anjali Gandekar, Technical Business Analyst*
