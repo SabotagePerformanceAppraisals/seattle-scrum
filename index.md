@@ -108,6 +108,28 @@ Helping organizations adapt to ever-changing reality.
 		  </a>
     </div>
 
+    <div class="feature__item">
+		  <a href="calendar">
+          <div class="archive__item-teaser">
+            <img src="assets/images/Calendar.svg" alt="" />
+          </div>
+          <div class="archive__item-title">
+		        Calendar
+          </div>
+		  </a>
+    </div>
+
+    <div class="feature__item">
+		  <a href ="contact">
+          <div class="archive__item-teaser">
+            <img src="assets/images/contact.svg" alt="" />
+          </div>
+          <div class="archive__item-title">
+		        Contact us
+          </div>
+		  </a>
+    </div>
+
 
 </div>
 

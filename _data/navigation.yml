@@ -10,3 +10,7 @@ main:
     url: /articles
   - title: "Testimonials"
     url: /testimonials
+  - title: "Calendar"
+    url: /calendar
+  - title: "Contact us"
+    url: /contact
