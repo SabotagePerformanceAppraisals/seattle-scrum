@@ -133,7 +133,4 @@ Helping organizations adapt to ever-changing reality.
 
 </div>
 
-----
-Contact us
-
 
