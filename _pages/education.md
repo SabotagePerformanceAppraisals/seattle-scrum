@@ -5,8 +5,12 @@ title: Education
 ---
 
 ----
+
 # CSM (Certified Scrum Master) Experience #
-## For executives, managers, consultants, Product Owners, ScrumMasters, and team members
+
+__For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
+
+{% include toc %}
 
 ----
 The Certified Scrum Master (CSM) experience combines [six entertaining online preparation modules](http://ScrumTrainingSeries.com) with learning by doing in the classroom. The classroom activities are guided by Michael James, author of the Example ScrumMaster's Checklist (referenced in books by at least three other Scrum trainers) and the 6-page illustrated Scrum Reference Card.
