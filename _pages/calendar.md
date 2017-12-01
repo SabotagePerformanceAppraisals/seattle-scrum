@@ -29,8 +29,8 @@ To reduce miscommunication about expectations we use the following unconventiona
 1. Please [email Tommi](mailto:tommi@seattlescrum.com?subject=training) about the class you're interested in.  The email links above are provided for your convenience.
 2. Tommi will send details, answer questions, and ask you to confirm you're able to make time to complete the preparation work ([six e-learning modules with embedded quizzes](http://ScrumTrainingSeries.com)), will be able to control your phone texting addiction, etc.
 3. (OPTIONAL) While not required, we encourage you to establish a rapport with your trainer[^1] [Michael James (MJ)](https://www.linkedin.com/in/michaeljamesseattle/) by writing [mj@seattlescrum.com](mj@seattlescrum.com) or phoning +1.206.769.5282 during business hours.
-4. Decide if this is the class for you at this time.  If you would prefer someone else's class, try looking here: [https://www.scrumalliance.org/courses-events/course](https://www.scrumalliance.org/courses-events/course])
+4. Decide if this is the class for you at this time.  If you might prefer someone else's class, you can find them here: [https://www.scrumalliance.org/courses-events/course](https://www.scrumalliance.org/courses-events/course])
 5. Tommi, via QuickBooks, will email you an invoice with online payment instructions, a calendar invitation with details, etc.
-6. (OPTIONAL) We usually email you a self-assessment measuring your current understanding of the preparation work before class.  Optionally, send us your answers and ask for help in any areas you may need.
+6. (OPTIONAL) Unless you were a last-minute enrollment, we'll email you a self-assessment measuring your current understanding of the preparation work before class.  Optionally, send us your answers and ask for help in any areas you may need.  _TIP: base your answers on the preparation materials rather than what your employer currently does._
 
 ----
