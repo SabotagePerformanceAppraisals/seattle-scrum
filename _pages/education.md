@@ -10,7 +10,7 @@ title: Education
 
 {% include toc %}
 
-# Certified Scrum Master Experience (CSM) #
+## Certified Scrum Master (CSM)
 
 ![image-right](assets/images/CSM.png){: height="150px" width="150px" .align-right}
 * __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
@@ -18,7 +18,7 @@ title: Education
 * __Dates, Locations, Prices: [see calendar](calendar)__
 
 ----
-The Certified Scrum Master (CSM) experience combines [six entertaining online preparation modules](http://ScrumTrainingSeries.com) with learning by doing in the classroom. The classroom activities are guided by Michael James, author of the Example ScrumMaster's Checklist (referenced in books by at least three other Scrum trainers) and the 6-page illustrated Scrum Reference Card.
+Our Certified Scrum Master (CSM) experience combines [six entertaining online preparation modules](http://ScrumTrainingSeries.com) with learning by doing in the classroom. The classroom activities are guided by Michael James, author of the Example ScrumMaster's Checklist (referenced in books by at least three other Scrum trainers) and the 6-page illustrated Scrum Reference Card.
 
 ----
 
@@ -29,7 +29,9 @@ As Michael James puts it,
 
 ----
 
-Main topics covered primarily by team activities and examples (any lectures would be very short):
+### CSM Learning Objectives
+
+Topics covered primarily by team activities and examples (any lectures would be very short):
 
 * How Agile development differs from traditional project management.
 * Three Scrum roles, responsibilities, boundaries, in depth.
@@ -57,13 +59,16 @@ Better prepared groups are able to spend more time on the advanced topics.
 
 ----
 
+### Scrum Alliance Certification
 
 On successful completion of the course, you’ll receive
 
-* Qualification for ScrumMaster Certification (full participation + passing my exam + the ScrumAlliance's exam are required for certification).
+* Qualification for Scrum Master Certification (full participation + passing my exam + the Scrum Alliance's exam are required for certification).
 * Payment of your first two year dues for the Scrum Alliance.
 
 ----
+
+### Preparation
 
 Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the three classroom days. Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class, so please contact your instructor for assistance if you have difficulty with the embedded quizzes.
 
@@ -85,7 +90,48 @@ Here’s what people are saying about the preparation work:
 ----
 ----
 
-# Certified LeSS Practitioner: Principles to Practices (CLP) #
+## Certified LeSS Basics (CLB)
+
+![image-right](assets/images/CLB.png){: height="150px" width="150px" .align-right}
+
+This is additional content typically integrated into a 3-day CSM class.
+
+### CLB Learning Objectives
+
+#### Foundational Knowledge
+
+* Articulate why LeSS?
+* Explain how LeSS is a Scrum-based approach on scaling
+* Summarize what impact this has on the organisational design (structures, policies, etc.)
+* Explain the dynamics of component teams vs. feature teams
+* Explain all LeSS roles and their purposes
+* Explain why there is one and only one Product Owner (PO) and not so-called team POs
+* Explain the LeSS Complete diagram, organizing LeSS information in terms of the principles, rules, guides, and experiments
+* Explain how LeSS scales over ~8 teams
+* Know the location of major learning resources
+
+#### Application
+
+* Analyze your current organisations’ state
+* Evaluate the applicability of LeSS in your current work environment
+* Integration Goals
+* LeSS is Scrum.
+* What organisational impacts LeSS adoption may cause.
+* What impact would LeSS adoption make to participants’ work life.
+* LeSS is building on top of modern management thinking. Eg. Peter Senge, John Seddon, W. Edwards Deming, Taiichi Ohno, Richard Hackman, Robert Sutton and Jeffrey Pfeffer. The authors and practitioners of LeSS advocate understanding leading management thinkers and prevailing evidence in terms of management thinking, and participants are encouraged to continue learning post training.
+
+#### Human Dimensions
+
+* There is no blame. People’s behaviour is determined by the system they are in (managers have a responsibility to change the system).
+* What participants could or should learn about themselves
+* What is preventing them from influencing the organization they are currently in
+* What participants could or should learn about understanding others and/or interacting with them
+
+----
+----
+----
+
+## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
 ![image-right](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 * __Instructor: Craig Larman__
