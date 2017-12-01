@@ -126,8 +126,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 * There is no blame. People’s behaviour is determined by the system they are in (managers have a responsibility to change the system).
 * What participants could or should learn about themselves
-* What is preventing them from influencing the organization they are currently in
-* What participants could or should learn about understanding others and/or interacting with them
+* What is preventing participants from influencing the organization they are currently in
 
 ----
 ----
@@ -139,5 +138,99 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * __Instructor: Craig Larman__
 * __Price: $2,699.00 (group discounts available)__
 * __Early bird price: $2,299.00 (End Date: March 16, 2018)__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="LeSS registration") to register.__
+* __[Email MJ](mailto:mj@seattlescrum.com?subject="LeSS inquiry") or phone +1.206.769.5282 to inquire.__
 
 [Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
+
+{% include video id="yS55D2c5N_c" provider="youtube" %}
+
+Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more. 
+
+_(Course runs until 18:00 on day 3; for certification, full attendance required)_
+
+We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
+
+This course runs mostly as a series of _at giant whiteboards_ deep-thinking exercises involving systems modeling in small teams to explore why, so that people can _own_ the ideas by discovering them for themselves, rather than merely _renting_ the ideas. A focus on _why_ and _owning not renting_ are important elements of LeSS and how it's learned. Craig emphasizes this in the course learning experience.
+
+Join Larman for a deep dive into _more with LeSS_, based on his long experience with LeSS adoptions.
+
+Feedback from previous courses:
+> “It was inspiring to discuss Large-Scale Scrum with Craig Larman. The content of the course was top-notch.” – Steve Alexander
+>
+> “The delivery was outstanding and the supporting material vast and detailed.” – Simone Zecchi
+>
+> “The best course I have ever been on. Totally blown away.” – Simon Powers
+
+In addition to course material, each participant will also receive:
+
+1. _Large-Scale Scrum: More with LeSS_ (the third LeSS book)
+2. _Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum_ (the first LeSS book)
+
+{% include video id="I8MMV_bRaBc" provider="youtube" %}
+
+### CLP Learning Objectives
+
+#### LeSS Overview
+
+* descaling and simplifying over scaling: more with LeSS
+* LeSS principles, frameworks, guides, experiments
+* two LeSS frameworks: basic & LeSS Huge
+
+#### Adoption
+
+* pre-adoption: building interest
+* the adoption guides
+* 3 principles
+* getting started
+* scope of first adoption
+* stories of LeSS adoptions 
+
+#### Local Optimization & System Optimization 
+
+* local versus global systems optimization
+* local optimization in backlogs
+* local optimization in product definition
+* local optimization in planning
+* local optimization in in analysis & design
+* local optimization in programming
+
+#### Product Definition
+
+* redefining the scope of product, and the impact on global optimization
+* portfolio management
+
+#### Why LeSS?
+
+* shu-ha-ri and frameworks
+* empirical control
+* why "More with LeSS"?
+* systems optimization
+* occupational psychology
+
+#### LeSS Sprint
+
+* preparation before first Sprint
+* Sprint Planning with many teams
+* coordination & integration: from communities to architecture
+* scaling Product Backlog Refinement
+* scaling the Sprint Review & Retrospective
+* multi-site development
+
+#### LeSS Huge Framework
+
+* Requirement Areas
+* Area Product Owners
+* role of Overall Product Owner
+* Area Backlogs
+* adoption
+
+#### More on LeSS Roles
+
+* Managers in a LeSS organization
+* Scrum Masters at scale
+* Product Owner in LeSS
+
+### After course completion
+
+Every participant who completes the course will be registered as a Certified LeSS Practitioner on [less.works](http://less.works). Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
