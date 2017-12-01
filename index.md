@@ -138,7 +138,7 @@ Helping organizations adapt to ever-changing reality.
 ## Craig Larman brings LeSS (Large Scale Scrum) to Seattle 
 {: .text-center}
 
-We are honored to bring you Craig Larman's Certified LeSS Practitioner (CLP) class on April 16-18 2018.  LeSS is a framework for scaling agile development to multiple teams while *descaling* organizational complexity.  Your organization is hampered by localized optimizations and quick fixes.  The most common approaches to Scrum/Kanban/Agile actually make this problem *worse*.  The eye-opening CLP workshop is the best available training anywhere in the world about helping real organizations become adaptable.  
+We are honored to bring you Craig Larman's Certified LeSS Practitioner (CLP) class on April 16-18 2018.  LeSS is a framework for scaling agile development to multiple teams while *descaling* organizational complexity.  Your organization is hampered by localized optimizations and quick fixes.  The most common approaches to Scrum/Kanban/Agile actually make this problem *worse*.  The eye-opening CLP workshop is the best available training anywhere in the world about helping real organizations become adaptable.
 
 CLP participants are expected to already have CSM training or equivalent Scrum/Agile knowledge.  Please bring your manager, your Scrum Master, and your Agile Coach.
 
@@ -150,7 +150,7 @@ CLP participants are expected to already have CSM training or equivalent Scrum/A
 <div class="feature__item">
    <a href="education#certified-less-practitioner-principles-to-practices-clp">
    <div class="archive__item-teaser">
-      <img src="assets/images/clp.png" alt="" />
+      <img src="assets/images/CLP.png" alt="" />
    </div>
    <div class="archive__item-title">
       CLP Training
