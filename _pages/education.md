@@ -6,11 +6,12 @@ title: Education
 
 ----
 
-# CSM (Certified Scrum Master) Experience #
-
-__For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
-
 {% include toc %}
+
+# Certified Scrum Master Experience (CSM) #
+
+* __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
+* __Instructor: Michael James__
 
 ----
 The Certified Scrum Master (CSM) experience combines [six entertaining online preparation modules](http://ScrumTrainingSeries.com) with learning by doing in the classroom. The classroom activities are guided by Michael James, author of the Example ScrumMaster's Checklist (referenced in books by at least three other Scrum trainers) and the 6-page illustrated Scrum Reference Card.
@@ -76,3 +77,15 @@ Here’s what people are saying about the preparation work:
 
 --Donna in Nashville, TN
 
+----
+----
+----
+
+# Certified LeSS Practitioner: Principles to Practices (CLP) #
+
+![image-right](assets/images/CLP.png){: height="150px" width="150px" .align-right}
+* __Instructor: Craig Larman__
+* __Price: $2,699.00 (group discounts available)__
+* __Early bird price: $2,299.00 (End Date: March 16, 2018)__
+
+[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
