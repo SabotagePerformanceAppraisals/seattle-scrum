@@ -10,6 +10,7 @@ title: Education
 
 # Certified Scrum Master Experience (CSM) #
 
+![image-right](assets/images/CSM.png){: height="150px" width="150px" .align-right}
 * __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
 * __Instructor: Michael James__
 
