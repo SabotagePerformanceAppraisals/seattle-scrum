@@ -18,7 +18,7 @@ permalink: /calendar
 | Apr. 16-18 | Certified LeSS Practitioner[^1] | Seattle, WA | [inquire](mailto:tommi@seattlescrum.com?subject=April 16-18 CLP)
 
 ----
-[^1]: The Certified LeSS Practitioner (CLP) class is taught by [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6).
+[^1]: The Certified LeSS Practitioner (CLP) class is taught by [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6), though MJ can help you prepare for it.
 
 ----
 
