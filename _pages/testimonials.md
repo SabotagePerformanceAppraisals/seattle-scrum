@@ -3,6 +3,8 @@ title: Testimonials
 permalink: /testimonials
 ---
 
+![Testimonials](assets/images/Testimonials.svg){: .align-center height="50px" width="50px"}
+
 ----
 I've been studying and practicing Agile and Scrum for years, but never took the time to get certified. When my firm offered me the opportunity to do just that, I was kind of half-interested, thinking — I'll just attend a class, brush up on the Scrum Guide and get the test out of the way. Our team found MJ, who came highly recommended. I gotta say — I was pleasantly surprised. MJ got all the book work out of the way before the class even began, and our time was spent in creative, practical exercises that helped illuminate some of the finer points of Scrum and LeSS. MJ's insights and experience were peppered throughout, and these were worth the price of admission alone. MJ is thorough, opinionated and authoritative, but in the best ways. He backs up his strong opinions with unassailable logic and an appeal to our better natures. He really knows this stuff, and he comes from a place of deep respect and care for self-organizing teams of human beings rather than slavish adherence to a "methodology." I'm recommending MJ's class to all my colleagues, without hesitation.
 

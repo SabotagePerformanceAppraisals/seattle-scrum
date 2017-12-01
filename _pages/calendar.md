@@ -3,6 +3,8 @@ title: Calendar
 permalink: /calendar
 ---
 
+![Calendar](assets/images/Calendar.svg){: .align-center height="50px" width="50px"}
+
 Only prepared participants admitted. To inquire on how to prepare and register, please email tommi@seattlescrum.com
 
 | Dates       | Class         |   Location  | Register/Iquire
