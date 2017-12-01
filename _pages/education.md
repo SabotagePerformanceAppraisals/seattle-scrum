@@ -94,7 +94,7 @@ Here’s what people are saying about the preparation work:
 
 ![image-right](assets/images/CLB.png){: height="150px" width="150px" .align-right}
 
-[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while descaling organizational complexity.
+[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity.
 
 Certified LeSS Basics (CLB) is additional content typically integrated into a 3-day CSM class.
 
@@ -140,4 +140,4 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * __Price: $2,699.00 (group discounts available)__
 * __Early bird price: $2,299.00 (End Date: March 16, 2018)__
 
-[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
+[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
