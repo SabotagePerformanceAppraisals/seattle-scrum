@@ -94,7 +94,9 @@ Here’s what people are saying about the preparation work:
 
 ![image-right](assets/images/CLB.png){: height="150px" width="150px" .align-right}
 
-This is additional content typically integrated into a 3-day CSM class.
+[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while descaling organizational complexity.
+
+Certified LeSS Basics (CLB) is additional content typically integrated into a 3-day CSM class.
 
 ### CLB Learning Objectives
 
