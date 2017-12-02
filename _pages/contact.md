@@ -17,9 +17,9 @@ __Michael James (MJ)__ does the coaching, consulting, training, pair/mob program
 
 * [mj@seattlescrum.com](mailto:mj@seattlescrum.com?subject=Yo)
 * +1.206.769.5282
-* [https://www.linkedin.com/in/michaeljamesseattle/](https://www.linkedin.com/in/michaeljamesseattle/)
+* <https://www.linkedin.com/in/michaeljamesseattle/>
 
-__Chi Lu__ does bookkeeping and gets our training materials to your location. Don't call her. She'll call you.
+__Chi Lu__ mostly works behind the scenes. Don't call her. She'll call you.
 
 ----
 
