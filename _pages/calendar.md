@@ -7,7 +7,7 @@ permalink: /calendar
 
 ## Calendar
 
-| Dates       | Class         |   Location  | Price | Register/Inquire[^price]
+| Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Dec. 6-7 | Certified Scrum Master | Seattle, WA | $875/$1200 | [inquire](mailto:tommi@seattlescrum.com?subject=Dec 6-7 CSM)
 | Dec. 11-12 | Certified Scrum Master | Redmond, WA | $875/$1200 | [inquire](mailto:tommi@seattlescrum.com?subject=Dec 11-12 CSM)
