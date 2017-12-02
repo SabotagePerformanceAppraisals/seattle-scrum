@@ -12,7 +12,7 @@ title: Education
 
 ## Certified Scrum Master (CSM)
 
-![image-right](assets/images/CSM.png){: height="150px" width="150px" .align-right}
+![CSM](assets/images/CSM.png){: height="150px" width="150px" .align-right}
 * __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
 * __Instructor: Michael James__
 * __Dates, Locations, Prices: [see calendar](calendar)__
@@ -72,7 +72,7 @@ On successful completion of the course, you’ll receive
 
 ### Preparation
 
-![image-right](assets/images/brm.png){: .align-right}
+![preparation](assets/images/brm.png){: .align-right}
 
 Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the classroom days. Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class, so please contact your instructor for assistance if you have difficulty with the embedded quizzes.
 
@@ -98,7 +98,7 @@ Here’s what people are saying about the preparation work:
 
 ## Certified LeSS Basics (CLB)
 
-![image-right](assets/images/CLB.png){: height="150px" width="150px" .align-right}
+![CLB](assets/images/CLB.png){: height="150px" width="150px" .align-right}
 
 [Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity.
 
@@ -108,7 +108,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 #### Foundational Knowledge
 
-* Articulate why LeSS?
+* Explain why LeSS?
 * Explain how LeSS is a Scrum-based approach on scaling
 * Summarize what impact this has on the organisational design (structures, policies, etc.)
 * Explain the dynamics of component teams vs. feature teams
@@ -140,7 +140,8 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
-![image-right](assets/images/CLP.png){: height="150px" width="150px" .align-right}
+![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
+
 * __Instructor: Craig Larman__
 * __Price: $2,699.00 (group discounts available)__
 * __Early bird price: $2,299.00 (End Date: March 16, 2018)__
@@ -246,19 +247,19 @@ In addition to course material, each participant will also receive:
 
 ### After course completion
 
-Every participant who completes the course will be registered as a Certified LeSS Practitioner on [less.works](http://less.works). Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
+Every participant who completes the course will be registered as a Certified LeSS Practitioner on <http://less.works>. Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
 
 ----
 ![image-right](assets/images/MJ.png){: height="150px" width="150px" .align-right}
 
 ### Why MJ endorses Craig's class
 
-For many years, [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
-in a world of hyperbolic claims.  As _Agile_ has taken off as a buzzword, it's brought us a multi-billion dollar industry
-of fake agile.
-
-After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
-the _organizational design_, beyond just the team level.  Craig and Bas's work in LeSS specifically focuses on those difficult problems.
+> For many years, [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
+> in a world of hyperbolic claims.  As _Agile_ has taken off as a buzzword, it's brought us a multi-billion dollar industry
+> of fake agile.
+>
+> After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
+> the _organizational design_, the structures, policies, and management habits beyond just the team level.  Craig and Bas's work in LeSS specifically focuses on those difficult problems.
 
 {% include video id="cvz4364pC0g" provider="youtube" %}
 {% include video id="e7mzpKHOAHs" provider="youtube" %}
