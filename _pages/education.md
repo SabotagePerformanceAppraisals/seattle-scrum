@@ -15,6 +15,7 @@ title: Education
 ![CSM](assets/images/CSM.png){: height="150px" width="150px" .align-right}
 * __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
 * __Instructor: Michael James__
+* __8:59AM-5:01PM + optional/recommended Q&A after class__
 * __Dates, Locations, Prices: [see calendar](calendar)__
 
 ----
@@ -149,6 +150,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
 * __Instructor: Craig Larman__
+* __April 16-18, 2018 8:30AM-6:00PM__
 * __Price: $2,699.00 (group discounts available)__
 * __Early bird price: $2,299.00 (End Date: March 16, 2018)__
 * __[Email MJ](mailto:mj@seattlescrum.com?subject="LeSS inquiry") or phone +1.206.769.5282 to inquire.__
