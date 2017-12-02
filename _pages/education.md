@@ -75,16 +75,16 @@ Regardless of whether you have prior exposure to Scrum, the [free online prepara
 Here’s what people are saying about the preparation work:
 
 > I wish to express my thanks for your online scrum training videos. They succeed in introducing the concepts of scrum, without being too complicated for a beginner to understand.
-
---Josh at Ericsson
-
+>
+> --Josh at Ericsson
+>
 > I watched the Intro to Scrum video and it just made pure sense. I took the test as well and loved it, everything sank in first time around.
-
---Rich in Holden, MA
-
+>
+> --Rich in Holden, MA
+>
 > This series is FANTASTIC! It was entertaining, engaging and informative. I’m very new to SCRUM and this material was presented in a very logical, easy to understand manner. It’s such a logical framework and approach! In fact, I sent the link to all the PMs in my company (we’re implementing this approach to SDLC).
-
---Donna in Nashville, TN
+>
+> --Donna in Nashville, TN
 
 ----
 ----
@@ -138,8 +138,8 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * __Instructor: Craig Larman__
 * __Price: $2,699.00 (group discounts available)__
 * __Early bird price: $2,299.00 (End Date: March 16, 2018)__
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="LeSS registration") to register.__
 * __[Email MJ](mailto:mj@seattlescrum.com?subject="LeSS inquiry") or phone +1.206.769.5282 to inquire.__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="LeSS registration") to register.__
 
 [Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
 
@@ -156,11 +156,17 @@ This course runs mostly as a series of _at giant whiteboards_ deep-thinking exer
 Join Larman for a deep dive into _more with LeSS_, based on his long experience with LeSS adoptions.
 
 Feedback from previous courses:
-> “It was inspiring to discuss Large-Scale Scrum with Craig Larman. The content of the course was top-notch.” – Steve Alexander
+> “It was inspiring to discuss Large-Scale Scrum with Craig Larman. The content of the course was top-notch.”
 >
-> “The delivery was outstanding and the supporting material vast and detailed.” – Simone Zecchi
+> – Steve Alexander
 >
-> “The best course I have ever been on. Totally blown away.” – Simon Powers
+> “The delivery was outstanding and the supporting material vast and detailed.”
+>
+> – Simone Zecchi
+>
+> “The best course I have ever been on. Totally blown away.”
+>
+> – Simon Powers
 
 In addition to course material, each participant will also receive:
 
@@ -181,10 +187,10 @@ In addition to course material, each participant will also receive:
 
 * pre-adoption: building interest
 * the adoption guides
-* 3 principles
+* three principles
 * getting started
 * scope of first adoption
-* stories of LeSS adoptions 
+* stories of LeSS adoptions
 
 #### Local Optimization & System Optimization 
 
@@ -192,7 +198,7 @@ In addition to course material, each participant will also receive:
 * local optimization in backlogs
 * local optimization in product definition
 * local optimization in planning
-* local optimization in in analysis & design
+* local optimization in analysis & design
 * local optimization in programming
 
 #### Product Definition
@@ -234,3 +240,18 @@ In addition to course material, each participant will also receive:
 ### After course completion
 
 Every participant who completes the course will be registered as a Certified LeSS Practitioner on [less.works](http://less.works). Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
+
+----
+![image-right](assets/images/MJ.png){: height="150px" width="150px" .align-right}
+
+### Why MJ endorses Craig's class
+
+For many years, [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
+in a world of hyperbolic claims.  As _Agile_ has taken off as a buzzword, it's brought us a multi-billion dollar industry
+of fake agile.
+
+After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
+the _organizational design_, beyond just the team level.  Craig and Bas's work in LeSS specifically focuses on those difficult problems.
+
+{% include video id="cvz4364pC0g" provider="youtube" %}
+{% include video id="e7mzpKHOAHs" provider="youtube" %}
