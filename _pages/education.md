@@ -53,9 +53,11 @@ Topics covered primarily by team activities and examples (any lectures would be 
 * Case studies of common organizational impediments.
 * Case studies of successful and unsuccessful attempts to introduce Scrum/Agile to organizations.
 
-The class contains individual and group knowledge tests that precede the ScrumAlliance's online test.
+NOTE: Detailed Q&A and some advanced topics are handled after class. Consider allowing for the afterparty in your schedule.
+{: .notice}
 
-Better prepared groups are able to spend more time on the advanced topics.
+The class contains individual and group knowledge tests that precede the ScrumAlliance's online test.
+{: .notice--danger}
 
 ----
 
@@ -149,9 +151,10 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 {% include video id="yS55D2c5N_c" provider="youtube" %}
 
-Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more. 
+Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more.
 
-_(Course runs until 18:00 on day 3; for certification, full attendance required)_
+Course runs until 18:00 on Day 3. For certification, full participation is required.
+{: .notice--danger}
 
 We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
 
@@ -175,7 +178,7 @@ Feedback from previous courses:
 In addition to course material, each participant will also receive:
 
 1. _Large-Scale Scrum: More with LeSS_ (the third LeSS book)
-2. _Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum_ (the first LeSS book)
+1. _Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum_ (the first LeSS book)
 
 {% include video id="I8MMV_bRaBc" provider="youtube" %}
 
