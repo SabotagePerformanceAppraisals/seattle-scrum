@@ -22,7 +22,12 @@ permalink: /calendar
 
 ## Registration
 
-Out of thousands of participants in past years, the few we've had unsatisfying experiences with were those who realized too late in the training process that _Scrum and Agile are very different from what they've done before, even if they were calling it "Scrum."_  The preparation work is intended to get everyone mostly ready to pass the tests so that classroom activities can focus on more useful topics.  We seem to have improved everyone's outcomes by using the following unconventional registration process:
+Out of thousands of participants in past years, the few we've had unsatisfying experiences with were those who realized too late in the training process that _Scrum and Agile are very different from what they've done before, especially if they were calling it "Scrum."_
+
+WARNING: Scrum and Agile are very different from what you've done before, especially if you were calling it "Scrum."
+{: .notice--danger}
+
+The preparation work is intended to get everyone mostly ready to pass the tests so that classroom activities can focus on more useful topics.  We seem to have improved everyone's outcomes by using the following unconventional registration process:
 
 1. Please [email Tommi](mailto:tommi@seattlescrum.com?subject=training) about the class you're interested in.  The email links above are provided for your convenience.
 1. Tommi will send details, answer questions, and ask you to confirm you're able to make time to complete the preparation work ([six e-learning modules with embedded quizzes](http://ScrumTrainingSeries.com)), will be able to control your phone texting addiction, etc.
