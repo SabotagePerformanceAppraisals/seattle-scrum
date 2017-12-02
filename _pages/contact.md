@@ -19,6 +19,7 @@ __Michael James (MJ)__ does the coaching, consulting, training, pair/mob program
 * +1.206.769.5282
 * <https://www.linkedin.com/in/michaeljamesseattle/>
 
+----
 __Chi Lu__ mostly works behind the scenes. Don't call her. She'll call you.
 
 ----
