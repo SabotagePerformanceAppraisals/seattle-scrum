@@ -74,7 +74,13 @@ On successful completion of the course, you’ll receive
 
 ![preparation](assets/images/brm.png){: .align-right}
 
-Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the classroom days. Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class, so please contact your instructor for assistance if you have difficulty with the embedded quizzes.
+Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the classroom days.
+{: .notice--danger}
+
+Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class.
+
+Please [contact MJ](mailto:mj@seattlescrum.com) for assistance if you have difficulty answering the embedded quizzes.
+{: .notice}
 
 Here’s what people are saying about the preparation work:
 
