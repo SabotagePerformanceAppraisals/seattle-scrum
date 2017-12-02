@@ -70,7 +70,9 @@ On successful completion of the course, you’ll receive
 
 ### Preparation
 
-Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the three classroom days. Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class, so please contact your instructor for assistance if you have difficulty with the embedded quizzes.
+![image-right](assets/images/brm.png){: .align-right}
+
+Regardless of whether you have prior exposure to Scrum, the [free online preparation work](http://ScrumTrainingSeries.com) must be completed before the classroom days. Absorbing the vocabulary and basics of Scrum before the classroom activities helps ensure the best team learning experience for all participants. Your understanding of the preparation work will be measured during the class, so please contact your instructor for assistance if you have difficulty with the embedded quizzes.
 
 Here’s what people are saying about the preparation work:
 
@@ -85,6 +87,8 @@ Here’s what people are saying about the preparation work:
 > This series is FANTASTIC! It was entertaining, engaging and informative. I’m very new to SCRUM and this material was presented in a very logical, easy to understand manner. It’s such a logical framework and approach! In fact, I sent the link to all the PMs in my company (we’re implementing this approach to SDLC).
 >
 > --Donna in Nashville, TN
+
+![class photo](assets/images/NYC-class-photo.jpg)
 
 ----
 ----
