@@ -53,7 +53,7 @@ Topics covered primarily by team activities and examples (any lectures would be 
 * Case studies of common organizational impediments.
 * Case studies of successful and unsuccessful attempts to introduce Scrum/Agile to organizations.
 
-NOTE: Detailed Q&A and some advanced topics are handled after class. Consider allowing for the afterparty in your schedule.
+Detailed Q&A and some advanced topics are handled after class. Consider allowing for the afterparty in your schedule!
 {: .notice}
 
 The class contains individual and group knowledge tests that precede the ScrumAlliance's online test.
@@ -160,7 +160,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more.
 
-Course runs until 18:00 on Day 3. For certification, full participation is required.
+Course runs until 18:00 on Day 3. Full participation is required for certification.
 {: .notice--danger}
 
 We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
