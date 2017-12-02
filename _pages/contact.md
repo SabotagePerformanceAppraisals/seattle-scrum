@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact
 ---
 
-![Contact Us](assets/images/contact.svg){: .align-center height="50px" width="50px"}
+![Contact Us](assets/images/Contact.svg){: .align-center height="50px" width="50px"}
 
 __Tommi Johnstone__ runs The Seattle Scrum Company.  Please email her for course registration, pricing, payment, logistics questions, and scheduling:
 * [tommi@seattlescrum.com](mailto:tommi@seattlescrum.com?subject=Contact)
