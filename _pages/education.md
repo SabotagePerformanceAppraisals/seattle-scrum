@@ -261,12 +261,13 @@ Every participant who completes the course will be registered as a Certified LeS
 
 ### Why MJ endorses Craig's class
 
-> For many years, [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
-> in a world of hyperbolic claims.  As _Agile_ has taken off as a buzzword, it's brought us a multi-billion dollar industry
-> of fake agile.
+> As "Agile" has taken off as a buzzword, it's brought us a multi-billion dollar industry
+> of fake agile, hybrids, and quick fixes that just make things worse.  Even before Agile was a thing,
+> [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
+> in a world of hyperbolic claims.  He works "C to C" -- helping people from the embedded C developer all the way down to the CEO.
 >
 > After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
-> the _organizational design_, the structures, policies, and management habits beyond just the team level.  Craig and Bas's work in LeSS specifically focuses on those difficult problems.
+> the __organizational design__, the structures, policies, and management habits beyond just the team level.  Craig and Bas's work in LeSS debunks the hype and focuses on those difficult problems.
 
 {% include video id="cvz4364pC0g" provider="youtube" %}
 {% include video id="e7mzpKHOAHs" provider="youtube" %}
