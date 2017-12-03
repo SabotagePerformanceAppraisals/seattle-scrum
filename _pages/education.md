@@ -161,7 +161,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more.
 
-Course runs until 18:00 on Day 3. Full participation is required for certification.
+Course runs until 18:00 on all days, including Day 3. Full attendance and participation is required for certification.
 {: .notice--danger}
 
 We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
@@ -269,5 +269,10 @@ Every participant who completes the course will be registered as a Certified LeS
 > After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
 > the __organizational design__, the structures, policies, and management habits beyond just the team level.  Craig and Bas's work in LeSS debunks the hype and focuses on those difficult problems.
 
+### Intro to LeSS Complete Picture - 3 minute video
+
 {% include video id="cvz4364pC0g" provider="youtube" %}
+
+### Intro to LeSS Framework - 7 minute video
+
 {% include video id="e7mzpKHOAHs" provider="youtube" %}
