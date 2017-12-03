@@ -25,9 +25,27 @@ title: Coaching and Consulting
 >
 > Eventually I had the opportunity to learn __systems thinking__ from [Jerry Weinberg](https://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8) and developed the habit of looking at the
 bigger picture.
+>
+> Below I am listing some example coaching and consulting services we offer:
 
 ## Informed Consent Workshop
 
+The best outcomes I've been involved with were both _top down_ and _bottom up_.  Agility is
+a greater opportunity and challenge for the entire organization than training sponsors often
+realize at first.  Let's get together with a cross section of senior management, HR, developers,
+and intermediate (e.g. project/program) managers and discuss the likely implications for your
+organization.
 
+## Team Retrospective Facilitation
+
+## Overall Retrospective Facilitation
 
 ![Coaching Impediments](assets/images/coaching-impediments.jpg){: .align-center width="70%"}
+
+## Initial Product Backlog Refinement
+
+## Team Self Designing Workshop
+
+## Current Architecture Workshop
+
+## Mob Programming Facilitation
