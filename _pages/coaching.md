@@ -30,9 +30,13 @@ bigger picture.
 
 ## Informed Consent Workshop
 
-The best outcomes we've been involved with were both _top down_ and _bottom up_.  Agility is
-a greater opportunity and challenge for the entire organization than training sponsors often
-realize at first.  Let's get together with a cross section of senior management, HR, developers,
+The best outcomes we've been involved with were both _top down_ and _bottom up_.
+
+Agility is a greater opportunity and challenge for the entire organization than training sponsors
+realize at first.
+{: .notice}
+
+Let's get together with a cross section of senior management, HR, developers,
 and intermediate (e.g. project/program) managers and discuss the likely implications for your
 organization.
 
