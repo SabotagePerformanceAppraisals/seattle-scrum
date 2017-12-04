@@ -61,12 +61,19 @@ separate (Team) Sprint Retrospectives with a cross-team
 entire product development system. A neutral outsider can use systems modeling, casual loop diagramming, and 
 large group facilitation techniques to help make these discussions productive.
 
-## Initial Product Backlog Refinement
+## Other Services -- Please inquire about:
 
-## Team Self Designing Workshop
+* Initial Product Backlog Refinement
 
-## Current Architecture Workshop
+* Team Self Designing Workshop
 
-## Mob Programming Facilitation
+* Current Architecture Workshop
 
+* Mob Programming Facilitation
+
+* Code Smells Workshop
+
+\\
+\\
+----
 ![Coaching Impediments](assets/images/coaching-impediments.jpg){: .align-center width="70%"}
