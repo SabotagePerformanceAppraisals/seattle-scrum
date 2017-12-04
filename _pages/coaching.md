@@ -30,21 +30,36 @@ bigger picture.
 
 ## Informed Consent Workshop
 
-The best outcomes we've been involved with were both _top down_ and _bottom up_.
+The best Agile adoptions we've been involved with were both _top down_ and _bottom up_.
 
 Agility is a greater opportunity and challenge for the entire organization than training sponsors
 realize at first.
-{: .notice}
+{: .notice--danger}
 
 Let's get together with a cross section of senior management, HR, developers,
 and intermediate (e.g. project/program) managers and discuss the likely implications for your
 organization.
 
-## Team Retrospective Facilitation
+## (Team) Sprint Retrospective Facilitation
+
+According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/0787947237), a facilitator should be
+
+1. acceptable to all members of the group,
+1. substantively neutral, and
+1. not have substantive decision making authority.
+
+Schwarz writes that _the facilitator can meet these three criteria only if he or she is not a group member_.
+While we would like you to develop these capabilities internally (e.g. with full-time Scrum Masters), in the
+beginning or at crucial times it can be better to enlist outside help.
 
 ## Overall Retrospective Facilitation
 
-![Coaching Impediments](assets/images/coaching-impediments.jpg){: .align-center width="70%"}
+When more than one team works on a product, they are more likely to develop a _whole product view_ by following their
+separate (Team) Sprint Retrospectives with a cross-team
+[Overall Retrospective](https://less.works/less/framework/overall-retrospective.html). This is for team members
+(or representative samples of them), Scrum Masters, the Product Owner, and management to inspect and adapt the
+entire product development system. A neutral outsider can use systems modeling, casual loop diagramming, and 
+large group facilitation techniques to help make these discussions productive.
 
 ## Initial Product Backlog Refinement
 
@@ -53,3 +68,5 @@ organization.
 ## Current Architecture Workshop
 
 ## Mob Programming Facilitation
+
+![Coaching Impediments](assets/images/coaching-impediments.jpg){: .align-center width="70%"}
