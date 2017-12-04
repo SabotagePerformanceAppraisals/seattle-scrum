@@ -4,10 +4,10 @@ main:
     url: /education
   - title: "Coaching"
     url: /coaching
-  - title: "Resources"
-    url: /resources
-  - title: "Articles"
-    url: /articles
+#  - title: "Resources"
+#    url: /resources
+#  - title: "Articles"
+#    url: /articles
   - title: "Testimonials"
     url: /testimonials
   - title: "Calendar"

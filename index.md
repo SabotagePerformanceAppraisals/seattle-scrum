@@ -65,7 +65,7 @@ Helping organizations adapt to ever-changing reality.
 </div>
 
 <div class="feature__item">
-   <a href="http://Netflix.com">
+   <a href="coaching">
    <div class="archive__item-teaser">
       <img src="assets/images/Agile-coaching.svg" alt="" />
    </div>
@@ -75,7 +75,7 @@ Helping organizations adapt to ever-changing reality.
    </a>
 </div>
   
-    <div class="feature__item">
+    <!-- <div class="feature__item">
 		  <a href="http://Netflix.com">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-resources.svg" alt="" />
@@ -96,7 +96,7 @@ Helping organizations adapt to ever-changing reality.
         </div>
 		  </a>
     </div>
-  
+   -->
     <div class="feature__item">
 		  <a href="testimonials">
           <div class="archive__item-teaser">

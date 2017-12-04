@@ -3,7 +3,7 @@ title: Calendar and Registration
 permalink: /calendar
 ---
 
-![Calendar](assets/images/Calendar.svg){: .align-center height="50px" width="50px"}
+----
 
 ## Calendar
 

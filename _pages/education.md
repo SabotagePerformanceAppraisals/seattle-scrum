@@ -3,8 +3,6 @@ permalink: /education
 title: Education
 ---
 
-![Agile Education](assets/images/Agile-education.svg){: .align-center height="50px" width="50px"}
-
 ----
 
 {% include toc %}

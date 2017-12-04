@@ -3,7 +3,7 @@ permalink: /coaching
 title: Coaching and Consulting
 ---
 
-![image-right](assets/images/MJ.png){: height="150px" width="150px" .align-right}
+![image-right](assets/images/MJ.png){: height="130px" width="130px" .align-right}
 
 > In the early 2000s I was a developer in a small company that had learned a lot about doing
 > Scrum and the related technical practices. We discovered one of our product customers was a local
