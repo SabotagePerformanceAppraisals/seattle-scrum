@@ -9,7 +9,6 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Dec. 6-7 | Certified Scrum Master | Seattle, WA | $875/$1200 | [inquire](mailto:tommi@seattlescrum.com?subject=Dec 6-7 CSM)
 | Dec. 11-12 | Certified Scrum Master | Redmond, WA | $875/$1200 | [inquire](mailto:tommi@seattlescrum.com?subject=Dec 11-12 CSM)
 | Jan. 25-26 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Jan 25-26 CSM)
 | Feb. 17-19 | Certified Scrum Master + Certified LeSS Basics |  Seattle, WA | $875/$1200 | [inquire](mailto:tommi@seattlescrum.com?subject=Feb 17-19 CSM+CLB)
