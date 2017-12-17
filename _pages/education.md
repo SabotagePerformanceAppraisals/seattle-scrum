@@ -13,7 +13,7 @@ title: Education
 * __For executives, managers, consultants, Product Owners, ScrumMasters, and team members__
 * __Instructor: Michael James__
 * __8:59AM-5:01PM + optional/recommended Q&A after class__
-* __Dates, Locations, Prices: [see calendar](calendar)__
+* __Dates, Locations, Prices, Registration: [see calendar](calendar)__
 
 ----
 Our Certified Scrum Master (CSM) experience combines [six entertaining online preparation modules](http://ScrumTrainingSeries.com) with learning by doing in the classroom. The classroom activities are guided by Michael James, author of the Example ScrumMaster's Checklist (referenced in books by at least three other Scrum trainers) and the 6-page illustrated Scrum Reference Card.
