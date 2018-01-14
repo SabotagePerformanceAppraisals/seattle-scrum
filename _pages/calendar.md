@@ -17,7 +17,7 @@ permalink: /calendar
 
 ----
 
-Seattle Scrum Company has never cancelled a class.
+_Seattle Scrum Company has never cancelled a class._
 
 ----
 
