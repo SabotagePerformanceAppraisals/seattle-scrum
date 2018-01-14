@@ -23,8 +23,10 @@ title: Coaching and Consulting
 > "Product Owners" and "Product Backlogs" didn't look any better than traditional waterfall development
 > to us. The organization did not become more adaptable and today they continue to lose market share.
 >
-> Eventually I had the opportunity to learn __systems thinking__ from [Jerry Weinberg](https://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8) and developed the habit of looking at the
-bigger picture.
+> Eventually I had the opportunity to learn __systems thinking__ from [Jerry Weinberg](https://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8), 
+> and large scale development from Bas Vodde and Craig Larman.  Now my focus is on the whole system.
+> There is very little point in one team "doing Scrum" (or XP, Kanban, etc.) without changing the
+> larger context the team works in.
 >
 > Below I am listing some example coaching and consulting services we offer:
 
