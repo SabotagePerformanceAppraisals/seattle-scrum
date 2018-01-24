@@ -127,9 +127,9 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * Analyze your current organisations’ state
 * Evaluate the applicability of LeSS in your current work environment
 * Integration Goals
-* LeSS is Scrum.
-* What organisational impacts LeSS adoption may cause.
-* What impact would LeSS adoption make to participants’ work life.
+* LeSS is Scrum
+* What organisational impacts LeSS adoption may cause
+* What impact would LeSS adoption make to participants’ work life
 * LeSS is building on top of modern management thinking. Eg. Peter Senge, John Seddon, W. Edwards Deming, Taiichi Ohno, Richard Hackman, Robert Sutton and Jeffrey Pfeffer. The authors and practitioners of LeSS advocate understanding leading management thinkers and prevailing evidence in terms of management thinking, and participants are encouraged to continue learning post training.
 
 #### Human Dimensions
@@ -165,7 +165,7 @@ Course runs until 18:00 on all days, including Day 3. Full attendance and partic
 
 We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
 
-This course runs mostly as a series of _at giant whiteboards_ deep-thinking exercises involving systems modeling in small teams to explore why, so that people can _own_ the ideas by discovering them for themselves, rather than merely _renting_ the ideas. A focus on _why_ and _owning not renting_ are important elements of LeSS and how it's learned. Craig emphasizes this in the course learning experience.
+This course runs mostly _at giant whiteboards_ as a series of deep-thinking exercises involving systems modeling in small teams to explore why, so that people can _own_ the ideas by discovering them for themselves, rather than merely _renting_ the ideas. A focus on _why_ and _owning not renting_ are important elements of LeSS and how it's learned. Craig emphasizes this in the course learning experience.
 
 Join Larman for a deep dive into _more with LeSS_, based on his long experience with LeSS adoptions.
 
