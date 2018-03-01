@@ -85,9 +85,9 @@ Helping organizations adapt to ever-changing reality.
         </div>
 		  </a>
     </div>
-  
+   -->  
     <div class="feature__item">
-		  <a href="http://Netflix.com">
+		  <a href="articles">
           <div class="archive__item-teaser">
             <img src="assets/images/Agile-articles.svg" alt="" />
           </div>
@@ -96,7 +96,7 @@ Helping organizations adapt to ever-changing reality.
         </div>
 		  </a>
     </div>
-   -->
+
     <div class="feature__item">
 		  <a href="testimonials">
           <div class="archive__item-teaser">

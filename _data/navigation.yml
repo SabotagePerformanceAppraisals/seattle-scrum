@@ -6,8 +6,8 @@ main:
     url: /coaching
 #  - title: "Resources"
 #    url: /resources
-#  - title: "Articles"
-#    url: /articles
+  - title: "Articles"
+    url: /articles
   - title: "Testimonials"
     url: /testimonials
   - title: "Calendar"
