@@ -1,8 +1,20 @@
 ---
 ---
 
+
+BACKGROUND: It is nearly always better to organize into cross-component *feature teams* that aren't
+restricted (by policy or skills) to a single architectural layer or design component. But transitioning
+from component teams to feature teams usually isn't simple or easy.  Here's an interesting discussion
+I recently had on this topic.
+
+----
+
+![Feature Teams](/assets/images/feature-teams.png)
+
+----
+
 PERSON A:
-> I'm trying to solidify the feature vs component team in my head and by extension requirement areas (i'm thinking less/less huge). I understand that feature-teams are structured to implement features deliver value to the customer, but I'm lacking concrete examples. I can understand component teams focused only on database structure, only UI/UX, only business logic is sub-optimal.
+> I'm trying to solidify the feature vs component team in my head and by extension requirement areas (I'm thinking LeSS/LeSS Huge). I understand that feature-teams are structured to implement features deliver value to the customer, but I'm lacking concrete examples. I can understand component teams focused only on database structure, only UI/UX, only business logic is sub-optimal.
 > 
 > Take the example of a commerce system. A core feature is placing an order. Placing an order requires pricing the products, cart management, application of promotions, submission of the order, payment capture, tax, etc. The key act of placing an order requires all of these (at least to some extent, without debating what's MVP) to enable a transaction for the customer, though each piece has some customer value, and there can be deep complexity within each.
 >
