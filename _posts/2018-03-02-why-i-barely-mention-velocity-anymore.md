@@ -9,3 +9,11 @@ Larger organizations struggle even more with the transparency that’s needed fo
 FBI Sentinel is often cited as an agile success story, and mostly it was.  The part of the story that wasn't told in the *Twice The Hype* books is that real users tried to use it around Sprint 10. And it fell over because it wasn’t until then they discovered their definition of *done* was weak around testing.  So let’s talk more about full testing, less about velocity.
 
 ![FBI Sentinel Burndown](/assets/images/Sentinel-Burndown.png)
+
+QUESTION:
+> How do you help companies transition from a “need-to-know-the-date” to “don’t-have-to-answer” mindset?
+
+MJ:
+> In general the industry trend is toward releasing more frequently.  Keeping the product *always shippable* lends itself to this.  So fixed dates shouldn’t be so scary when our technical practices are right, even if we leave out some lower-valued features because we found higher-valued features along the way.
+>
+> I won’t say forecasting has zero value, but in real practice there are bigger problems to solve than just that.  When's the last time your release plan was accurate?
