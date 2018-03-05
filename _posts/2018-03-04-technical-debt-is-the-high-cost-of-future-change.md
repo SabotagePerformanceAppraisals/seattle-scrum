@@ -7,8 +7,10 @@ I don't think I've met a programmer who wakes up saying "I can't wait to get to 
 Some developers have discovered they can prevent the code from deteriorating with a combination of techniques:
 
 1. Write automated tests to validate the product code at the same rate the product code emerges.  In Scrum, those tests are a team responsibility, not just a miniature QA department within the team.  Therefore tests should be written in a normal programming language, ideally the same language as the product itself, rather than proprietary scripting languages that reenforce knowledge silos and handoffs. Some teams find it best to write a test *before* writing the product code it will exercise.  In practice this will mean more lines of test code than product code. Most tests should execute in milliseconds. It's good to also have a few end-to-end tests, which may not run as fast.
-1. Avoid coding alone. Code in pairs or small groups. Rotate control of the keyboard every few minutes. When you are the *driver*, only type code that's suggested by a *navigator*.
+1. Avoid coding alone. Code in pairs or [small groups](https://www.youtube.com/watch?v=p_pvslS4gEI) on a huge shared screen. Rotate control of the keyboard every few minutes. When you are the *driver*, only type code that's suggested by a *navigator*.
 1. Refactor mercilessly. By refactor, we mean improve the design of existing code -- usually by simplification -- *without changing its externally-observable behavior*. How do we know we're preserving behavior? With our automated tests.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/p_pvslS4gEI?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Does this sound expensive to you? While it takes time to learn, I think you'll find it cheaper and faster than what you're doing now.
 
