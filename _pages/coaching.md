@@ -32,15 +32,22 @@ title: Coaching and Consulting
 
 ## Informed Consent Workshop
 
+The most common complaint we hear in trainings is "Why isn't my manager in this class?"  At least
+one third of the challenges that participants raise in training are things we'd like management's
+help with.
+
 The best Agile adoptions we've been involved with were both _top down_ and _bottom up_.
 
-Agility is a greater opportunity and challenge for the entire organization than training sponsors
+WARNING: Agility is a greater opportunity -- and greater challenge -- for the entire organization than training sponsors
 realize at first.
 {: .notice--danger}
 
-Let's get together with a cross section of senior management, HR, developers,
-and intermediate (e.g. project/program) managers and discuss the likely implications for your
-organization.
+The informed consent workshop is a get together with a cross section of senior management, HR, 
+developers, and intermediate managers (e.g. program managers, project managers, department heads). 
+We will discuss current pain points, what's gone wrong with previous improvement initiatives, what
+pitfalls and setbacks are likely ... all the icky stuff. Bring samples of your source code if you
+like.  Please be prepared to discuss what you want to optimize your organization for, and what you 
+think your organization must give up to move toward that optimization goal.
 
 ## (Team) Sprint Retrospective Facilitation
 
