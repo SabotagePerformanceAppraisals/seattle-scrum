@@ -5,7 +5,7 @@ title: Coaching and Consulting
 
 ![MJ-agile-coach](assets/images/MJ.png){: height="130px" width="130px" .align-right}
 
-> In the early 2000s I was a developer in a small company that had learned a lot about doing
+> In the early 2000s (after a couple decades of waterfall) I was a developer in a small company that had learned a lot about doing
 > Scrum and the related technical practices. We discovered one of our product customers was a local
 > organization with multiple teams struggling to do Scrum.  So we visited them, observed how they
 > worked, mob programmed with them, and eventually made some subtle suggestions that seemed to make
@@ -33,7 +33,7 @@ title: Coaching and Consulting
 > There is very little point in one team "doing Scrum" (or XP, Kanban, etc.) without changing the
 > larger context the team works in.
 >
-> Below I am listing some example coaching and consulting services we offer:
+> Below I am listing example coaching and consulting services we offer:
 
 ----
 
