@@ -5,6 +5,8 @@ title: Coaching and Consulting
 
 ![MJ-agile-coach](assets/images/MJ.png){: height="130px" width="130px" .align-right}
 
+{% include toc %}
+
 > In the early 2000s (after a couple decades of waterfall) I was a developer in a small company that had learned a lot about doing
 > Scrum and the related technical practices. We discovered one of our product customers was a local
 > organization with multiple teams struggling to do Scrum.  So we visited them, observed how they
