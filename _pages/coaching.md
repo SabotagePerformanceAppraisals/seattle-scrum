@@ -3,7 +3,7 @@ permalink: /coaching
 title: Coaching and Consulting
 ---
 
-![image-right](assets/images/MJ.png){: height="130px" width="130px" .align-right}
+![MJ-agile-coach](assets/images/MJ.png){: height="130px" width="130px" .align-right}
 
 > In the early 2000s I was a developer in a small company that had learned a lot about doing
 > Scrum and the related technical practices. We discovered one of our product customers was a local
@@ -23,12 +23,19 @@ title: Coaching and Consulting
 > "Product Owners" and "Product Backlogs" didn't look any better than traditional waterfall development
 > to us. The organization did not become more adaptable and today they continue to lose market share.
 >
+> A year or so later I coached the development organization of a popular online store and noticed the 
+> Scrum Masters seemed oblivious to the organizational improvement opportunities all around them.
+> I wrote the [Scrum Master Checklist](http://scrummasterchecklist.org) for them. Evidently it was
+> useful for lots of people, as volunteers have translated it into a dozen languages.
+>
 > Eventually I had the opportunity to learn __systems thinking__ from [Jerry Weinberg](https://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8), 
 > and large scale development from Bas Vodde and Craig Larman.  Now my focus is on the whole system.
 > There is very little point in one team "doing Scrum" (or XP, Kanban, etc.) without changing the
 > larger context the team works in.
 >
 > Below I am listing some example coaching and consulting services we offer:
+
+----
 
 ## Informed Consent Workshop
 
@@ -49,7 +56,14 @@ pitfalls and setbacks are likely ... all the icky stuff. Bring samples of your s
 like.  Please be prepared to discuss what you want to optimize your organization for, and what you 
 think your organization must give up to move toward that optimization goal.
 
+![Caterpillar wants to be a butterfly](assets/images/caterpillar-wants-to-be-a-butterfly.png){: .align-center}
+
+----
+
 ## (Team) Sprint Retrospective Facilitation
+
+Whether your methods are influenced by Scrum, Kanban, XP, waterfall, LeSS, or all/none of the above, 
+we want teams to *own* their processes and methods, not *rent* them.
 
 According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/0787947237), a facilitator should be
 
@@ -58,8 +72,12 @@ According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehe
 1. not have substantive decision making authority.
 
 Schwarz writes that _the facilitator can meet these three criteria only if he or she is not a group member_.
-While we would like you to develop these capabilities internally (e.g. with full-time Scrum Masters), in the
-beginning or at crucial times it can be better to enlist outside help.
+While we would like you to eventually develop these capabilities internally (e.g. with full-time Scrum Masters), in the
+beginning or at crucial times it can be better to enlist outside help.  This is a cost-effective
+option for teams that do not need a full-time coach.
+![Team Sprint Retrospective](assets/images/team-sprint-retrospective.png){: .align-center}
+
+----
 
 ## Overall Retrospective Facilitation
 
@@ -70,9 +88,22 @@ separate (Team) Sprint Retrospectives with a cross-team
 entire product development system. A neutral outsider can use systems modeling, casual loop diagramming, and 
 large group facilitation techniques to help make these discussions productive.
 
-## Other Services -- Please inquire about:
+![overall-retrospective](assets/images/overall-retrospective.png){: .align-center width="70%"}
 
-* Initial Product Backlog Refinement
+----
+
+## Product Backlog Refinement (aka. Backlog Grooming) Facilitation
+
+Organizations struggle to capture user needs in their product backlogs in ways that
+lend themselves to adaptability, reduced work-in-progress (WIP), and short schedules.
+Are you struggling with user stories, epics, traditional requirements, and dependencies?
+We can help you identify *thin vertical slices* of customer value work.
+
+![product-backlog-refinement.png](assets/images/product-backlog-refinement.png){: .align-center}
+
+----
+
+## Other Services -- Please inquire about:
 
 * Team Self Designing Workshop
 
