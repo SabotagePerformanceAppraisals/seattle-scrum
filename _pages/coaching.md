@@ -65,6 +65,11 @@ think your organization must give up to move toward that optimization goal.
 Whether your methods are influenced by Scrum, Kanban, XP, waterfall, LeSS, or all/none of the above, 
 we want teams to *own* their processes and methods, not *rent* them.
 
+An effective retrospective -- one that leads to shared understanding and durable agreements -- allows
+sufficient discussion of objective questions, reflective questions, introspective questions before
+moving into decisional questions.  An effective facilitator is a skillful listener who creates 
+space for viewpoints from the entire group, not only the most confident.
+
 According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/0787947237), a facilitator should be
 
 1. acceptable to all members of the group,
@@ -72,9 +77,12 @@ According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehe
 1. not have substantive decision making authority.
 
 Schwarz writes that _the facilitator can meet these three criteria only if he or she is not a group member_.
-While we would like you to eventually develop these capabilities internally (e.g. with full-time Scrum Masters), in the
+
+
+While we would like you to eventually develop facilitation capabilities internally (e.g. with 
+your own Scrum Masters), in the
 beginning or at crucial times it can be better to enlist outside help.  This is a cost-effective
-option for teams that do not need a full-time coach.
+option for situations that do not need a full-time coach.
 ![Team Sprint Retrospective](assets/images/team-sprint-retrospective.png){: .align-center}
 
 ----
@@ -85,7 +93,7 @@ When more than one team works on a product, they are more likely to develop a _w
 separate (Team) Sprint Retrospectives with a cross-team
 [Overall Retrospective](https://less.works/less/framework/overall-retrospective.html). This is for team members
 (or representative samples of them), Scrum Masters, the Product Owner, and management to inspect and adapt the
-entire product development system. A neutral outsider can use systems modeling, casual loop diagramming, and 
+entire product development system. A neutral outsider can use systems modeling, causal loop diagramming, and 
 large group facilitation techniques to help make these discussions productive.
 
 ![overall-retrospective](assets/images/overall-retrospective.png){: .align-center width="70%"}
