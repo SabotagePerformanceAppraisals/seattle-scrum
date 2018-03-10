@@ -55,8 +55,8 @@ The informed consent workshop is a get together with a cross section of senior m
 developers, and intermediate managers (e.g. program managers, project managers, department heads). 
 We will discuss current pain points, what's gone wrong with previous improvement initiatives, what
 pitfalls and setbacks are likely ... all the icky stuff. Bring samples of your source code if you
-like.  Please be prepared to discuss what you want to optimize your organization for, and what you 
-think your organization must give up to move toward that optimization goal.
+like.  Please be prepared to discuss what you want to optimize your organization for, what you
+want to keep, and what you think your organization must give up to move toward that optimization goal.
 
 ![Caterpillar wants to be a butterfly](assets/images/caterpillar-wants-to-be-a-butterfly.png){: .align-center}
 
@@ -69,7 +69,7 @@ we want teams to *own* their processes and methods, not *rent* them.
 
 An effective retrospective -- one that leads to shared understanding and durable agreements -- allows
 sufficient discussion of objective questions, reflective questions, introspective questions before
-moving into decisional questions.  An effective facilitator is a skillful listener who creates 
+moving into decisional questions (ORID).  An effective facilitator is a skillful listener who creates 
 space for viewpoints from the entire group, not only the most confident.
 
 According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehensive-Consultants-Facilitators/dp/0787947237), a facilitator should be
@@ -79,7 +79,6 @@ According to [Roger Schwarz](https://www.amazon.com/Skilled-Facilitator-Comprehe
 1. not have substantive decision making authority.
 
 Schwarz writes that _the facilitator can meet these three criteria only if he or she is not a group member_.
-
 
 While we would like you to eventually develop facilitation capabilities internally (e.g. with 
 your own Scrum Masters), in the
@@ -106,8 +105,8 @@ large group facilitation techniques to help make these discussions productive.
 
 Organizations struggle to capture user needs in their product backlogs in ways that
 lend themselves to adaptability, reduced work-in-progress (WIP), and short schedules.
-Are you struggling with user stories, epics, traditional requirements, and dependencies?
-We can help you identify *thin vertical slices* of customer value work.
+Are you struggling with user stories, epics, traditional requirements, estimation, and
+dependencies? We can help you identify *thin vertical slices* of customer value work.
 
 ![product-backlog-refinement.png](assets/images/product-backlog-refinement.png){: .align-center}
 
