@@ -10,7 +10,7 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Mar. 22-23 | Certified Scrum Master | Seattle, WA (U-Dist)| $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=March 22-23 CSM)
-| Apr. 12-13 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=April 12-13 CSM)
+| Apr. 11-12 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=April 11-12 CSM)
 | Apr. 16-18 | Certified LeSS Practitioner with Craig Larman | Seattle, WA (U-Dist)| $2299/$2699[^group] |[inquire](mailto:tommi@seattlescrum.com?subject=April 16-18 CLP)
 | May 2-3 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 3-4 CSM)
 
