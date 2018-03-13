@@ -14,19 +14,19 @@ I recently had on this topic.
 ----
 
 PERSON A:
-> I'm trying to solidify the feature vs component team in my head and by extension requirement areas (I'm thinking LeSS/LeSS Huge). I understand that feature-teams are structured to implement features deliver value to the customer, but I'm lacking concrete examples. I can understand component teams focused only on database structure, only UI/UX, only business logic is sub-optimal.
+> I'm trying to solidify the feature vs component team in my head and by extension requirement areas (I'm thinking LeSS/LeSS Huge). I understand that feature-teams are structured to implement features that deliver value to the customer, but I'm lacking concrete examples. I can understand component teams focused only on database structure, only UI/UX, only business logic is sub-optimal.
 > 
 > Take the example of a commerce system. A core feature is placing an order. Placing an order requires pricing the products, cart management, application of promotions, submission of the order, payment capture, tax, etc. The key act of placing an order requires all of these (at least to some extent, without debating what's MVP) to enable a transaction for the customer, though each piece has some customer value, and there can be deep complexity within each.
 >
-> Would it be component-izing a team to structure their focus on pricing, promotions, payment, etc (considering a team includes members necessary to implement the database, business logic, testing, ui, etc), or is that be an effective implementation of feature teams/requirement areas? Would monitoring/logging/compliance (operational requirements), transaction processing (carts, payments, pricing, promotions), data management (prices, products, inventory) be better classifications of requirement areas? Some other structure?
+> Would it be component-izing a team to structure their focus on pricing, promotions, payment, etc (considering a team includes members necessary to implement the database, business logic, testing, UI, etc), or is that an effective implementation of feature teams/requirement areas? Would monitoring/logging/compliance (operational requirements), transaction processing (carts, payments, pricing, promotions), data management (prices, products, inventory) be better classifications of requirement areas? Some other structure?
 
 PERSON B:
-> That’s a very good discussion topic. I’m working in a Ecommerce company and I do have the same question.
-> At first glance it seems to make sense to arrange team in pricing, promotion, checkout.
-> But in my reality, there are too many dependency between these team when we try to roll out a new feature.
-> Say I want to roll out a new loyalty program for my customer, they purchase a membership that give them 10% off on future order over $50 and free shipping.
-> In this feature, we touch pricing (new product, memberships), promotion, checkout (free shipping)
-> Thus there are many wait time and hand off.
+> That’s a very good discussion topic. I’m working in an Ecommerce company and I do have the same question.
+> At first glance it seems to make sense to arrange teams in pricing, promotion, checkout.
+> But in my reality, there are too many dependencies between these teams when we try to roll out a new feature.
+> Say I want to roll out a new loyalty program for my customer, they purchase a membership that gives them 10% off on a future order over $50 and free shipping.
+> In this feature, we touch pricing (new product, memberships), promotion, and checkout (free shipping).
+> Thus there are many wait times and hand offs.
 > I’m trying to think that my Ecommerce platform is a product as a whole, then how should I arrange my team structure.
 
 MJ:
@@ -38,4 +38,4 @@ MJ:
 >
 > But more generally, I'd like to start with an overall retrospective with everyone involved to analyze what's happened in the past and which parts of it are working or not.
 >
-> I noticed that article above doesn't mention a couple other techniques that spread knowledge to reduce handoffs: *current architecture workshop* and *mob programming*.  If we have those and something like TDD, internal open source is less scary.
+> The article above fails to mention a couple other techniques that spread knowledge to reduce handoffs: *current architecture workshop* and *mob programming*.  If we have those and something like TDD, internal open source is less scary.
