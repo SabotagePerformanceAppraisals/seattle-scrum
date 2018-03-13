@@ -102,7 +102,7 @@ Here’s what people are saying about the preparation work:
 
 ## Advanced Certified Scrum Master (A-CSM)
 
-![A-CSM](assets/images/A-CSM badge.png){: height="150px" width="150px" .align-right}
+![A-CSM](assets/images/ACSM.png){: height="150px" width="150px" .align-right}
 
 * __Instructor: Angela Johnson__
 * __May 24-25, 2018 9:00AM-5:00PM__
