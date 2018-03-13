@@ -100,6 +100,55 @@ Here’s what people are saying about the preparation work:
 ----
 ----
 
+## Advanced Certified Scrum Master (A-CSM)
+
+![A-CSM](assets/images/A-CSM badge.png){: height="150px" width="150px" .align-right}
+
+* __Instructor: Angela Johnson__
+* __May 24-25, 2018 9:00AM-5:00PM__
+* __Price: $1,295.00 (group discounts available)__
+* __Early bird price: $1,195.00 (End Date: May 10, 2018)__
+* __Location: 5031 University Way NE, Seattle, WA 98105__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="A-CSM inquiry") to inquire.__
+* __[Register Now](https://www.eventbrite.com/e/advanced-certified-scrummaster-a-csm-with-angela-johnson-cst-may-24-25-in-partnership-with-seattle-tickets-43202589107).__
+
+The Advanced CSM class is a 2-day experience for Scrum Masters and Agile Practitioners who wish to take their Agile and Scrum Training to the next level.
+
+### A-CSM Learning Objectives
+
+In this class, you will focus deeply on the following learning objectives and will be able to demonstrate advanced knowledge of:
+
+* Lean, Agile, and Scrum
+* Agile Facilitation
+* Agile Coaching
+* Service to the Development Team
+* Service to the Product Owner
+* Service to the Organization
+* Scrum Mastery
+
+A full list and extensive break down of the Learning Objectives is [available here](https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Certifications/CSM/csm_learningobjectives_Advanced.pdf).
+
+### Recommended Experience for Participants
+
+* CSM with 1+ years of experience
+* Certified Scrum Practitioner
+
+### Certification
+
+To be eligible for the A-CSM certification, you must satisfy the following criteria:
+
+* Be an existing CSM
+* Complete a pre-class assessment
+* Be prepared to share your personal experiences
+* Attend and participate in the 2-day class
+* Complete a post-class questionnaire
+
+This class is offered in partnership with Angela Johnson and the [Collaborative Leadership Team](https://www.collaborativeleadershipteam.com/). Angela is one of the first 10 Certified Scrum Trainers globally to be able to offer this class. 
+
+----
+----
+----
+
 ## Certified LeSS Basics (CLB)
 
 ![CLB](assets/images/CLB.png){: height="150px" width="150px" .align-right}
