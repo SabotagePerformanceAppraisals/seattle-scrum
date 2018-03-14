@@ -97,7 +97,7 @@ separate (Team) Sprint Retrospectives with a cross-team
 entire product development system. A neutral outsider can use systems modeling, causal loop diagramming, and 
 large group facilitation techniques to help make these discussions productive.
 
-![overall-retrospective](assets/images/overall-retrospective.png){: .align-center width="70%"}
+![overall retrospective](assets/images/overall-retrospective.png){: .align-center width="70%"}
 
 ----
 
@@ -108,19 +108,58 @@ lend themselves to adaptability, reduced work-in-progress (WIP), and short sched
 Are you struggling with user stories, epics, traditional requirements, estimation, and
 dependencies? We can help you identify *thin vertical slices* of customer value work.
 
-![product-backlog-refinement.png](assets/images/product-backlog-refinement.png){: .align-center}
+![product backlog refinement](assets/images/product-backlog-refinement.png){: .align-center}
 
 ----
 
-## Other Services -- Please inquire about:
+## Team Self Designing Workshop
 
-* Team Self Designing Workshop
+It's very likely that your teams are structured in ways that cause wasteful *asynchronous dependencies*. We encourage
+teams to design and reorganize themselves. But doing this without a structured workshop can just lead to people grouping
+with where they're currently comfortable rather than where they'll learn the most and be the most effective.
 
-* Current Architecture Workshop
+----
 
-* Mob Programming Facilitation
+## Current Architecture Workshop
 
-* Code Smells Workshop
+You have legacy code that only a handful of people understand. This is an expensive and risky bottleneck. We
+use the *current architecture workshop* to spread knowledge amongst more teams. This can reduce handoff delays
+and the risk of introducing unintended regression failures.
+
+----
+
+## Mob Programming Facilitation
+
+Your developers spend a surprising amount of time being stuck, or sawing away with tools they don't know need sharpening. 
+A learning technique that's especially useful 
+during Agile adoption is to have a small group of developers sit together and all focus on the same programming 
+problems at the same time. This spreads knowledge and skills very rapidly. Consider the possibility that software 
+development is actually *knowledge creation*, not conventional manufacturing or construction.
+
+----
+
+## Code Smells Workshop
+
+Even a child can write code that works.  But the real costs of the software aren't in the initial creation.  It takes 
+decades to master the craft of well designed code (and tests) that reduce the long term costs. In the crush of meeting
+short-term deadlines, developers working alone typically develop bad habits that seem normal to them.  
+In the *code smells workshop*, participants learn to identify up to a dozen harmful patterns in real code, and of
+course how to prevent them.
+
+----
+
+## De-scaling Consultation
+
+Lots of people are talking about "scaling Agile" and even selling hideous ways of doing it (e.g. SAFe, Scrum@Scale).  Let's
+talk about *descaling organizational complexity* instead.
+![literal descaling](assets/images/literal-descaling.png){: .align-center width="70%"}
+
+----
+
+## Open Space (Large Group) Facilitation
+
+Keep your company conference from being a waste of time.  We facilitate Harrison Owen-style Open Space gatherings
+that increase the communication and camaraderie your organization needs to work toward a shared purpose.
 
 \\
 \\
