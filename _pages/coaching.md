@@ -142,7 +142,7 @@ development is actually *knowledge creation*, not conventional manufacturing or 
 
 Even a child can write code that works.  But the real costs of the software aren't in the initial creation.  It takes 
 decades to master the craft of well designed code (and tests) that reduce the long term costs. In the crush of meeting
-short-term deadlines, developers working alone typically develop bad habits that seem normal to them.  
+short-term deadlines, developers working alone typically develop bad habits that seem normal to them.
 In the *code smells workshop*, participants learn to identify up to a dozen harmful patterns in real code, and of
 course how to prevent them.
 
