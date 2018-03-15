@@ -10,9 +10,10 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Mar. 22-23 | Certified Scrum Master | Seattle, WA (U-Dist)| $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=March 22-23 CSM)
-| Apr. 11-12 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=April 11-12 CSM)
+| Apr. 11-12 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=April 11-12 CSM)
 | Apr. 16-18 | Certified LeSS Practitioner with Craig Larman | Seattle, WA (U-Dist)| $2299/$2699[^group] |[inquire](mailto:tommi@seattlescrum.com?subject=April 16-18 CLP)
-| May 2-3 | Certified Scrum Master | Seattle, WA | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 3-4 CSM)
+| May 2-3 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 2-3 CSM)
+| May 24-25 | Advanced Certified Scrum Master[^angela] | Seattle, WA (U-Dist) | $1195/$1295 |[inquire](mailto:tommi@seattlescrum.com?subject=May 24-25 A-CSM)
 
 
 ----
@@ -43,4 +44,5 @@ TIP: base your self-assessment answers on the preparation materials rather than 
 ----
 [^price]: All pricing listed as: early bird rate / standard rate. Please inquire for early bird rate expirations.
 [^group]: Group discounts are available for the CLP.
-[^craig]: The Certified LeSS Practitioner (CLP) class is taught by [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6), though MJ can help you prepare for it.
+[^craig]: The Certified LeSS Practitioner (CLP) class will be taught by [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6), though MJ can help you prepare for it.
+[^angela]: The Advanced Certified ScrumMaster (A-CSM) class will be taught by [Angela Johnson](https://www.scrumalliance.org/community/profile/ajohnson10).
