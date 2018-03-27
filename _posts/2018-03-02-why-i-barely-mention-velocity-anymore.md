@@ -10,6 +10,8 @@ FBI Sentinel is often cited as an agile success story, and mostly it was.  The p
 
 ![FBI Sentinel Burndown](/assets/images/Sentinel-Burndown.png)
 
+----
+
 QUESTION:
 > How do you help companies transition from a “need-to-know-the-date” to “don’t-have-to-answer” mindset?
 
@@ -17,3 +19,23 @@ MJ:
 > In general the industry trend is toward releasing more frequently.  Keeping the product *always shippable* lends itself to this.  So fixed dates shouldn’t be so scary when our technical practices are right, even if we leave out some lower-valued features because we found higher-valued features along the way.
 >
 > I won’t say forecasting has zero value, but in real practice there are bigger problems to solve than just that.  When's the last time your release plan was accurate?
+
+----
+
+QUESTION:
+> Hi MJ, the thing is : how to plan the delivery of Features over 6 or 9 months when not using velocity? Would you use the number of items done and undone to plan? That would mean you would need two things : 1/ to know all stories that will be developped during these months 2/ to have items with similar size over time => I can't have those two.
+
+MJ:
+> In theory velocity should help, but in practice the places I've seen that are working on such big batch releases would reduce their risks more by ensuring the whole product is fully tested and integrated every Sprint. Those big batch releases are typically riddled with an uncountable number of bugs and an integration nightmare toward the release date.
+>
+> I like Yogi Berra's answer: "In theory there's no difference between theory and practice.  In practice, there is."
+
+----
+
+QUESTION:
+> "Every sprint" is almost like really tiny waterfalls.
+> 
+> How many are shippable with every accepted commit?
+
+MJ:
+> Even better! Strive to be like [this team in San Diego](/technical-debt-is-the-high-cost-of-future-change/) that releases live features multiple times a day, usually without bugs.
