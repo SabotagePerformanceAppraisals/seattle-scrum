@@ -28,6 +28,9 @@ QUESTION:
 MJ:
 > In theory velocity should help, but in practice the places I've seen that are working on such big batch releases would reduce their risks more by ensuring the whole product is fully tested and integrated every Sprint. Those big batch releases are typically riddled with an uncountable number of bugs and an integration nightmare toward the release date.
 >
+> After one of these painful release cycles and all the urgent hotfixes and production support emergencies that follow them, I've never
+heard someone say "The biggest problem was that we didn't know 9 months ago what features would be included." The biggest problem is the accumulation of low quality code due to your organization's coding, testing, and management habits. Focusing on velocity just makes that *worse*!
+>
 > I like Yogi Berra's answer: "In theory there's no difference between theory and practice.  In practice, there is."
 
 ----
