@@ -11,7 +11,7 @@ permalink: /calendar
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Apr. 11-12 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=April 11-12 CSM)
 | Apr. 16-18 | Certified LeSS Practitioner with Craig Larman | Seattle, WA (U-Dist)| $2699[^group] |[inquire](mailto:tommi@seattlescrum.com?subject=April 16-18 CLP)
-| Apr. 17 | Meetup Talk with Craig Larman - More with LeSS | Bellevue, WA | free | [RSVP](https://www.meetup.com/BeyondAgile/events/249294657/)
+| Apr. 17 | Meetup with Craig Larman - More with LeSS | Bellevue, WA | free | [RSVP](https://www.meetup.com/BeyondAgile/events/249294657/)
 | May 2-3 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 2-3 CSM)
 | May 24-25 | Advanced Certified Scrum Master[^angela] | Seattle, WA (U-Dist) | $1195/$1295 |[inquire](mailto:tommi@seattlescrum.com?subject=May 24-25 A-CSM)
 
