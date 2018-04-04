@@ -142,9 +142,6 @@ We are honored to bring you [Craig Larman](https://www.amazon.com/Craig-Larman/e
 
 CLP participants are expected to already have CSM training or equivalent Scrum/Agile knowledge.  Please bring your manager, your Scrum Master, and your Agile Coach.
 
-* Three minute intro to LeSS Complete Picture: <https://www.youtube.com/watch?v=cvz4364pC0g>
-* Seven minute intro to LeSS Framework: <https://www.youtube.com/watch?v=e7mzpKHOAHs>
-
 <div class="feature__wrapper">
 
 <div class="feature__item">
@@ -157,5 +154,11 @@ CLP participants are expected to already have CSM training or equivalent Scrum/A
    </div>
    </a>
 </div>
-
 </div>
+----
+
+* Three minute intro to LeSS Complete Picture: <https://www.youtube.com/watch?v=cvz4364pC0g>
+* Seven minute intro to LeSS Framework: <https://www.youtube.com/watch?v=e7mzpKHOAHs>
+* _More with LeSS: A Decade of Descaling with LeSS_, a free April 17 evening meetup in Bellevue to discuss LeSS with Craig Larman: <https://www.meetup.com/BeyondAgile/events/249294657/>
+
+
