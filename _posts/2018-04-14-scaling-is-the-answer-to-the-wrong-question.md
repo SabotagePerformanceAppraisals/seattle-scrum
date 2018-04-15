@@ -6,7 +6,7 @@ But I think history proves we missed the mark by failing to reframe the “Scali
 
 *How To Do Scrum In An Organization With More Than Nine People* is relevant to nearly every class participant I’ve had. Nearly every company "doing Scrum" screws this up.
 
-The problem with "You can't scale what you can't do" is that you also can't do what you can't do.  Most people who come to Scrum classes have scale-induced impediments such as these:
+The problem with "You can't scale what you can't do" is that you also can't do what you can't do.  Most people who come to Scrum classes suffer scale-induced impediments such as these:
 
 * They're parts of component teams (instead of [feature teams](https://less.works/less/structure/feature-teams.html)), or insufficiently cross-functional teams, or other teams that are tiny cogs in a larger traditional process.  In the big picture, they're still doing waterfall.
 * They're surrounded by project managers renamed as Product Owners or Scrum Masters.
