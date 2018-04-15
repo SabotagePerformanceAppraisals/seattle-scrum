@@ -6,7 +6,7 @@ But I think history proves we missed the mark by failing to reframe the “Scali
 
 *How To Do Scrum In An Organization With More Than Nine People* is relevant to nearly every class participant I’ve had. Nearly every company "doing Scrum" screws this up.
 
-My objection to "You can't scale what you can't do" is that you also can't do what you can't do.  We can't ignore this anymore because most people who come to Scrum classes suffer scale-induced impediments such as these:
+My objection to "You can't scale what you can't do" is that you also can't do what you can't do.  People who come to Scrum classes suffer scale-induced impediments such as these:
 
 * They're parts of component teams (instead of [feature teams](https://less.works/less/structure/feature-teams.html)), or insufficiently cross-functional teams, or other teams that are just cogs in a larger traditional process.  In the big picture, they're still doing waterfall.
 * They're surrounded by project managers renamed as Product Owners or Scrum Masters.
@@ -23,7 +23,7 @@ My objection to "You can't scale what you can't do" is that you also can't do wh
 * They're making everything worse due to pressure to [increase their velocity](/why-i-barely-mention-velocity-anymore).
 * They have [managers who don't understand Agility](/coaching#informed-consent-workshop).
 
-Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum (as rationalized by "You can't scale what you can't do") hasn't helped real Scrum implementations much, opening the door to [monstrous processes like SAFe and Scrum@Scale](/scaling-antipatterns-poster).
+Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum (as rationalized by "You can't scale what you can't do") hasn't helped real Scrum implementations enough, opening the door to [monstrous processes like SAFe and Scrum@Scale](/scaling-antipatterns-poster).
 
 To be able to learn and adapt to reality (let's call that *Agility*), organizations desperately need some of the scaly-ness removed. You can't understand Scrum without realizing its implications for organizational design, both structure and policies.
 
