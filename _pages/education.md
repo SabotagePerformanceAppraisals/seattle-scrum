@@ -195,14 +195,6 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
-* __Instructor: Craig Larman__
-* __April 16-18, 2018 8:30AM-6:00PM__
-* __Price: $2,699.00 (group discounts available)__
-* __Early bird price: $2,299.00 (End Date: March 16, 2018)__
-* __Location: 4000 NE 41st Street Seattle, WA 98105__
-* __[Email MJ](mailto:mj@seattlescrum.com?subject="LeSS inquiry") or phone +1.206.769.5282 to inquire.__
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="LeSS registration") to register.__
-
 [Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
 
 {% include video id="yS55D2c5N_c" provider="youtube" %}
