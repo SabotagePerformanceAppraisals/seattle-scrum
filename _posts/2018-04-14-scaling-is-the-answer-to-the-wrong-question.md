@@ -12,6 +12,7 @@ The problem with "You can't scale what you can't do" is that you also can't do w
 * They're surrounded by project managers renamed as Product Owners or Scrum Masters.
 * They don’t have access to *real* Product Owners.
 * They aren't allowed to talk to customers and end users.
+* They were [thrown together by someone else](http://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team).
 * They're shared “resources.”
 * They're affected by [harmful HR practices](http://scrumreferencecard.com/WhatHRDoesntKnowAboutScrum_BetterSoftwareMagazine.pdf).
 * They're geographically distributed.
@@ -23,7 +24,9 @@ The problem with "You can't scale what you can't do" is that you also can't do w
 
 Just teaching single-team Scrum (as rationalized by "You can't scale what you can't do") hasn't helped real Scrum implementations much. Failing to address scale-induced problems opens the door to [monstrous processes like SAFe and Scrum@Scale](/scaling-antipatterns-poster).
 
-Organizations desperately need some of the scaly-ness removed. You can't understand Scrum without realizing its implications for organizational design, both structure and policies. We should teach *descaling organizational complexity* first! But unfortunately we've been miscategorizing those lessons as "scaling Scrum," which provides an excuse not to teach them in introductory (e.g. CSM) classes.
+Organizations desperately need some of the scaly-ness removed. You can't understand Scrum without realizing its implications for organizational design, both structure and policies.
+
+While we should teach *descaling organizational complexity* first, unfortunately we've been miscategorizing those lessons as "scaling Scrum." This provides an excuse not to teach them in introductory (e.g. CSM) classes. This excuse vanishes when we state the question correctly: *How To Do Scrum In An Organization With More Than Nine People?*
 
 
 ![literal descaling](/assets/images/literal-descaling.png){: .align-center}
