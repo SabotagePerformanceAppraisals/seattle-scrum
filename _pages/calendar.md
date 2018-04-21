@@ -13,6 +13,8 @@ permalink: /calendar
 | May 2-3 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 2-3 CSM)
 | May 24-25 | Advanced Certified Scrum Master[^angela] | Seattle, WA (U-Dist) | $1195/$1295 |[inquire](mailto:tommi@seattlescrum.com?subject=May 24-25 A-CSM)
 | June 5-6 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=June 5-6 CSM)
+| July 11-13 | Certified Scrum Master | Bangkok, Thailand | $1000/$1300 USD |[inquire](mailto:tommi@seattlescrum.com?subject=July 11-13 CSM Bangkok)
+| June 24-26 | Certified Scrum Master | Tokyo, Japan | 300,000 JPY |[inquire](mailto:tommi@seattlescrum.com?subject=July 24-26 CSM Tokyo)
 
 
 ----
