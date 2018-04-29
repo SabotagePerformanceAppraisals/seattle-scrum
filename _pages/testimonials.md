@@ -11,14 +11,14 @@ Would highly recommend [Michael's] class. Not only does he teach the material an
 *— Jeeno Saini, Technical Project Manager - Jeeno Saini LLC*
 
 ----
-I just completed your scrum training series video modules, and I actually loved them! I am 100% new to Scrum and the whole world of project management. These modules helped me feel like I had more of an understanding than I thought I did, and the quizzes made me feel more competent! Thank you for having these available!
-
-*— Karlee Lott*
-
-----
 I've been studying and practicing Agile and Scrum for years, but never took the time to get certified. When my firm offered me the opportunity to do just that, I was kind of half-interested, thinking — I'll just attend a class, brush up on the Scrum Guide and get the test out of the way. Our team found MJ, who came highly recommended. I gotta say — I was pleasantly surprised. MJ got all the book work out of the way before the class even began, and our time was spent in creative, practical exercises that helped illuminate some of the finer points of Scrum and LeSS. MJ's insights and experience were peppered throughout, and these were worth the price of admission alone. MJ is thorough, opinionated and authoritative, but in the best ways. He backs up his strong opinions with unassailable logic and an appeal to our better natures. He really knows this stuff, and he comes from a place of deep respect and care for self-organizing teams of human beings rather than slavish adherence to a "methodology." I'm recommending MJ's class to all my colleagues, without hesitation.
 
 *— Rob West, Sr. Project Manager - IT PMO at the Bill & Melinda Gates Foundation*
+
+----
+I just completed your scrum training series video modules, and I actually loved them! I am 100% new to Scrum and the whole world of project management. These modules helped me feel like I had more of an understanding than I thought I did, and the quizzes made me feel more competent! Thank you for having these available!
+
+*— Karlee Lott*
 
 ----
 Michael provided a deeper understanding to the "whys" of scrum techniques. I learned valuable skills I could apply in my work life. The best training, it would be worth it at three times the cost.
