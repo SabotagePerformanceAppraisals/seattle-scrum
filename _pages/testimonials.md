@@ -6,6 +6,16 @@ permalink: /testimonials
 ![Testimonials](assets/images/Testimonials.svg){: .align-center height="50px" width="50px"}
 
 ----
+Would highly recommend [Michael's] class. Not only does he teach the material and give you real life applications for Scrum and Agile. But during the practices he will cleverly make a point or statement about the group activity we are doing - only for our group to realize that he is using Agile to teach us Agile, one of my favorite parts about this course. The entire class was very well put together and designed. He was passionate about the material and is THE go-to guy for Scrum!
+
+*— Jeeno Saini, Technical Project Manager - Jeeno Saini LLC*
+
+----
+I just completed your scrum training series video modules, and I actually loved them! I am 100% new to Scrum and the whole world of project management. These modules helped me feel like I had more of an understanding than I thought I did, and the quizzes made me feel more competent! Thank you for having these available!
+
+*— Karlee Lott*
+
+----
 I've been studying and practicing Agile and Scrum for years, but never took the time to get certified. When my firm offered me the opportunity to do just that, I was kind of half-interested, thinking — I'll just attend a class, brush up on the Scrum Guide and get the test out of the way. Our team found MJ, who came highly recommended. I gotta say — I was pleasantly surprised. MJ got all the book work out of the way before the class even began, and our time was spent in creative, practical exercises that helped illuminate some of the finer points of Scrum and LeSS. MJ's insights and experience were peppered throughout, and these were worth the price of admission alone. MJ is thorough, opinionated and authoritative, but in the best ways. He backs up his strong opinions with unassailable logic and an appeal to our better natures. He really knows this stuff, and he comes from a place of deep respect and care for self-organizing teams of human beings rather than slavish adherence to a "methodology." I'm recommending MJ's class to all my colleagues, without hesitation.
 
 *— Rob West, Sr. Project Manager - IT PMO at the Bill & Melinda Gates Foundation*
