@@ -2,9 +2,9 @@ If you’ve read one of my favorite 80’s books, _Hitchhiker’s Guide To The G
 
 By "scaling Scrum," we usually mean using more than one team. About 10 years ago -- when some Scrum trainers had a scaling topic in their CSM classes and some didn't -- there were discussions whether or not this was appropriate in an introductory class.  The argument against sounded reasonable at first, something we still hear today, “You can’t scale what you can’t do.” The argument was that it was necessary to get good at single team Scrum before thinking about how to use multiple teams.  Sounds reasonable, right?
 
-But I think history proves we missed the mark by failing to reframe the “Scaling” topic into *How To Do Scrum In An Organization With More Than Nine People?*
-
 ![ostrich ignoring scaling](/assets/images/ostrich.png){: .align-center}
+
+History suggests we missed the mark by failing to reframe the “Scaling” topic into *How To Do Scrum In An Organization With More Than Nine People?*
 
 *How To Do Scrum In An Organization With More Than Nine People* is relevant to nearly every class participant I’ve had. Nearly every company "doing Scrum" screws this up.
 
@@ -25,7 +25,7 @@ My objection to "You can't scale what you can't do" is that you also can't do wh
 * They're making everything worse due to pressure to [increase their velocity](/why-i-barely-mention-velocity-anymore).
 * They have [managers who don't understand Agility](/coaching#informed-consent-workshop).
 
-Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum (as rationalized by "You can't scale what you can't do") hasn't helped real organizations enough, opening the door to [monstrous processes like SAFe and Scrum@Scale](/scaling-antipatterns-poster).
+Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum in a vacuum (as rationalized by "You can't scale what you can't do") hasn't helped real organizations enough, opening the door to [monstrous processes](/scaling-antipatterns-poster).
 
 To be able to learn and adapt to reality (let's call that *Agility*), organizations desperately need some of the scaly-ness removed. You can't understand Scrum without realizing its implications for organizational design, both structure and policies.
 
