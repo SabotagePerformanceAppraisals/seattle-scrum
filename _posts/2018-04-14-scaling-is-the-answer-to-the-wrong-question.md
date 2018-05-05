@@ -4,6 +4,8 @@ By "scaling Scrum," we usually mean using more than one team. About 10 years ago
 
 But I think history proves we missed the mark by failing to reframe the “Scaling” topic into *How To Do Scrum In An Organization With More Than Nine People?*
 
+![ostrich ignoring scaling](/assets/images/ostrich.png){: .align-center}
+
 *How To Do Scrum In An Organization With More Than Nine People* is relevant to nearly every class participant I’ve had. Nearly every company "doing Scrum" screws this up.
 
 My objection to "You can't scale what you can't do" is that you also can't do what you can't do.  People who come to Scrum classes suffer scale-induced impediments such as these:
