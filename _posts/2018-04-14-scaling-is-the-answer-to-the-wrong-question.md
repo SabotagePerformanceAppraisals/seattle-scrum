@@ -25,7 +25,7 @@ My objection to "You can't scale what you can't do" is that you also can't do wh
 * They're making everything worse due to pressure to [increase their velocity](/why-i-barely-mention-velocity-anymore).
 * They have [managers who don't understand Agility](/coaching#informed-consent-workshop).
 
-Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum in a vacuum (as rationalized by "You can't scale what you can't do") hasn't helped real organizations enough, opening the door to [monstrous processes](/scaling-antipatterns-poster).
+Due to these scale-induced impediments, they're not even going to succeed at single-team Scrum. Just teaching single-team Scrum in a vacuum (as rationalized by "You can't scale what you can't do") hasn't helped real organizations enough, opening the door to [monstrous processes that try to fill in Scrum's gaps](/scaling-antipatterns-poster).
 
 To be able to learn and adapt to reality (let's call that *Agility*), organizations desperately need some of the scaly-ness removed. You can't understand Scrum without realizing its implications for organizational design, both structure and policies.
 
