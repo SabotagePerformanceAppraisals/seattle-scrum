@@ -6,11 +6,15 @@ I sometimes ask participants to discuss a good day at work vs. a bad day at work
 That reminds me of the Tom Wujec "Marshmallow Challenge" TED talk: 
 {% include video id="H0_yKBitO8M" provider="youtube" %}
 
-“There are a number of people who have a lot more ‘uh oh’ moments than otherd. And among the worst are recent graduates of business school…. Among the best are recent graduates of kindergarten….  What kindergarteners do differently is that they start with the marshmallow and they build prototypes, successive prototypes, always keeping the marshmallow on top."
+>There are a number of people who have a lot more uh oh moments than others. And among the worst are recent graduates of business school…. Among the best are recent graduates of kindergarten….  What kindergarteners do differently is that they start with the marshmallow and they build prototypes, successive prototypes, always keeping the marshmallow on top.
 
-Always keeping the marshmallow on top is a great example of always keeping the product in a shippable state.
+(As an aside, always keeping the marshmallow on top is a great example of always keeping the product in a shippable state.)
 
-The idea of the Scrum Master having *no authority* was explicit by the time I got Ken’s slides.  To facilitate effectively, one must step outside the system and sometimes be nearly invisible.  In normal mode, the Scrum Masters and management should be able to leave for a week without anyone really noticing.  I like that the current Scrum Guide implies this:
-• Facilitating Scrum events as requested or needed
+The idea of the Scrum Master having *no authority* was explicit in my Scrum training from Ken Schwaber a dozen years ago.  (Jeff Sutherland does not seem to understand this even today.)  To facilitate effectively, one must live outside the system being faciliated, sometimes being nearly invisible.  Thus, the effective Scrum Master is not on the team(s).  In normal mode, the Scrum Masters and management should be able to leave for a week without anyone really noticing.
 
-I don’t have the impression this was well understood in some of the pre-black book Scrum implementations, and especially not in the choice of the label “ScrumMaster.”  In any case, I don’t have the impression we’re getting this through to companies trying to do Scrum.
+The current Scrum Guide implies this:
+• Facilitating Scrum events *as requested or needed*
+
+For example, the Daily Scrum is solely for the development team, and needn't include the Scrum Master or Product Owner.
+
+I don’t have the impression this was well understood in the early Jeff Sutherland Scrum implementations, and especially not in the choice of the label “ScrumMaster.”  I don’t have the impression we’re getting this through to companies trying to do Scrum.
