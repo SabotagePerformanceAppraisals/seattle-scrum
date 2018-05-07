@@ -31,6 +31,8 @@ Acceptance Criteria
 - *Some* PCBAs built
 - PCBAs tested and characterized
 
+At this point, some of you are reacting "Hey! Where's the *pilot* in that story? The electrical engineer isn't the end user!" and others are prompted to remind us that the "As an X I can Y so that Z" format isn't what makes a story.
+
 These flight instruments use custom LCDs they obtain from outside sources who cannot instantly deliver something to spec.  Part of the work was choosing the right LCD vendor to develop a relationship with.  The talk suggests that some things that weren't *2-weekable* (I'm going to steal that adjective from Kris) were handled outside Scrum. <https://youtu.be/ff-HtPMD020?t=40m0s>
 > “Put on the whiteboard things not 2-weekable: Get an LCD.”
 
