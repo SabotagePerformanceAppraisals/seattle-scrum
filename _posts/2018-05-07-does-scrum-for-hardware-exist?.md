@@ -46,6 +46,6 @@ Kris goes on to describe ways they mitigated this.
 
 As far as I can tell as of May 2018, using a strict definition of Scrum, no, it does not yet exist for hardware at significant scale.  But if I were doing hardware development I'd be learning as much as I could from Kris Dobelstein and others who are attempting it.
 
-Also keep an eye on the [BMW Group Autonomous Driving Campus](https://www.youtube.com/watch?v=Hbm6IcD78R0).  BMW has realized that geographically-distribution slows them down, so they've been  closing down plants to bring people together to develop self driving cars.  According to BMW's video, they will be doing [Large Scale Scrum (LeSS)](https://www.youtube.com/watch?v=cvz4364pC0g), currently the most mature framework that's legitimately Agile.
+Also keep an eye on the [BMW Group Autonomous Driving Campus](https://www.youtube.com/watch?v=Hbm6IcD78R0).  BMW has realized that geographical-distribution slows them down, so they've been  closing down plants to bring people together to develop self driving cars.  According to BMW's video, they will be doing [Large Scale Scrum (LeSS)](https://www.youtube.com/watch?v=cvz4364pC0g), currently the most mature framework that's legitimately Agile.
 
 [^disclosure]: Disclosure: I’ve met some cool Dynon people, but unfortunately I wasn’t their trainer.
