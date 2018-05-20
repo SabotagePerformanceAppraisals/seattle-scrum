@@ -10,11 +10,11 @@ That reminds me of the Tom Wujec "Marshmallow Challenge" TED talk:
 
 (As an aside, always keeping the marshmallow on top is a great example of always keeping the product in a shippable state.)
 
-The idea of the Scrum Master having *no authority* was explicit in my Scrum training from Ken Schwaber a dozen years ago.  (Jeff Sutherland does not seem to understand this even today.)  To facilitate effectively, one must live outside the system being faciliated, sometimes being nearly invisible.  Thus, the effective Scrum Master is not on the team(s).  In normal mode, the Scrum Masters and management should be able to leave for a week without anyone really noticing.
+The idea of the Scrum Master having *no authority* was explicit in my Scrum training from Ken Schwaber a dozen years ago.   To facilitate effectively, one must live outside the system being faciliated, sometimes being nearly invisible.  The effective Scrum Master is not on the team!  In normal mode, the Scrum Masters and management should be able to leave for a week without anyone really noticing.
 
 The current Scrum Guide implies this:
-• Facilitating Scrum events *as requested or needed*
+* Facilitating Scrum events *as requested or needed*
 
 For example, the Daily Scrum is solely for the development team, and needn't include the Scrum Master or Product Owner.
 
-I don’t have the impression this was well understood in the early Jeff Sutherland Scrum implementations, and especially not in the choice of the label “ScrumMaster.”  I don’t have the impression we’re getting this through to companies trying to do Scrum.
+I don’t have the impression this was well understood in the 1990s Scrum implementations (e.g. at Easel), and especially not in the choice of the label “ScrumMaster.”  I don’t have the impression we’re getting this through to companies trying to do Scrum.

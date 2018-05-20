@@ -8,4 +8,4 @@ In many past classes I’ve seen participants waste everyone else’s time by no
 
 ## Prerequisite #3:
 
-If you're not really interested in optimizing your organization for adaptability to external reality but still want to pretend to be "Agile," you're in luck. Both SAFe and Jeff Sutherland's "Scrum@Scale" provide ways to maintain your staus quo while pretending to be Agile. But I have limited time left on this planet, so please keep that dishonest crap out of my workshop.
+If you're not really interested in optimizing your organization for adaptability to external reality but still want to pretend to be "Agile," you're in luck. Both Lean Dressingwell's SAFe and Jeff Sutherland's "Scrum@Scale" provide ways to maintain your staus quo while pretending to be Agile. But I have limited time left on this planet, so please keep that dishonest crap out of my workshop.
