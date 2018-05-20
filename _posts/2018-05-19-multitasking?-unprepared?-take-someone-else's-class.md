@@ -6,6 +6,3 @@ After running hundreds of workshops for thousands of people I’ve learned that 
 
 In many past classes I’ve seen participants waste everyone else’s time by not having applied themselves to the preparation work, PARTICULARLY THE QUIZZES in the six e-learning modules at <http://ScrumTrainingSeries.com/> .  This is a time commitment before the workshop.  It will be obvious to me and your team if you haven’t prepared as Tommi and I have insisted for this workshop, or if you tried to do it all on the night before class.  If you’re not certain you’ll be able to prepare, please avoid embarassing yourself by rescheduling your class or finding someone else’s Scrum class at <https://www.scrumalliance.org/courses-events/search?ctyp=Csm&cnty=US&st=WA&cty=Seattle&rad=20&last=cr&pg=1>.
 
-## Prerequisite #3:
-
-If you're not really interested in optimizing your organization for adaptability to external reality but still want to pretend to be "Agile," you're in luck. Both Lean Dressingwell's SAFe and Jeff Sutherland's "Scrum@Scale" provide ways to maintain your staus quo while pretending to be Agile. But I have limited time left on this planet, so please keep that dishonest crap out of my workshop.
