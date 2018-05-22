@@ -9,10 +9,9 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| May 24-25 | Advanced Certified Scrum Master[^angela] | Seattle, WA (U-Dist) | $1195/$1295 |[inquire](mailto:tommi@seattlescrum.com?subject=May 24-25 A-CSM)
 | June 5-6 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=June 5-6 CSM)
-| July 16-18 | Certified Scrum Master | Bangkok, Thailand | $1000/$1300 USD |[inquire](mailto:tommi@seattlescrum.com?subject=July 11-13 CSM Bangkok)
-| July 24-26 | Certified Scrum Master | Tokyo, Japan | 300,000 JPY |[inquire](mailto:tommi@seattlescrum.com?subject=July 24-26 CSM Tokyo)
+| July 16-18 | Certified Scrum Master | Bangkok, Thailand | ฿35,000/฿45,000 USD |[inquire](https://www.eventpop.me/e/3599)
+| July 24-26 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](mailto:contact-ja@odd-e.com?subject=July 24-26 CSM Tokyo)
 
 
 ----
@@ -42,4 +41,3 @@ TIP: base your self-assessment answers on the preparation materials rather than 
 
 ----
 [^price]: All pricing listed as: early bird rate / standard rate. Please inquire for early bird rate expirations.
-[^angela]: The Advanced Certified ScrumMaster (A-CSM) class will be taught by [Angela Johnson](https://www.scrumalliance.org/community/profile/ajohnson10).
