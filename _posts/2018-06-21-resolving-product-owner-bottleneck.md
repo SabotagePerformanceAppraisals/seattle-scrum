@@ -7,7 +7,7 @@ If we want an organization that can quickly adapt to external reality as it's di
 
 We sometimes hear the concern that one Product Owner would be overburdened by this, becoming a bottleneck.  Here are the problems I've usually seen causing Product Owner bottleneck:
 
-* The teams are depending on a "Product Owner" for detailed clarifications.  According to <http://agilemanifesto.org> and <http://agilemanifesto.org/principles> we value _customer_ collaboration over contract negotiation, and our highest priority is to satisfy _the customer_ through early and continuous delivery of valuable software.  Therefore Agile teams talk to customers for those detailed clarifications.  This is why we show users and stakeholders in [our illustrations of Product Backlog Refinement](https://less.works/less/framework/product-backlog-refinement.html).
+* The teams are depending on a "Product Owner" for detailed clarifications.  According to <http://agilemanifesto.org> and <http://agilemanifesto.org/principles> we value _customer_ collaboration over contract negotiation, and our highest priority is to satisfy _the customer_ through early and continuous delivery of valuable software.  Therefore Agile teams talk to _customers and users_ for those detailed clarifications.  This is why we show users and stakeholders in [our illustrations of Product Backlog Refinement](https://less.works/less/framework/product-backlog-refinement.html).
 
 * The teams aren't cross functional.  [A cross functional team doesn't only code and test, it also contains business domain expertise, UX/UI skills, etc.](https://youtu.be/e7mzpKHOAHs?t=4m55s)  When I was on a team with a full-time UI designer, we didn't need our Product Owner for every little detail.
 
