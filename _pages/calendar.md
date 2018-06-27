@@ -12,6 +12,7 @@ permalink: /calendar
 | July 16-18 | Certified Scrum Master | Bangkok, Thailand | ฿35,000/฿45,000 |[inquire](https://www.eventpop.me/e/3599)
 | July 24-26 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](mailto:contact-ja@odd-e.com?subject=July 24-26 CSM Tokyo)
 | Aug 15-16 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Aug 15-16 CSM)
+| Sept 13-14 | Large Scale Scrum (LeSS) Conference | New York, NY (Manhattan) | $950 | [details](https://less.works/less-conferences/2018-new-york/index.html)[^lessnyc]
 | Sept 20-21 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Sept 20-21 CSM)
 | Oct 17-18 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Oct 17-18 CSM)
 
@@ -43,3 +44,4 @@ TIP: base your self-assessment answers on the preparation materials rather than 
 
 ----
 [^price]: All pricing listed as: early bird rate / standard rate. Please inquire for early bird rate expirations.
+[^lessnyc]: MJ will be presenting a session about management's role in Scrum, and a workshop on Test Driven Development [TDD]
