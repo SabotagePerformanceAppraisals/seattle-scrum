@@ -9,7 +9,6 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| July 16-18 | Certified Scrum Master | Bangkok, Thailand | ฿35,000/฿45,000 |[inquire](https://www.eventpop.me/e/3599)
 | July 24-26 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](mailto:contact-ja@odd-e.com?subject=July 24-26 CSM Tokyo)
 | Aug 9-10 | Certified Scrum Master | Olympia, WA (Tumwater) | $800/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Aug 9-10 CSM Olympia)
 | Aug 15-16 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Aug 15-16 CSM)
