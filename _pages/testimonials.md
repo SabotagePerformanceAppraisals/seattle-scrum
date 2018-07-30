@@ -5,7 +5,14 @@ permalink: /testimonials
 
 ![Testimonials](assets/images/Testimonials.svg){: .align-center height="50px" width="50px"}
 
+３日間の研修で、スクラムマスターへの理解を深めることが出来ただけでなく、
+ソフトウェア開発に関する知識や技術を深めることが出来ました。
+色々と、ありがとうございました。
+
+— 田森　崇史 - 日立製作所の田森です
+
 ----
+
 Would highly recommend [Michael's] class. Not only does he teach the material and give you real life applications for Scrum and Agile. But during the practices he will cleverly make a point or statement about the group activity we are doing - only for our group to realize that he is using Agile to teach us Agile, one of my favorite parts about this course. The entire class was very well put together and designed. He was passionate about the material and is THE go-to guy for Scrum!
 
 *— Jeeno Saini, Technical Project Manager - Jeeno Saini LLC*
