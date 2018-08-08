@@ -9,7 +9,6 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Aug 9-10 | Certified Scrum Master | Olympia, WA (Tumwater) | $800/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Aug 9-10 CSM Olympia)
 | Aug 15-16 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Aug 15-16 CSM)
 | Sept 13-14 | Large Scale Scrum (LeSS) Conference | New York, NY (Manhattan) | $950 | [details](https://less.works/less-conferences/2018-new-york/index.html)[^lessnyc]
 | Sept 20-21 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Sept 20-21 CSM)
