@@ -9,10 +9,9 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Sept 13-14 | Large Scale Scrum (LeSS) Conference | New York, NY (Manhattan) | $950 | [details](https://less.works/less-conferences/2018-new-york/index.html)[^lessnyc]
-| Sept 20-21 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Sept 20-21 CSM)
 | Oct 17-18 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Oct 17-18 CSM)
 | Nov 12-14 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[register](https://training.odd-e.jp/course-detail/10)
+| Nov 15-17 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[register](https://training.odd-e.jp/course-detail/12)
 
 
 
