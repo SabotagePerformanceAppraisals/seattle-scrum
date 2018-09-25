@@ -2,8 +2,15 @@
 title: Testimonials
 permalink: /testimonials
 ---
-
 ![Testimonials](assets/images/Testimonials.svg){: .align-center height="50px" width="50px"}
+
+[CSM] class from Michael is highly practical and every bit of it is a true fun learning. The videos and the practical use cases are awesome and the knowledge gained is going to help me practice true agile approach in my work. Simulated work environment let us put ourselves into the shoes of different scrum roles and experience the involved challenges and approach to deal with it. 
+
+Last but not the least, the learning series videos from Michael are simple superb. It is the best workshop I could ever attend. Thanks for your time and efforts Michael.
+
+*— Aman Kakkar*
+
+----
 
 ３日間の研修で、スクラムマスターへの理解を深めることが出来ただけでなく、
 ソフトウェア開発に関する知識や技術を深めることが出来ました。
@@ -12,7 +19,6 @@ permalink: /testimonials
 — 田森　崇史 - 日立製作所の田森です
 
 ----
-
 Would highly recommend [Michael's] class. Not only does he teach the material and give you real life applications for Scrum and Agile. But during the practices he will cleverly make a point or statement about the group activity we are doing - only for our group to realize that he is using Agile to teach us Agile, one of my favorite parts about this course. The entire class was very well put together and designed. He was passionate about the material and is THE go-to guy for Scrum!
 
 *— Jeeno Saini, Technical Project Manager - Jeeno Saini LLC*
