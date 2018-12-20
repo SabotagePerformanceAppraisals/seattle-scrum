@@ -104,14 +104,6 @@ Here’s what people are saying about the preparation work:
 
 ![A-CSM](assets/images/ACSM.png){: height="150px" width="150px" .align-right}
 
-* __Instructor: Angela Johnson__
-* __May 24-25, 2018 9:00AM-5:00PM__
-* __Price: $1,295.00 (group discounts available)__
-* __Early bird price: $1,195.00 (End Date: May 10, 2018)__
-* __Location: 5031 University Way NE, Seattle, WA 98105__
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="A-CSM inquiry") to inquire.__
-* __[Register Now](https://www.eventbrite.com/e/advanced-certified-scrummaster-a-csm-with-angela-johnson-cst-may-24-25-in-partnership-with-seattle-tickets-43202589107).__
-
 The Advanced CSM class is a 2-day experience for Scrum Masters and Agile Practitioners who wish to take their Agile and Scrum Training to the next level.
 
 ### A-CSM Learning Objectives
@@ -192,6 +184,13 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 ----
 
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
+
+* __Instructor: Craig Larman__
+* __July 22-24, 2019 8:30AM-6:00PM__
+* __Price: $2,699.00 (select discounts available)__
+* __Early bird price: $2,299.00 (End Date: June 22, 2019)__
+* __Location: Talaris Conference Center, 4000 NE 41st St, Seattle, WA 98105__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="A-CSM inquiry") to inquire.__
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
