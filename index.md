@@ -148,7 +148,7 @@ CLP participants are expected to already have CSM training or equivalent Scrum/A
 <div class="feature__wrapper">
 
 <div class="feature__item">
-   <a href="https://less.works/course-details/certified-less-practitioner-seattle-425">
+   <a href="http://seattlescrum.com/education#certified-less-practitioner-principles-to-practices-clp">
    <div class="archive__item-teaser">
       <img src="assets/images/clp.png" alt="" />
    </div>
