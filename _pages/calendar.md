@@ -9,7 +9,6 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Mar 28-29 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 28-29 CSM)
 | Apr 15-17 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/25)
 | Apr 18-20 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/26)
 | May 29-30 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 29-30 CSM)
