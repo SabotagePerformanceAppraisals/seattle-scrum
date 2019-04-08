@@ -12,6 +12,8 @@ permalink: /calendar
 | Apr 15-17 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/25)
 | Apr 18-20 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/26)
 | May 29-30 | Certified Scrum Master | Seattle, WA (U-Dist) | $875/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 29-30 CSM)
+| Jun 17-19 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/39)
+| Jun 20-22 | Certified Scrum Master | Tokyo, Japan | ¥300,000 |[inquire](https://training.odd-e.jp/course-detail/40)
 | Jul 22-24 | Certified LeSS Practitioner w/ Craig Larman | Seattle, WA (U-Dist) | $2299/$2699 |[inquire](mailto:tommi@seattlescrum.com?subject=Jul 22-24 CLP)
 
 
