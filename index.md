@@ -144,6 +144,7 @@ CLP participants are expected to already have CSM training or equivalent Scrum/A
 
 * Three minute intro to LeSS Complete Picture: <https://www.youtube.com/watch?v=cvz4364pC0g>
 * Seven minute intro to LeSS Framework: <https://www.youtube.com/watch?v=e7mzpKHOAHs>
+* Ten minutes about the kinds of problems LeSS addresses: <https://www.youtube.com/watch?v=cr2rjaGmUzo>
 
 <div class="feature__wrapper">
 
