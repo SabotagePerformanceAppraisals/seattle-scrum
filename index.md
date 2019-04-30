@@ -150,7 +150,7 @@ CLP participants are expected to already have CSM training or equivalent Scrum/A
 <div class="feature__item">
    <a href="http://seattlescrum.com/education#certified-less-practitioner-principles-to-practices-clp">
    <div class="archive__item-teaser">
-      <img src="assets/images/clp.png" alt="" />
+      <img src="assets/images/CLP.png" alt="" />
    </div>
    <div class="archive__item-title">
       CLP Details
