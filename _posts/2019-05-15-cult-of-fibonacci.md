@@ -6,7 +6,7 @@ Despite what you may have been taught, Fibonacci numbers do not have magical pow
 * [#NoEstimates](https://twitter.com/hashtag/NoEstimates?src=hash), or
 * very simple estimates (e.g. Small vs. Not Small), or
 * a simple range such as *1, 2, 4, TOO BIG*, or
-* using only a small subset of the usual Fibonacci scale.  Consider throwing away the other cards!
+* using only a small subset of the cultish Fibonacci scale.  Consider throwing away the other cards!
 
 From a development team perspective, the only estimate that matters is whether an item will fit into a Sprint or not.  Anything bigger than 1/4 of a Sprint is almost definitely too big.  
 
