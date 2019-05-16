@@ -16,5 +16,7 @@ From a development team perspective, the only estimate that matters is whether a
 
 For others, such as the Product Owner and other stakeholders, estimates *might* help provide forecasts about when particular Product Backlog Items will be done in future Sprints.  But being Agile is about being adaptable, including changing the requirements.  We want to be able to change business directions as we learn more about customer needs.  Don't forget [Terry's Agility Index](https://less.works/blog/courses/2016/04/19/terry-agility-index.html), which posits that our original plan was probably wrong anyway.  Scrum teams strive to keep the product shippable at all times.  When we're delivering continuously, people don't seem to worry about estimates as much.
 
+----
+
 * Q. I noticed on Twitter and LinkedIn that you don't like story points...
-* A. I like story points and planning when kept as simple as the situation requires.  In [this example](http://scrumtrainingseries.com/BacklogRefinementMeeting/) the team uses four cards only, with simple powers of 2.
+* A. I *do* like story points.  And planning poker.  In [this example](http://scrumtrainingseries.com/BacklogRefinementMeeting/) the team uses four cards only, with simple powers of 2.
