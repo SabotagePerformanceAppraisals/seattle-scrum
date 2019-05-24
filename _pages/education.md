@@ -190,7 +190,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * __Price: $2,699.00 (select discounts available)__
 * __Early bird price: $2,299.00 (End Date: June 22, 2019)__
 * __Location: Talaris Conference Center, 4000 NE 41st St, Seattle, WA 98105__
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Jul 22-24 CLP") to inquire.__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Jul 22-24 CLP") to register or inquire.__
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
