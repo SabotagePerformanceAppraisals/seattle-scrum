@@ -104,7 +104,7 @@ Here’s what people are saying about the preparation work:
 
 ![A-CSM](assets/images/ACSM.png){: height="150px" width="150px" .align-right}
 
-The Advanced CSM class is a 2-day experience for Scrum Masters and Agile Practitioners who wish to take their Agile and Scrum Training to the next level.
+The Advanced CSM class is a 2-day experience for Scrum Masters and Agile practitioners who wish to take their Agile and Scrum Training to the next level.
 
 ### A-CSM Learning Objectives
 
@@ -134,8 +134,6 @@ To be eligible for the A-CSM certification, you must satisfy the following crite
 * Be prepared to share your personal experiences
 * Attend and participate in the 2-day class
 * Complete a post-class questionnaire
-
-This class is offered in partnership with Angela Johnson and the [Collaborative Leadership Team](https://www.collaborativeleadershipteam.com/). Angela is one of the first 10 Certified Scrum Trainers globally to be able to offer this class. 
 
 ----
 ----
@@ -194,7 +192,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
-[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS builds on top of the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
+[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS uses the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
 
 {% include video id="yS55D2c5N_c" provider="youtube" %}
 
