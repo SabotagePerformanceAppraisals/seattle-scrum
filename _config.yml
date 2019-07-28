@@ -13,7 +13,7 @@ title                    : "The Seattle Scrum Company"
 title_separator          : "-"
 name                     : "The Seattle Scrum Company"
 description              : "Simplify your organization."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://seattlescrum.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/Seattle-Scrum-Company.png
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw"
 
 
 # Reading Files
