@@ -143,7 +143,7 @@ To be eligible for the A-CSM certification, you must satisfy the following crite
 
 ![CLB](assets/images/CLB.png){: height="150px" width="150px" .align-right}
 
-[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity.
+[Large-Scale Scrum (LeSS)](https://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity.
 
 Certified LeSS Basics (CLB) is additional content typically integrated into a 3-day CSM class.
 
@@ -192,7 +192,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
-[Large-Scale Scrum (LeSS)](http://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS uses the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
+[Large-Scale Scrum (LeSS)](https://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS uses the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
 
 {% include video id="yS55D2c5N_c" provider="youtube" %}
 
@@ -291,7 +291,7 @@ In addition to course material, each participant will also receive:
 
 ### After course completion
 
-Every participant who completes the course will be registered as a Certified LeSS Practitioner on <http://less.works>. Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
+Every participant who completes the course will be registered as a Certified LeSS Practitioner on <https://less.works>. Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
 
 ----
 ![image-right](assets/images/MJ.png){: height="150px" width="150px" .align-right}
