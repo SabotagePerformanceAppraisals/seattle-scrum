@@ -135,6 +135,15 @@ Helping organizations adapt to ever-changing reality.
 
 ----
 
+<script>
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script src="https://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
+
+----
+
 ## Craig Larman brings LeSS (Large Scale Scrum) to Seattle 
 {: .text-center}
 
