@@ -8,6 +8,7 @@ main:
 #    url: /resources
   - title: "Articles"
     url: /articles
+    description: "Articles, videos, and other resources."
   - title: "Testimonials"
     url: /testimonials
   - title: "Calendar"
