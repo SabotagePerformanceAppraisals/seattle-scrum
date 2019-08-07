@@ -1,5 +1,5 @@
 ---
-title: Software Development Misconception 1 Dependencies In Knowledge Work Are Caused By Immutable Laws Of Physics
+title: 'Software Development Misconception #1: Dependencies In Knowledge Work Are Caused By Immutable Laws Of Physics'
 ---
 I sometimes think Bas Vodde is being too harsh when he writes "Keep the project managers away from the teams!"
 
