@@ -3,5 +3,5 @@ title: Why "Scrum" Isn't Making Your Company Very Agile, How Misconceptions Abou
 ---
 {% include video id="cr2rjaGmUzo?rel=0" provider="youtube" %}
 
-
+![comic book version](../assets/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2-cover.png)
 [Download comic book version!](../downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2.pdf) 
