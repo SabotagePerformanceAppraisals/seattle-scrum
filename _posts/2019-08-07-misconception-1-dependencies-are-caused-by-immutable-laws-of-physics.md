@@ -17,7 +17,7 @@ In knowledge work, “dependencies” are not caused by immutable laws of physic
 
 The fundamental constraint of knowledge work is *knowledge*.  Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn't work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.  Then Thursday night your cat walked across the keyboard and somehow deleted your entire git repository.
 
-Would it take you another four days to get back to where you were?  Of course not!  By 10AM Friday you'd be back where you were Thursday night.  So what was the *fundamental constraint* on that *knowledge work*?  It wasn't the typing, it was the *knowledge creation* -- mostly the learning.
+Would it take you another four days to get back to where you were?  Of course not!  By 10AM Friday you'd be back where you were Thursday night.  So what was the *fundamental constraint* on that *knowledge work*?  It wasn't the typing. It was the *knowledge creation* -- mostly the learning.
 
 *Perceived "dependencies" in knowledge work are caused by knowledge gaps.*
 
