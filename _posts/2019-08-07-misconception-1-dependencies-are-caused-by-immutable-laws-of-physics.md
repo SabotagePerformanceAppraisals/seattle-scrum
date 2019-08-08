@@ -1,5 +1,5 @@
 ---
-title: 'Software Development Misconception #1: Dependencies In Knowledge Work Are Caused By Immutable Laws Of Physics'
+title: 'Large Organization Software Development Misconception #1: Dependencies In Knowledge Work Are Caused By Immutable Laws Of Physics'
 ---
 I usually think a colleague of mine is being too harsh when he says "Keep the project managers away from the teams!"  After all, project managers are just trying to help, and *people* who've had that role in the past shouldn't be shunned.  They turn out to be valuable contributors.
 
