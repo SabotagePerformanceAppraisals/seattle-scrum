@@ -11,8 +11,9 @@ The following false analogy is a quote from a *program manager* (project manager
 
 > People who think that dependencies are just figments of old-style thinking should convince me by first putting on a shoe and tying the laces, then putting on a sock that goes between their bare foot and the tied shoe without removing the shoe.
 
-In knowledge work, “dependencies” are not caused by immutable laws of physics. The perceived need to plan around them through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. This should be directly addressed rather than institutionalized with the waterfall dependency management that masquerades as Agile scaling.  This project management argument inadvertently demonstrates that "dependencies" in software development *are* figments of old-style thinking.
+In knowledge work, “dependencies” are not caused by immutable laws of physics. The perceived need to plan around them through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. This should be directly addressed rather than institutionalized with the waterfall dependency management that masquerades as Agile scaling.  The socks and shoes argument inadvertently demonstrates that "dependencies" in software development *are* figments of old-style thinking.
 
+By the way, ten years ago I'd usually hear the same misconception expressed as a *house analogy*:  "If you want to build a house, you have to build the foundation first.  You can't start with the roof."  And this may be true ... about houses.  
 ## How is Knowledge Work Different?
 
 The fundamental constraint of knowledge work is *knowledge*.  Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn't work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.  Then Thursday night your cat walked across the keyboard and somehow deleted your entire git repository.
@@ -22,3 +23,5 @@ Would it take you another four days to get back to where you were?  Of course no
 *Perceived "dependencies" in knowledge work are caused by knowledge gaps.*
 
 Once we internalize this realization, it leads to a host of actions which seemed counterintuitive before -- often the opposite actions that project management would advise.  Is it possible that our organization's structure and policies have actively encouraged these knowledge gaps instead of working to eliminate them?
+
+A skillful software development organization allows the Product Owner to *prioritize* -- not just "order" -- the Product Backlog from a business perspective.  No red yarn required.
