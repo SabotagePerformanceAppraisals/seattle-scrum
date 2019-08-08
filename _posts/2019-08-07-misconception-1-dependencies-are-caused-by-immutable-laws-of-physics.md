@@ -19,4 +19,6 @@ The fundamental constraint of knowledge work is *knowledge*.  Imagine that you h
 
 Would it take you another four days to get back to where you were?  Of course not!  By 10AM Friday you'd be back where you were Thursday night.  So what was the *fundamental constraint* on that *knowledge work*?  It wasn't the typing, it was the *knowledge creation* -- mostly the learning.
 
-*Perceived "dependencies" in knowledge work are caused by knowledge gaps.*  Once we understand this, it leads to a host of actions which seemed counterintuitive before, and often the opposite actions that project management would advise.
+*Perceived "dependencies" in knowledge work are caused by knowledge gaps.*
+
+Once we internalize this realization, it leads to a host of actions which seemed counterintuitive before, and often the opposite actions that project management would advise.
