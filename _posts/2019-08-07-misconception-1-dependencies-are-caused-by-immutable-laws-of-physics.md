@@ -21,4 +21,4 @@ Would it take you another four days to get back to where you were?  Of course no
 
 *Perceived "dependencies" in knowledge work are caused by knowledge gaps.*
 
-Once we internalize this realization, it leads to a host of actions which seemed counterintuitive before, and often the opposite actions that project management would advise.
+Once we internalize this realization, it leads to a host of actions which seemed counterintuitive before -- often the opposite actions that project management would advise.  Is it possible that our organization's structure and policies have actively encouraged these knowledge gaps instead of working to eliminate them?
