@@ -24,4 +24,4 @@ Would it take you another four days to get back to where you were?  Of course no
 
 Once we internalize this realization, it leads to a host of actions which seemed counterintuitive before -- often the opposite actions that project management would advise.  Is it possible that our organization's structure and policies have actively encouraged these knowledge gaps instead of working to eliminate them?
 
-A skillful software development organization allows the Product Owner to *prioritize* -- not just "order" -- the Product Backlog from a business perspective.  No red yarn required.
+A skillful software development organization allows the Product Owner to *prioritize* -- not just "order" -- the Product Backlog from a business perspective.  Put away the red yarn.
