@@ -1,7 +1,7 @@
 ---
 title: 'Software Development Misconception #1: Dependencies In Knowledge Work Are Caused By Immutable Laws Of Physics'
 ---
-I usually think a colleague of mine is being too harsh when he writes "Keep the project managers away from the teams!"  After all, project managers are just trying to help, and *people* who've had that role in the past shouldn't be shunned.  They turn out to be valuable contributors.
+I usually think a colleague of mine is being too harsh when he says "Keep the project managers away from the teams!"  After all, project managers are just trying to help, and *people* who've had that role in the past shouldn't be shunned.  They turn out to be valuable contributors.
 
 But let's not forget that the project manager *role*, *prior training*, and *prior responsibilities* are like kryptonite to Agile's Superman. 
 
