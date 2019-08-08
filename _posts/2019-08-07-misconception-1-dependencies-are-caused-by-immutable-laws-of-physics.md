@@ -11,7 +11,7 @@ The following false analogy is a quote from a *program manager* (project manager
 
 > People who think that dependencies are just figments of old-style thinking should convince me by first putting on a shoe and tying the laces, then putting on a sock that goes between their bare foot and the tied shoe without removing the shoe.
 
-In knowledge work, “dependencies” are not caused by immutable laws of physics. The perceived need to plan around them through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. This should be directly addressed rather than institutionalized with the waterfall dependency management that masquerades as Agile scaling.  This project management argument inadvertently demonstrates that dependencies *are* figments of old-style thinking.
+In knowledge work, “dependencies” are not caused by immutable laws of physics. The perceived need to plan around them through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. This should be directly addressed rather than institutionalized with the waterfall dependency management that masquerades as Agile scaling.  This project management argument inadvertently demonstrates that "dependencies" in software development *are* figments of old-style thinking.
 
 ## How is Knowledge Work Different?
 
@@ -19,4 +19,4 @@ The fundamental constraint of knowledge work is *knowledge*.  Imagine that you h
 
 Would it take you another four days to get back to where you were?  Of course not!  By 10AM Friday you'd be back where you were Thursday night.  So what was the *fundamental constraint* on that *knowledge work*?  It wasn't the typing, it was the *knowledge creation* -- mostly the learning.
 
-*Perceived "dependencies" in knowledge work are caused by knowledge gaps.*  Once we understand this, it leads to the opposite actions that project management would advise.
+*Perceived "dependencies" in knowledge work are caused by knowledge gaps.*  Once we understand this, it leads to a host of actions which seemed counterintuitive before, and often the opposite actions that project management would advise.
