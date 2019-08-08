@@ -7,7 +7,7 @@ But let's not forget that the project manager *role*, *prior training*, and *pri
 
 ## Physical Analogies For Software Development (And Other Knowledge Work) Are Mental Traps
 
-The following false analogy is a quote from a *program manager* (project manager on steroids).  It reveals the mindset of someone has learned to manage dependencies in physical work -- where they actually exist -- but has not written software in a modern way:
+The following false analogy is a quote from a *program manager* (project manager on steroids).  It reveals the mindset of someone with tools to manage dependencies in physical work -- where they actually exist -- but has not written software in a modern way:
 
 > People who think that dependencies are just figments of old-style thinking should convince me by first putting on a shoe and tying the laces, then putting on a sock that goes between their bare foot and the tied shoe without removing the shoe.
 
