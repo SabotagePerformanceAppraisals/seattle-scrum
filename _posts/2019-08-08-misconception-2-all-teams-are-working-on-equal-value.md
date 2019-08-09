@@ -1,6 +1,8 @@
 ---
 title: 'Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?'
 ---
+
+[![Product Owner Misconceptions Page 16](../images/page-16.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them "productive," right?
 
 This is a great idea if your goal is to keep everyone busy.  If your goal is to do the highest priority, highest value work, it could only be justified if several implausible things were true:
@@ -12,8 +14,4 @@ This is a great idea if your goal is to keep everyone busy.  If your goal is to 
 There may be other justifications for keeping separate lists.  Maybe they really really really are unrelated products, [though we should be skeptical of this](https://less.works/less/framework/product.html).  Maybe we're bound by overspecialization because the skills and knowledge gaps seem insurmountable.  Maybe we've made a management decision to keep our less capable developers on Team F.  Maybe Teams X and Y are on the other side of the world and we're not willing to give them anything important.  Let's use Ken Schwaber's term for these things: *organizational impediments*.
 
 Gentle reader, I have no idea what you should do in your own situation.  I hope I've at least helped you gain clarity about why Scrum has only one Product Backlog per product, regardless of the number of teams.
-
-![Product Owner Misconceptions Page 16](../images/page-16.png)
-![Product Owner Misconceptions Page 17](../images/page-17.png)
-
-Excerpt from [Why “Scrum” Isn’t Making Your Company Very Agile, How Misconceptions About The Product Owner Role Harm Your Organization, And What To Do About It.](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
+[![Product Owner Misconceptions Page 17](../images/page-17.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
