@@ -5,7 +5,7 @@ Here's an example that comes to mind: During the 1980's I got sucked out of the 
 My boss produced reports for his boss showing how much money we'd saved the company.  Those people probably all retired thinking this was the right thing to do.  But today I realize that some of what I did to save pennies was actually harmful in the big picture.  *Penny wise, pound foolish* would be just one example of local optimization bias.
 
 ![Team Productivity Local Optimization Bias](../images/team-productivity-local-optimization-bias.png)
-Another example of local optimization bias would be the way beginning Scrum Masters focus on trying to make a team more "productive" instead of helping the product development organization become better able to learn and adapt.
+Another example of local optimization bias would be the way beginning Scrum Masters focus on trying to make a team more "productive" (or worse: "hyperproductive") instead of helping the product development organization become better able to learn and adapt.
 
 Do you have some examples of local optimization?  Please send them in!
 
