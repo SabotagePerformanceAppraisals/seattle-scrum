@@ -17,6 +17,7 @@ For Agility, we will usually prefer [feature teams](https://less.works/less/stru
 *Example Feature Teams*
 
 If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), changing to an organizational design using feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
+> We should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
 
 
 ### Doesn't XYZ Technical Approach (This Year It's Microservices) Eliminate The Need For Teams To Work Together?
