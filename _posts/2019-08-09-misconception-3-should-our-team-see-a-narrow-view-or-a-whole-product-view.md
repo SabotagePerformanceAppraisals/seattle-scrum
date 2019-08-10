@@ -4,7 +4,7 @@ title: 'Large Organization Software Development Misconception #3: Should Our Tea
 
 Small teams are great, and mandated by the definition of Scrum.  Scrum also mandates a Product Backlog and Product Owner.  
 
-Most companies have more than 11 people working on any given product.  *Just to make Scrum fit* (a [local optimization](/local-optimization-bias)), they will redefine "Product" to mean something narrower than the whole product.  This is the first step into an Orwellian world where words mean the opposite of their original intent.
+Most companies have more than 11 people working on any given product.  *Just to make Scrum fit* (a [local optimization](/local-optimization-bias)), they will redefine "Product" to mean something narrower than the whole product.  This is the first step into a house of mirrors where words mean the opposite of their original intent.
 
 The next mistake is to give each team a "Product Backlog" which astute observers will notice is really only a *Team Backlog*.
 ![Product Backlog minus whole product authority equals Team Backlog](../images/product-backlog-minus-whole-product-authority-equals-team-backlog.png)
