@@ -14,16 +14,19 @@ Scrum Master Peter Woolley writes:
 I'll start with the most practical link in this article.  If you're in a hurry, just go to the overview of the seven alternatives here:
 <https://less.works/less/framework/coordination-and-integration.html>
 
-## Short History of Scrum of Scrums
+## Back Story of Scrum of Scrums
 
-Ken Schwaber and Mike Beedle published the first Scrum book in 2001.  We called it "The Black Book" because of its obnoxious cover.  They had a lot of abstract theory and just a bit of practical experience how to make Scrum work in a small context, but much less to say about multi-team endeavors.   In what strikes me as almost an afterthought, The Black Book contained the idea of Scrum Masters from multiple teams meeting with each other regularly.  It had the catchy name "Scrum of Scrums," reflecting the seductive fractal symmetry of the idea.
+### The Black Book
+Ken Schwaber and Mike Beedle published the first Scrum book in 2001.  We called it "The Black Book" because of its obnoxious cover.  They had a lot of abstract theory and just a bit of practical experience how to make Scrum work in a small context, but much less to say about multi-team endeavors.   In what strikes me as almost an afterthought, The Black Book contained the idea of Scrum Masters from multiple teams meeting with each other regularly to coordinate.  It had the catchy name "Scrum of Scrums," reflecting the seductive fractal symmetry of the idea.
 
-Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Scrum_, aka "The Grey Book."  Skip The Black Book, read the modern _Scrum Guide_, but you don't really understand the _Scrum Guide_ if you haven't read The Grey Book.  Unfortunately this book still included Scrum of Scrums, but with the improvement of sending team representatives (explicitly "engineers" in Ken's 2007 book) instead of Scrum Masters.  Ken's last page (before the Appendices) contains this fascinating self critique: 
+### The Grey Book
+Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Scrum_, a.k.a. "The Grey Book."  Please skip The Black Book, but you don't really understand the modern _Scrum Guide_ if you haven't read The Grey Book.  Unfortunately the grey book still included Scrum of Scrums, but fortunately had the improvement of sending team representatives (explicitly "engineers" in Ken's 2007 book) instead of Scrum Masters.  Ken's last page (before the Appendices) contains this fascinating self critique: 
 
 > When I [Schwaber] presented these case studies at a meeting of ScrumMasters in Milan in June 2003, Mel Pullen pointed out that he felt that the Scrum of Scrums practice was contrary to the Scrum practice of self-organization and self-management. Hierarchical structures are management impositions, Mel asserted, and are not optimally derived by those who are actually doing the work. Why not let each Team figure out which other Teams it has to cooperate and coordinate with and where the couplings are? Either the ScrumMaster can point out the dependency to the Team, or the Team can come across the dependency in the course of development. When a Team stumbles over the dependency, it can send people to serve as “chickens” [uncommitted participants] on the Daily Scrum of the other Team working on the dependency. If no such other Team exists, the Team with the unaddressed dependency can request that a high-priority Product Backlog item be created to address it. The ScrumMaster can then either let the initial Team tackle the dependency or form another Team to do so.
 > 
 > This was an interesting observation. Scrum relies on self-organization as well as simple, guiding rules. Which is more applicable to coordinate and scale projects? I’ve tried both and found that the proper solution depends on the complexity involved. When the complexity is so great that self-organization doesn’t occur quickly enough, simple rules help the organization reach a timely resolution. If self-organization occurs in a timely manner, I prefer to rely on it because management is unlikely to devise adaptations as frequently or well as the Team can. Sometimes the ScrumMaster can aid self-organization by devising a few simple rules, but it is easier for the ScrumMaster to overdo it than not do enough.
 
+### The Disavowal
 Ken's CSM training materials from this time on reflect his growing understanding that the Scrum Master should have no authority over the team.  
 
 At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums and soon all but one slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
@@ -32,9 +35,12 @@ In 2008, Jeff Sutherland reappeared on the scene.
 
 ## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
-My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  Other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  It is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the least marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
+My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  Other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
+
+* * *
 
 ## Coordination & Integration: What To Do Instead
+![Tear down the wall!](/images/tear-down-the-wall.png)
 
 All excerpts from <https://less.works/less/framework/coordination-and-integration.html>
 
@@ -43,6 +49,9 @@ All excerpts from <https://less.works/less/framework/coordination-and-integratio
 > ### Just Talk 
 >
 > Probably the best way to coordinate between teams is to simply coordinate between the teams. Any member of a self-managing team would be able and expected to reach out to another team if there is an issue to be discussed. When there is a need for coordination then “just talk” by going to the other team, picking up the phone or, in the worst case, dropping them an email. You do not need a formal, official, usually slow coordination mechanism in order to coordinate. Get up and talk to people.
+
+How do we know they'll want to talk to us?  It's less likely if both teams are working for different [Team Output Owners](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).  In LeSS we try to remove the usual obstacles to that.  Multiple teams work in one Sprint, toward [one Sprint Review](https://less.works/less/framework/sprint-review.html) of one [potentially shippable product increment](https://less.works/less/framework/potentially-shippable-product-increment.html).  such as teams working for different Team Outpu
+
 >
 > ### Communicate in Code
 >
