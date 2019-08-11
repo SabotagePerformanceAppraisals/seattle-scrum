@@ -26,13 +26,13 @@ Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Sc
 
 Ken's CSM training materials from this time on reflect his growing understanding that the Scrum Master should have no authority over the team.  
 
-At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
+At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums and soon all but one slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
 In 2008, Jeff Sutherland reappeared on the scene.
 
-## Why Scrum of Scrums Continued
+## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
-My theory is that Scrum of Scrums is a catchy, sticky idea and other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  It is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the least marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
+My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  Other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  It is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the least marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 ## Coordination & Integration: What To Do Instead
 
