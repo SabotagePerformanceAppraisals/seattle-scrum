@@ -27,7 +27,7 @@ In 2008, Jeff Sutherland reappeared on the scene and would resume claiming to ha
 
 ## Why Scrum of Scrums Continued After Ken Disavowed It
 
-I guess Scrum of Scrums is a catchy, sticky idea and other trainers (including influential Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few answers for large organizations.  It is not in the *Scrum Guide*, but it is in the two top-marketed approaches to scaling.  It's semi-discouraged in LeSS, the least marketed approach to scaling.
+I guess Scrum of Scrums is a catchy, sticky idea and other trainers (including influential Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few answers for large organizations.  It is not in the *Scrum Guide*, but it is in the two top-marketed approaches to scaling.  It's semi-discouraged in LeSS, the least marketed approach to scaling, because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 ## What To Do Instead
 
