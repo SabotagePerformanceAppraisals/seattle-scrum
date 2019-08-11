@@ -21,7 +21,7 @@ Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Sc
 > 
 > This was an interesting observation. Scrum relies on self-organization as well as simple, guiding rules. Which is more applicable to coordinate and scale projects? I’ve tried both and found that the proper solution depends on the complexity involved. When the complexity is so great that self-organization doesn’t occur quickly enough, simple rules help the organization reach a timely resolution. If self-organization occurs in a timely manner, I prefer to rely on it because management is unlikely to devise adaptations as frequently or well as the Team can. Sometimes the ScrumMaster can aid self-organization by devising a few simple rules, but it is easier for the ScrumMaster to overdo it than not do enough.
 
-Ken's CSM training materials from this time on reflect the understanding that the Scrum Master should have no authority over the team.  
+Ken's CSM training materials from this time on reflect his growing understanding that the Scrum Master should have no authority over the team.  
 
 At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
@@ -43,17 +43,17 @@ All excerpts from <https://less.works/less/framework/coordination-and-integratio
 >
 > ### Communicate in Code
 >
-> LeSS groups adopt continuous integration, which means that everyone has all their code checked in to the central repository mainline (branches are an unnecessary complication that should be avoided). Everyone in the product teams synchronizes with the repository several times a day and will get all the changes that other people have made.
+> LeSS groups adopt [continuous integration](https://less.works/less/technical-excellence/continuous-integration), which means that everyone has all their code checked in to the central repository mainline (branches are an unnecessary complication that should be avoided). Everyone in the product teams synchronizes with the repository several times a day and will get all the changes that other people have made.
 >
 > So, when you update, spend two minutes going over the changes that were made by others and see if they relate to what you are working on now. If so, feel free to get up and “just talk” in order to synchronize your work with the others!
 > 
-> Send Observers to the Daily Scrum
+> ### Send Observers to the Daily Scrum
 > 
 > A simple coordination method for teams is to send a representative —not the Scrum Master—as a silent observer to the Daily Scrum of other teams doing related work. The observers then report back to their teams so they can take further action.
 > 
-> Component communities and mentors
+> ### Component communities and mentors
 > 
-> People working on the same components at the same time need to know of each other so they can ask questions and review each other’s code. Do this by creating component Communities of Practice (CoPs), which should communicate via mailing lists, chat, occasional meetings, and other remote collaboration channels.
+> People working on the same components at the same time need to know of each other so they can ask questions and review each other’s code. Do this by creating component [Communities of Practice (CoPs)](https://less.works/less/structure/communities.html), which should communicate via mailing lists, chat, occasional meetings, and other remote collaboration channels.
 > 
 > These communities are often organized by a “component mentor” who is usually a member of a feature team who has taken some additional responsibilities such as (1) being the teacher of how a component works, (2) monitoring the long-term health of a component, (3) organizing a component community, (4) organizing design workshops, and (5) reviewing code.
 > 
@@ -63,36 +63,38 @@ All excerpts from <https://less.works/less/framework/coordination-and-integratio
 > 
 > Important!… Besides helping coordination, these practices help maintain or improve the code/design quality of a component, and increase learning.
 > 
-> Scrum of Scrums
+> ### Scrum of Scrums
 > 
 > A Scrum of Scrums meeting is a Daily-Scrum-like meeting between teams, typically held two or three times per week.
 > 
 > Usually the format is three questions, similar to a Daily Scrum:
 > 
-> What did my team do that is relevant to other teams?
-> What will my team do that is relevant?
-> What are my team’s obstacles that other teams should know about or can help with?
+> 1. What did my team do that is relevant to other teams?
+> 2. What will my team do that is relevant?
+> 3. What are my team’s obstacles that other teams should know about or can help with?
+>
 > Naturally, use and evolve whatever questions your group finds useful.
 > 
 > A caution: The desire to hold a Scrum of Scrums can be a sign of unnecessary dependency or coordination problems caused by single-function groups and component teams, or by teams not able or willing to identify and do shared work.
 > 
 > Scrum of Scrums isn’t a part of LeSS and as a more formal centralized coordination technique, it is also not recommended. That said, if it is working, please don’t stop doing it… yet don’t feel you must do it because of adopting LeSS.
 > 
-> Multi-team meetings
+> ### Multi-team meetings
 > 
 > It is common for some teams to need to work closely together whereas others may not feel that need. For teams that work closely together, it is common to have multi-team LeSS meetings. Some examples would be:
 > 
-> Multi-team Product Backlog Refinement
-> Multi-team Sprint Planning Two
-> Multi-team Design Workshops
-> Exchange members in Daily Scrum.
-> Travelers to exploit and break bottlenecks and create skill
+> * Multi-team [Product Backlog Refinement](https://less.works/less/framework/product-backlog-refinement.html)
+> * Multi-team [Sprint Planning Two](https://less.works/less/framework/sprint-planning_two.html)
+> * Multi-team [Design Workshops](https://less.works/less/technical-excellence/architecture-design.html)
+> * Exchange members in Daily Scrum.
+>
+> ### Travelers to exploit and break bottlenecks and create skill
 > 
 > Sometimes a product group relies on a couple of experienced technical experts. How can the knowledge of these (scarce) experts be kept available to all teams? They can become travelers. Each Sprint they join a different team, coaching via pairing, workshops, and teaching sessions.
 > 
 > Although travelers are not specifically created for coordination, by joining different teams they create or strengthen a broad network, which is exactly what is needed for informal coordination channels. And they increase the consistency of some knowledge or practice across teams, realizing a coordination goal.
 > 
-> Leading Team
+> ### Leading Team
 > 
 > In some domains, features are monstrously large. When you split these giants into smaller Product Backlog Items, it can require many teams working closely together, each separately on its own PBI, to create a single monster feature.
 > 
