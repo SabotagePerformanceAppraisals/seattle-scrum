@@ -2,7 +2,6 @@
 title: 'Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?'
 toc: true
 ---
-
 ## Misconception 4.1: Will Components From Different Teams Integrate Into A Feature Without Teams Working Together?
 
 By "components" I'm usually referring to architectural layers within the software, such as front end, back end, "platform," a device driver, etc.  Too many large organizations have teams that can only work on components.
@@ -17,7 +16,6 @@ For Agility, we will usually prefer [feature teams](https://less.works/less/stru
 
 If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), transitioning to feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
 > We should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
-
 
 ### Misconception 4.1.1: Doesn't XYZ Technical Approach Eliminate The Need For Teams To Work Together?
 
@@ -47,6 +45,8 @@ So Scrum Masters should be encouraging collaboration across teams, just as they 
 
 ![Tear down the wall](../images/tear-down-the-wall.png)
 
+* * *
+
 ## Misconception 4.3: Will Products Sold Separately _Or_ As Parts Of A Suite Integrate Without Teams Working Together?
 
 It would be a bizarre business strategy for a 10-team product company to simultaneously, with the same intensity, develop 10 products that had nothing to do with each other.  (I'm focusing on a real *product company*, not a project-services company making bespoke software for a variety of clients.)  Companies don't gain competitive advantage by making products that don't work together.  (And we might have a few products from the past that we only maintain occasionally.  As discussed in [Misconception #2: Are All Teams Working On Equal Value Stuff?](/misconception-2-all-teams-are-working-on-equal-value/), they won't all warrant the same amount of attention.)
@@ -55,4 +55,5 @@ Except in trivial cases where we aren't doing anything new, engineering effort w
 
 One of my clients is in a domain largely devoid of prior standards and APIs because (unlike Adobe) no one else has done what they're doing.  They have a few hundred developers working on what used to be a dozen distinct products.  But they know their real competitive advantage will come when customers see the whole suite as one integrated product.  These products weren't initially developed to work together.  For them it's worth the millions of dollars of effort they're expending to make them work together inside and outside.  It would be harmful to send them a typical Agile coach or Scrum trainer who is going to focus them on individual team productivity -- like I used to 15 years ago -- rather than the whole product.
 
-Agility in a *real product company*, with more than 12 people, entails teams working with teams (and customers).
+If we have more than 12 people in a product company, we want teams working with teams (and customers).
+[![Teams Working With Teams](../images/page-27.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
