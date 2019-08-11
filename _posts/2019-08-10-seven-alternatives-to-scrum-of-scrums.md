@@ -5,6 +5,9 @@ header:
    teaser: "../images/scrum-of-scrums-sucks.png"
 ---
 ![Scrum of Scrums sucks](../images/scrum-of-scrums-sucks.png)
+
+* * *
+
 Scrum Master Peter Woolley writes:
 > I really enjoyed the Scrum of Scrum (SOS) slide. I have only seen this work once, when SMs and POs met 3 times a week to share their premeditated conversations and working agreements at a feature level, frequently it descends into a round robin project update or a mind numbingly boring task level detailed update meeting where PMs confuse and confound each other.
 
@@ -27,7 +30,7 @@ At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed S
 
 In 2008, Jeff Sutherland reappeared on the scene.
 
-## Why Scrum of Scrums Continued After Ken Disowned It
+## Why Scrum of Scrums Continued
 
 My theory is that Scrum of Scrums is a catchy, sticky idea and other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  It is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the least marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
