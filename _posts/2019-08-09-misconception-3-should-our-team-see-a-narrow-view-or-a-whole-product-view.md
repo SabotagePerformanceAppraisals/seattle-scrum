@@ -14,7 +14,7 @@ And then give each team a separate "Product Owner" who is really just a *Team Ou
 
 This leaves us with perhaps a dozen separate "Scrum Teams" who managers worry would run around like chickens with their heads cut off unless we pulled them together somehow.  The traditional way of doing this, dating back at least as far as Julius Caesar's army, is to add hierarchical layers.  Humans have trouble thinking of alternatives to hierarchical layers; unfortunately this is what's recommended at the end of Henrik Kniberg's extremely popular Product Owner video (a great video up until the few minutes at the end).  So now we get "Chief Product Owner" or "Business Owner" or some other way of filling the gap.  
 
-A decendent of the failed Rational Unified Process (RUP) approach called Scale Agile Framework (SAFe) adds a multi-layer stack of traditional management on top of our "Scrum Teams."  It sells really well because it's really just [renaming all the traditional roles to Agile-sounding roles](https://fansofless.com).  
+A decendent of the failed Rational Unified Process (RUP) approach called [Scaled Agile Framework (SAFe)](http://www.lafable.com/) adds a multi-layer stack of traditional management on top of our "Scrum Teams."  It sells really well because it's really just [renaming all the traditional roles to Agile-sounding roles](https://fansofless.com).  
 
 These traditional/Agile hybrid approaches leave the biggest problems in the traditional space rather than the Scrum space of single-list prioritization and team self organization.  With a narrow view of the product, only our toes wind up being Agile.
 
