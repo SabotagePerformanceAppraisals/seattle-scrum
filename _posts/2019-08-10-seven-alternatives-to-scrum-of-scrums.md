@@ -26,16 +26,17 @@ Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Sc
 > 
 > This was an interesting observation. Scrum relies on self-organization as well as simple, guiding rules. Which is more applicable to coordinate and scale projects? I’ve tried both and found that the proper solution depends on the complexity involved. When the complexity is so great that self-organization doesn’t occur quickly enough, simple rules help the organization reach a timely resolution. If self-organization occurs in a timely manner, I prefer to rely on it because management is unlikely to devise adaptations as frequently or well as the Team can. Sometimes the ScrumMaster can aid self-organization by devising a few simple rules, but it is easier for the ScrumMaster to overdo it than not do enough.
 
+Ken's CSM training materials and online discourse from this time on reflect his growing realization that the Scrum Master should have no authority over the team.  
+
 ### The Disavowal
-Ken's CSM training materials from this time on reflect his growing understanding that the Scrum Master should have no authority over the team.  
+At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums. Soon all but one slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
-At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums and soon all but one slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
-
-In 2008, Jeff Sutherland reappeared on the scene.
+In 2008, Craig Larman and Bas Vodde wrote in _Scaling Lean & Agile Development_:
+> The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better..."
 
 ## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
-My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  Other influential people (including Mike Cohn and  Jeff Sutherland) kept teaching it and writing about it because Scrum had so few concrete answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
+My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and  Jeff Sutherland) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 * * *
 
@@ -50,7 +51,7 @@ All excerpts from <https://less.works/less/framework/coordination-and-integratio
 >
 > Probably the best way to coordinate between teams is to simply coordinate between the teams. Any member of a self-managing team would be able and expected to reach out to another team if there is an issue to be discussed. When there is a need for coordination then “just talk” by going to the other team, picking up the phone or, in the worst case, dropping them an email. You do not need a formal, official, usually slow coordination mechanism in order to coordinate. Get up and talk to people.
 
-How do we know they'll want to talk to us?  It's less likely if both teams are working for different [Team Output Owners](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).  In LeSS we try to remove the usual obstacles to that.  Multiple teams work in one Sprint, toward [one Sprint Review](https://less.works/less/framework/sprint-review.html) of one [potentially shippable product increment](https://less.works/less/framework/potentially-shippable-product-increment.html).  such as teams working for different Team Outpu
+How do we know they'll want to talk to us?   In LeSS we try to remove the usual obstacles to that, such as teams are working for different [Team Output Owners](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/). Multiple teams work in one Sprint, toward [one Sprint Review](https://less.works/less/framework/sprint-review.html) of one [potentially shippable product increment](https://less.works/less/framework/potentially-shippable-product-increment.html).  Scrum Masters should encourage inter-team collaboration instead of focusing on individual team output.
 
 >
 > ### Communicate in Code
