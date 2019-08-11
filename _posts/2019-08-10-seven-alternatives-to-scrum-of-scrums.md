@@ -1,6 +1,8 @@
 ---
 title: 'Seven Alternatives To The Dreaded Scrum Of Scrums'
 toc: true
+header:
+   teaser: "../images/scrum-of-scrums-sucks.png"
 ---
 ![Scrum of Scrums sucks](../images/scrum-of-scrums-sucks.png)
 Scrum Master Peter Woolley writes:
