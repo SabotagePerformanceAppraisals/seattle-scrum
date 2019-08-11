@@ -23,7 +23,7 @@ Ken's CSM training materials from this time on reflect the understanding that th
 
 At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
-In 2008, Jeff Sutherland reappeared on the scene and would resume claiming to have invented Scrum.
+In 2008, Jeff Sutherland reappeared on the scene and would resume claiming to have "invented" Scrum.
 
 ## Why Scrum of Scrums Continued After Ken Disavowed It
 
