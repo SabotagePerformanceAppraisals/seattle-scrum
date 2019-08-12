@@ -19,7 +19,7 @@ Ken Schwaber and Mike Beedle published the first Scrum book in 2001.  We called 
 Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Scrum_, a.k.a. "The Grey Book."  Please skip The Black Book, but you don't really understand the modern _Scrum Guide_ if you haven't read The Grey Book.  Unfortunately the grey book still included Scrum of Scrums, but fortunately had the improvement of sending team representatives (explicitly "engineers" in Ken's 2007 book) instead of Scrum Masters.  Ken's last page (before the Appendices) contains this fascinating self critique: 
 
 > When I [Schwaber] presented these case studies at a meeting of ScrumMasters in Milan in June 2003, Mel Pullen pointed out that he felt that the Scrum of Scrums practice was contrary to the Scrum practice of self-organization and self-management. Hierarchical structures are management impositions, Mel asserted, and are not optimally derived by those who are actually doing the work. Why not let each Team figure out which other Teams it has to cooperate and coordinate with and where the couplings are? Either the ScrumMaster can point out the dependency to the Team, or the Team can come across the dependency in the course of development. When a Team stumbles over the dependency, it can send people to serve as “chickens” [uncommitted participants] on the Daily Scrum of the other Team working on the dependency. If no such other Team exists, the Team with the unaddressed dependency can request that a high-priority Product Backlog item be created to address it. The ScrumMaster can then either let the initial Team tackle the dependency or form another Team to do so.
-> 
+
 > This was an interesting observation. Scrum relies on self-organization as well as simple, guiding rules. Which is more applicable to coordinate and scale projects? I’ve tried both and found that the proper solution depends on the complexity involved. When the complexity is so great that self-organization doesn’t occur quickly enough, simple rules help the organization reach a timely resolution. If self-organization occurs in a timely manner, I prefer to rely on it because management is unlikely to devise adaptations as frequently or well as the Team can. Sometimes the ScrumMaster can aid self-organization by devising a few simple rules, but it is easier for the ScrumMaster to overdo it than not do enough.
 
 Ken's CSM training materials and online discourse from this time on reflect his growing realization that the Scrum Master should have no authority over the team.  
@@ -64,7 +64,9 @@ What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-y
 > ### Send Observers to the Daily Scrum
 > 
 > A simple coordination method for teams is to send a representative —not the Scrum Master—as a silent observer to the Daily Scrum of other teams doing related work. The observers then report back to their teams so they can take further action.
-> 
+
+Unfortunately, some [locally optimizing](/local-optimization-bias/) Scrum Masters try to prevent this!  A Scrum Master with a Whole Product Focus would do everything possible to make this easy.
+
 > ### Component communities and mentors
 > 
 > People working on the same components at the same time need to know of each other so they can ask questions and review each other’s code. Do this by creating component [Communities of Practice (CoPs)](https://less.works/less/structure/communities.html), which should communicate via mailing lists, chat, occasional meetings, and other remote collaboration channels.
@@ -79,7 +81,6 @@ What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-y
 
 One place I'm working with invited a component mentor from another team to help them with some code they weren't familiar with yet, with the agreement that the mentor would not touch the keyboard!  This might seem "inefficient" to someone who doesn't yet realize the [full cost of knowledge gaps](/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/).
 
-> 
 > ### Scrum of Scrums
 > 
 > A Scrum of Scrums meeting is a Daily-Scrum-like meeting between teams, typically held two or three times per week.
@@ -109,13 +110,15 @@ If you decide to do Scrum of Scrums meetings anyway, remember to rotate team mem
 
 Are you seeing the theme here?  Only have the meetings you need.  If you've been to an [Open Space Conference](https://www.amazon.com/dp/B005X0OKOY/), you know The Law Of Two Feet requires you to use your two feet whenever you're not learning or contributing.
 
->
+
 > ### Travelers to exploit and break bottlenecks and create skill
 > 
 > Sometimes a product group relies on a couple of experienced technical experts. How can the knowledge of these (scarce) experts be kept available to all teams? They can become travelers. Each Sprint they join a different team, coaching via pairing, workshops, and teaching sessions.
 > 
 > Although travelers are not specifically created for coordination, by joining different teams they create or strengthen a broad network, which is exactly what is needed for informal coordination channels. And they increase the consistency of some knowledge or practice across teams, realizing a coordination goal.
-> 
+ 
+Once when I helped teams reorganize (using a [team-self design workshop](https://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team)) I was surprised that several specialists did not want to join teams and opted to call themselves travelers instead.  But a few months later, they had settled into teams.
+
 > ### Leading Team
 > 
 > In some domains, features are monstrously large. When you split these giants into smaller Product Backlog Items, it can require many teams working closely together, each separately on its own PBI, to create a single monster feature.
@@ -124,4 +127,4 @@ Are you seeing the theme here?  Only have the meetings you need.  If you've been
 > 
 > Sometimes several teams start implementing the giant at the same time. At other times, the leading team starts alone to focus the early knowledge transfer and simplify the creation of a cohesive design. After a few Sprints, more teams join. In this case the lead team also has a teaching responsibility to help the incoming teams learn what they already know.
 
-Do not underestimate the power of a single team in an optimized environment.  The development director of one place I worked with in local government told me that as he introduced Scrum he realized he really only had one capable team out of his 40 employees.  In another famous story, over 100 contractors for the FBI were unable to get anything done.  The solution was to use just a dozen developers in the basement of the FBI Headquarters.
+Do not underestimate the power of a single team in an optimized environment!  The development director of one place I worked with in local government told me that as he introduced Scrum he realized he really only had one capable team out of his 40 employees.  In another famous story, over 100 contractors for the FBI were unable to get anything done.  The solution was to use just a dozen developers in the basement of the FBI Headquarters.
