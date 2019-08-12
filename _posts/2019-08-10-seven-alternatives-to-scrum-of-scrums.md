@@ -30,8 +30,6 @@ At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed S
 In 2008, Craig Larman and Bas Vodde wrote in _Scaling Lean & Agile Development_:
 > The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better...
 
-In 2015 Ken Schwaber introduced Nexus, a multi-team approach with one Product Owner, one Product Backlog, and no Scrum of Scrums.
-
 ## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
 My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed ["big box" approaches to scaling](http://www.lafable.com).  Scrum of Scrums is semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
