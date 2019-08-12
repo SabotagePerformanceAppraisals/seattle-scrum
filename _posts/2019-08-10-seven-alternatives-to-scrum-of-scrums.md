@@ -28,7 +28,7 @@ Ken's CSM training materials and online discourse from this time on reflect his 
 At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums. Nearly every slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
 In 2008, Craig Larman and Bas Vodde wrote in _Scaling Lean & Agile Development_:
-> The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better..."
+> The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better...
 
 In 2015 Ken Schwaber introduced Nexus, a multi-team approach with one Product Owner, one Product Backlog, and no Scrum of Scrums.
 
