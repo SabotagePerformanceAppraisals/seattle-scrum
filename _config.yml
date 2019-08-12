@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "The Seattle Scrum Company"
 title_separator          : "-"
 name                     : "The Seattle Scrum Company"
-description              : "Simplify your organization."
+description              : "Helping organizations learn to adapt to reality."
 url                      : "https://seattlescrum.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "michaeldotjames"
   vine             :
   weibo            :
   xing             :
