@@ -59,6 +59,9 @@ How do we know they'll want to talk to us?   In LeSS we try to remove the usual 
 > LeSS groups adopt [continuous integration](https://less.works/less/technical-excellence/continuous-integration), which means that everyone has all their code checked in to the central repository mainline (branches are an unnecessary complication that should be avoided). Everyone in the product teams synchronizes with the repository several times a day and will get all the changes that other people have made.
 >
 > So, when you update, spend two minutes going over the changes that were made by others and see if they relate to what you are working on now. If so, feel free to get up and “just talk” in order to synchronize your work with the others!
+
+Branching is _delayed integration_!  
+
 > 
 > ### Send Observers to the Daily Scrum
 > 
