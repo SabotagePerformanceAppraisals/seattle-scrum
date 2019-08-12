@@ -29,14 +29,16 @@ Ken Schwaber wrote his best book ever in 2004: _Agile Project Management With Sc
 Ken's CSM training materials and online discourse from this time on reflect his growing realization that the Scrum Master should have no authority over the team.  
 
 ### The Disavowal
-At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums. Soon all but one slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
+At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed Scrum of Scrums. Nearly every slide about it disappeared from his training deck.  In a discussion group many years later, Mike Beedle expressed regret for the Black Book's recommendation of using Scrum Masters as team representatives.
 
 In 2008, Craig Larman and Bas Vodde wrote in _Scaling Lean & Agile Development_:
 > The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better..."
 
+In 2015 Ken Schwaber introduced Nexus, a multi-team approach with one Product Owner, one Product Backlog, and no Scrum of Scrums.
+
 ## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
-My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and  Jeff Sutherland) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
+My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed "big box" approaches to scaling.  It's semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 * * *
 
@@ -60,7 +62,9 @@ How do we know they'll want to talk to us?   In LeSS we try to remove the usual 
 >
 > So, when you update, spend two minutes going over the changes that were made by others and see if they relate to what you are working on now. If so, feel free to get up and “just talk” in order to synchronize your work with the others!
 
-Branching is _delayed integration_!   What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-your-code/) practices or policies many companies have. 
+Branching is _delayed integration_!   Merge problems increase exponentially over time.
+
+What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-your-code/) practices and policies many companies have. 
 
 > 
 > ### Send Observers to the Daily Scrum
@@ -78,6 +82,9 @@ Branching is _delayed integration_!   What else makes *Communicate in Code* hard
 > A component may have several mentors who share the work and thereby reduce key-person dependency.
 > 
 > Important!… Besides helping coordination, these practices help maintain or improve the code/design quality of a component, and increase learning.
+
+One place I'm working with invited a component mentor from another team to help them with some code they weren't familiar with yet, with the agreement that the mentor would not touch the keyboard!  This might seem "inefficient" to someone who doesn't yet realize the [full cost of knowledge gaps](/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/).
+
 > 
 > ### Scrum of Scrums
 > 
@@ -94,7 +101,9 @@ Branching is _delayed integration_!   What else makes *Communicate in Code* hard
 > A caution: The desire to hold a Scrum of Scrums can be a sign of unnecessary dependency or coordination problems caused by single-function groups and component teams, or by teams not able or willing to identify and do shared work.
 > 
 > Scrum of Scrums isn’t a part of LeSS and as a more formal centralized coordination technique, it is also not recommended. That said, if it is working, please don’t stop doing it… yet don’t feel you must do it because of adopting LeSS.
-> 
+
+If you decide to do Scrum of Scrums meetings anyway, remember to rotate team members.  And of course you wouldn't send Scrum Masters, since they have no authority to coordinate teams.
+
 > ### Multi-team meetings
 > 
 > It is common for some teams to need to work closely together whereas others may not feel that need. For teams that work closely together, it is common to have multi-team LeSS meetings. Some examples would be:
@@ -103,6 +112,9 @@ Branching is _delayed integration_!   What else makes *Communicate in Code* hard
 > * Multi-team [Sprint Planning Two](https://less.works/less/framework/sprint-planning_two.html)
 > * Multi-team [Design Workshops](https://less.works/less/technical-excellence/architecture-design.html)
 > * Exchange members in Daily Scrum.
+
+Are you seeing the theme here?  Only have the meetings you need.  If you've been to an [Open Space Conference](https://www.amazon.com/dp/B005X0OKOY/), you know The Law Of Two Feet requires you to use your two feet whenever you're not learning or contributing.
+
 >
 > ### Travelers to exploit and break bottlenecks and create skill
 > 
@@ -117,4 +129,5 @@ Branching is _delayed integration_!   What else makes *Communicate in Code* hard
 > Another technique for coordinating teams working together on the split items of a big related feature is a leading team. A leading team is just a regular feature team that takes a leading role for the overall giant feature. In addition to doing development work, they are responsible for keeping track of what the other teams are doing and helping them synchronize. In short, they organize cross-team coordination related to the giant in addition to themselves doing development.
 > 
 > Sometimes several teams start implementing the giant at the same time. At other times, the leading team starts alone to focus the early knowledge transfer and simplify the creation of a cohesive design. After a few Sprints, more teams join. In this case the lead team also has a teaching responsibility to help the incoming teams learn what they already know.
-> 
+
+Do not underestimate the power of a single team in an optimized environment.  The development director of one place I worked with in local government told me that as he introduced Scrum he realized he really only had one capable team out of his 40 employees.  In another famous story, over 100 contractors for the FBI were unable to get anything done.  The solution was to use just a dozen developers in the basement of the FBI Headquarters.
