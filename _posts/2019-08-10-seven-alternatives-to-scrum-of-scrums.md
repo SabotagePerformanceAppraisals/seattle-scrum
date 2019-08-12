@@ -60,7 +60,7 @@ How do we know they'll want to talk to us?   In LeSS we try to remove the usual 
 >
 > So, when you update, spend two minutes going over the changes that were made by others and see if they relate to what you are working on now. If so, feel free to get up and “just talk” in order to synchronize your work with the others!
 
-Branching is _delayed integration_!   What else makes *Communicate in Code* hard?  The [my code, your code](/your-code-my-code/) practices or policies many companies have. 
+Branching is _delayed integration_!   What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-your-code/) practices or policies many companies have. 
 
 > 
 > ### Send Observers to the Daily Scrum
