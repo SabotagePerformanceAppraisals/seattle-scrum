@@ -1,18 +1,14 @@
 ---
 title: 'Seven Alternatives To The Dreaded Scrum Of Scrums'
-toc: true
-header:
-   teaser: "../images/scrum-of-scrums-sucks.png"
 ---
-![Scrum of Scrums sucks](../images/scrum-of-scrums-sucks.png)
-
-* * *
-
 Scrum Master Peter Woolley writes:
 > I really enjoyed the Scrum of Scrum (SOS) slide. I have only seen this work once, when SMs and POs met 3 times a week to share their premeditated conversations and working agreements at a feature level, frequently it descends into a round robin project update or a mind numbingly boring task level detailed update meeting where PMs confuse and confound each other.
 
 I'll start with the most practical link in this article.  If you're in a hurry, just go to the overview of the seven alternatives here:
 <https://less.works/less/framework/coordination-and-integration.html>
+
+![Scrum of Scrums sucks](/images/scrum-of-scrums-sucks.png)
+
 
 ## Back Story of Scrum of Scrums
 
