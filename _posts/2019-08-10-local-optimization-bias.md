@@ -10,7 +10,7 @@ My boss produced reports for his boss showing how much money we'd saved the comp
 ![Team Productivity Local Optimization Bias](../images/team-productivity-local-optimization-bias.png)
 Another example of local optimization bias would be the way beginning Scrum Masters focus on trying to make a team more "productive" (or worse: "hyperproductive") instead of helping the product development organization become better able to learn and adapt.
 
-A variation is *branching* in our source code repository.  Whenever someone says "Let's create a branch!" you should hear "Let's delay integration!" 
+A variation is *branching* in our source code repository.  Whenever someone says "Let's create a feature branch!" or "Let's use Gitflow!" you should hear "Let's delay integration!" 
 
 Do you have some examples of local optimization?  Please send them in!
 
