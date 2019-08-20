@@ -31,6 +31,19 @@ At a Scrum Gathering (probably Stockholm in late 2007), Ken publicly disavowed S
 In 2008, Craig Larman and Bas Vodde wrote in _Scaling Lean & Agile Development_:
 > The most common misconception regarding the SoS is the assumption that it is the best or only way to hold a coordination meeting in Scrum.  The SoS seemed a reasonable idea when first proposed (based on limited experiments), but there are alternatives that people now realize may work better...
 
+### SoS Meeting Recommendation Morphs Into A Structural Recommendation
+Bas Vodde sent me this comment:
+> I think you probably want to distinguish two different Scrum of Scrums concepts:
+> 
+> 1) The Scrum of Scrums meeting. Which seems to be in most of Ken’s writing and to be associated with SAFe. Most of the article is about that.
+> 
+> 2) The "Scrum of Scrums” structural idea. This is what Cesario was referring about and is called “the Nexus” in Nexus. You ‘could’ think of an Requirement Area in LeSS of that (I do not, but can understand the argument).
+> 
+> My interpretation of history is that (1) morphed into (2) over time… 
+> 
+> Bas
+
+
 ## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
 My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed ["big box" approaches to scaling](http://www.lafable.com).  Scrum of Scrums is semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
