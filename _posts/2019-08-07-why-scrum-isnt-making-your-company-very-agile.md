@@ -15,7 +15,7 @@ And/or download the comic book:
 
 ---
 
-[Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können ([Contact me](/contact) to join the German translation volunteers.)![Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-de.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-de.pdf)
+Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können [![Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-de.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-de.pdf)
 
 ---
 
