@@ -1,7 +1,7 @@
 ---
 title: "Larman’s Laws (日本語)"
-read_time: false
 redirect_to: https://scrummaster.jp/larmans-laws-jp/
+read_time: false
 ---
 1. 組織構造は暗黙的に現行のマネージャーと専門家の役職や権限が変わらないように最適化されています。
 
