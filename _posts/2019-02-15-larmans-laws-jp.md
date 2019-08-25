@@ -1,5 +1,6 @@
 ---
 title: "Larman’s Laws (日本語)"
+permalink: /larmans-laws-jp/index.html
 redirect_to: https://scrummaster.jp/larmans-laws-jp/
 read_time: false
 ---
