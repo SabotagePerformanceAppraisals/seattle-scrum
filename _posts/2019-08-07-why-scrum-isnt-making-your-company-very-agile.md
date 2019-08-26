@@ -7,6 +7,7 @@ Watch the video:
 {% include video id="cr2rjaGmUzo?rel=0" provider="youtube" %}
 And/or download the comic book:
 [![comic book version](/assets/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2-cover.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2.pdf)
+[Contact Tommi](mailto:tommi@seattlescrum.com?subject=Please mail me comic books) for the printed version with slightly less snazzy graphics.
 
 ---
 
