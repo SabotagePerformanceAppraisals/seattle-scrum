@@ -11,19 +11,21 @@ And/or download the comic book:
 ---
 
 スクラム導入後にアジリティが減少してしまう理由：プロダクトオーナーの役割に対する誤解、その悪影響および対処法について
-[![comic book version](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-jp.png)](https://scrummaster.jp/) 
+[![Japanese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-jp.png)](https://scrummaster.jp/) 
 
 ---
 
-Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können [![Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-de.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-de.pdf)
+Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können
+[![German](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-de.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-de.pdf)
 
 ---
+Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать
+[![Russian](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-ru.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-ru.pdf)
 
-[Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-ru.pdf)
-
+---
 
 给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
-[![给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf) 
+[![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf) 
 
 ---
 
