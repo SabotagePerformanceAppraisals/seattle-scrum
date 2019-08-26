@@ -19,6 +19,9 @@ Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständniss
 
 ---
 
+[Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-ru.pdf)
+
+
 给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
 [![给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf) 
 
@@ -26,5 +29,4 @@ Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständniss
 
 Work In Progress:
 * [Pourquoi “Scrum” ne rend pas votre entreprise plus Agile : de quelle manière les idées fausses sur le rôle du Product Owner nuisent à votre organisation, et que faire pour remédier à cette situation.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)  ([Contact me](/contact) to join the French translation volunteers.) ![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)
-* [Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing) ([Contact me](/contact) to join the Russian translation volunteers.)
 * Waarom “Scrum” je onderneming niet erg Agile maakt: hoe misverstanden over de Product Owner rol je organisatie schaden, en wat er aan te doen. ([Contact me](/contact) to join the Dutch translation volunteers.)
