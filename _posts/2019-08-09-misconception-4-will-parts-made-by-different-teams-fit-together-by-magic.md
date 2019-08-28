@@ -55,5 +55,11 @@ Except in trivial cases where we aren't doing anything new, engineering effort w
 
 One of my clients is in a domain largely devoid of prior standards and APIs because (unlike Adobe) no one else has done what they're doing.  They have a few hundred developers working on what used to be a dozen distinct products.  But they know their real competitive advantage will come when customers see the whole suite as one integrated product.  These products weren't initially developed to work together.  For them it's worth the millions of dollars of effort they're expending to make them work together inside and outside.  It would be harmful to send them a typical Agile coach or Scrum trainer who is going to focus them on individual team productivity -- like I used to 15 years ago -- rather than the whole product.
 
+## History Of Attempts To Eradicate This Misconception
+
+Here are [NATO conference notes from 1968](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF) pointing out how silly it is to believe the following:
+
+> Interfacing this system to the rest of the software is trivial and can be easily worked out later.
+
 If we have more than 12 people in a product company, we want teams working with teams (and customers).
 [![Teams Working With Teams](../images/page-27.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
