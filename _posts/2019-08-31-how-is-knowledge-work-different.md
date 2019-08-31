@@ -7,5 +7,5 @@ Imagine that you had spent Monday through Thursday working on an essay, a song, 
 
 Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the knowledge creation, the learning.
 
-Have you ever noticed that companies with lots of money and people can't seem to develop software that works very well?  I know interns who can make better websites than certain airlines can.  Those shops aren't built for learning.  They're organized as if *the typing* was the constraint.
+Have you ever noticed that companies with lots of money and people can't seem to develop software that works very well?  I know interns who can make better websites than certain airlines can.  Those shops aren't built for learning.  They're organized as if software development is just about typing code.
 
