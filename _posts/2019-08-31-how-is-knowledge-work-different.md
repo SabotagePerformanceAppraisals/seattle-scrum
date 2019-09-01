@@ -1,5 +1,5 @@
 ---
-title: "How is Knowledge Work Different?"
+title: "How is Knowledge Work Different? (Why Johnny, Inc. Can't Code.)"
 ---
 ## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge.
 
