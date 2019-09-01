@@ -11,3 +11,14 @@ Have you noticed that companies with lots of money and people can't seem to deve
 
 What would be different about an organization that recognizes that better software is really about our ability to discover and create knowledge?
 
+| Traditional Organization | Continuous Learning Organization  |
+| :----------:|:-------------:|
+| people work in separate cubicals, offices, or cities | each small team works at the same table | 
+| more people | fewer people | 
+| more roles | fewer roles | 
+| single-skilled workers | multi-skilled workers | 
+| many people learn from customers and end users | fewer people learn from customers and end users |
+| private code ([my code/your code](/my-code-your-code/)) policies | internal open-source policies |
+| people spend time sharing screens and whiteboards | people spend time reading/writing "tickets" |
+
+This isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
