@@ -18,10 +18,12 @@ What would be different about an organization that recognizes that better softwa
 | more roles | fewer roles | 
 | more departments | fewer departments | 
 | single-skilled workers | multi-skilled workers | 
-| many people learn from customers and end users | fewer people learn from customers and end users |
+| many people learn from customers and end users | [fewer people learn from customers and end users](https://www.youtube.com/watch?v=RAY27NU1Jog) |
 | private code ([my code/your code](/my-code-your-code/)) policies | internal open-source policies |
 | people spend time sharing screens and whiteboards | people spend time reading/writing "tickets" |
 | focus on execution and velocity | focus on impact |
 | experimentation is encouraged | mistakes are not survivable |
+| [retrospectives cause improvements to company policies and structure](https://less.works/less/framework/overall-retrospective.html) | retrospectives affect teams only |
+| [managers are capability builders](https://less.works/less/management/role-of-manager.html) | managers coordinate, reallocate, motivate, and mediate |
 
 This isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
