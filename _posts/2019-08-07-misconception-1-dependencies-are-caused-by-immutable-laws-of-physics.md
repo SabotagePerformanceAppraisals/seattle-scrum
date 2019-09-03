@@ -14,6 +14,7 @@ The following false analogy is a quote from a *program manager* (project manager
 In knowledge work, “dependencies” are not caused by immutable laws of physics. The perceived need to plan around them through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. This should be directly addressed rather than institutionalized with the waterfall dependency management that masquerades as Agile scaling.  The socks and shoes argument inadvertently demonstrates that "dependencies" in software development *are* figments of old-style thinking.
 
 By the way, ten years ago I'd usually hear the same misconception expressed as a *house analogy*:  "If you want to build a house, you have to build the foundation first.  You can't start with the roof."  And this may be true ... about houses.  
+
 ## How is Knowledge Work Different?
 
 The fundamental constraint of knowledge work is *knowledge*.  Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn't work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.  Then Thursday night your cat walked across the keyboard and somehow deleted your entire git repository.
