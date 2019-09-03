@@ -42,3 +42,24 @@ QUESTION:
 
 MJ:
 > Even better! Strive to be like [this team in San Diego](/technical-debt-is-the-high-cost-of-future-change/) that releases live features multiple times a day, usually without bugs.
+
+COMMENT (from Adam Gauvin):
+> Preach brother!
+>
+> As a developer, project lead, and occasional scrum master I got to say "velocity" and "burn down" are among keywords to quit usually. It is extremely rare that these align with value delivered.
+>
+> Seriously anything is better than delusional leadership and lack of vision. Any process deemed agile which disguises ineptitude and ignorance on the premise of presenting added value that isn't actually measurable to upper echelons needs to be eradicated like an *excusez mon francais* plague. Period.
+>
+> If your company has practices that alienate the lads and lasses in the trenches with working knowledge of what is needed from what they are actually doing you will: 
+>
+> A) lose the most talented ones who can get paid more elsewhere
+>
+> B) fail to deliver value to the customer
+>
+> C) over-engineer for the sake of [insert non-descriptive reason]
+>
+> D) end up with solutions to problems you didn't need to solve
+>
+> E) waste a lot of time and resources in the name of metrics
+>
+> F) Finally realize you wasted even more resources on PGMO and/or portfolio management and "being agile" than hiring extra qualified developers that could have actually helped would have cost.
