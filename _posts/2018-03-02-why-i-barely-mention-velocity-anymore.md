@@ -1,5 +1,7 @@
 ---
-image: /images/velocity.png
+header:
+  og_image: /images/velocity.png
+  teaser: /images/velocity.png
 ---
 *Velocity* isn’t part of any Scrum definition that I’m aware of.  The application of "velocity" to software development was invented by eXtreme Programming (XP) pioneers, some of whom now consider it to have been a bad idea.  
 
