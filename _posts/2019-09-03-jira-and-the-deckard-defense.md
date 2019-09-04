@@ -10,7 +10,7 @@ Here's a familiar pattern: An experienced observer notes that a certain tool, me
 
 The Deckard Defense is logically valid, but misses the point that Thing X _usually_ has a harmful effect, and removing it _usually_ has a beneficial effect.
 
-While I've heard this argument used to defend [velocity](why-i-barely-mention-velocity-anymore/), burndown charts, and [Scrum of Scrums](seven-alternatives-to-scrum-of-scrums/), it most frequenly comes up around tools like JIRA.
+While I've heard this argument used to defend [velocity](/why-i-barely-mention-velocity-anymore), burndown charts, and [Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums/), it most frequenly comes up around tools like JIRA.
 
 JIRA is particularly harmful to collaboration when used for the _Sprint Backlog_, the work a team has chosen to do during one Sprint.  Even if there's a shared Product Backlog in some electronic tool (ideally something much simpler than JIRA), the Sprint Backlog is meant to belong to the _team_ that's working on it.  Unfortunately you can't spend much time in a JIRA-based shop without hearing people talk about "my ticket" and "your ticket."
 
