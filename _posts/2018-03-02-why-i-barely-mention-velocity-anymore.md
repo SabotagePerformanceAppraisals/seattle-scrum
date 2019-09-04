@@ -1,3 +1,6 @@
+---
+image: /images/velocity.png
+---
 *Velocity* isn’t part of any Scrum definition that I’m aware of.  The application of "velocity" to software development was invented by eXtreme Programming (XP) pioneers, some of whom now consider it to have been a bad idea.  
 
 Unfortunately, some people in the Scrum world are still pushing things like "400% velocity increase" and "hyperproductivity."  I am embarrassed by this.  This isn't *my* Scrum as I learned from Ken Schwaber, who instead emphasized a rigorous definition of *done* and avoiding promises we can't keep.
