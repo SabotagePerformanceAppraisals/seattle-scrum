@@ -50,8 +50,8 @@ Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständniss
 ### Français (French)
 
 [Pourquoi “Scrum” ne rend pas votre entreprise plus Agile : de quelle manière les idées fausses sur le rôle du Product Owner nuisent à votre organisation, et que faire pour remédier à cette situation.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)  
-
-([Contact us](/contact) to join the French translation volunteers.) ![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)
+![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)
+([Contact us](/contact) to join the French translation volunteers.) 
 
 ### Nederlands (Dutch)
 
@@ -62,7 +62,7 @@ Waarom “Scrum” je onderneming niet erg Agile maakt: hoe misverstanden over d
 ### Português (Portuguese)
 
 [Porque "Scrum" não está fazendo a sua companhia mais agíl?:  Como idéias equivocadas sobre o papel de Product Owner prejudicam a sua organização e o que fazer a respeito.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)
-
+![Portuguese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-pt.png)
 ([Contact us](/contact) to join the Portuguese translation volunteers.)
 
 ### Español (Spanish)
