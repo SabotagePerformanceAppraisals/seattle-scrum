@@ -1,6 +1,7 @@
 ---
 title: "How is Knowledge Work Different? (Why Johnny, Inc. Can't Code.)"
 header:
+  og_image: /images/git-rm-r.png
   teaser: /images/git-rm-r.png
 ---
 ## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge.
