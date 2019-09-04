@@ -1,8 +1,6 @@
-A while ago a critic of Scrum tweeted a poster from the popular movie “Velocity,” modified to include a photo of Ken Schwaber.  While I agree that focusing on velocity has been harmful, I thought it was misguided to blame Ken for that, since he’s been one of the people telling us to make fewer promises and instead increase our rigor around definition of *done*.
+*Velocity* isn’t part of any Scrum definition that I’m aware of.  The application of "velocity" to software development was invented by eXtreme Programming (XP) pioneers, some of whom now consider it to have been a bad idea.  
 
-Fortunately *velocity* isn’t part of any Scrum definition that I’m aware of.  The application of "velocity" to software development was invented by eXtreme Programming (XP) pioneers, some of whom now consider it to have been a bad idea.  
-
-Unfortunately, some people in the Scrum world are still pushing things like "400% velocity increase" and "hyperproductivity."  I am embarrassed by this.  This isn't *my* Scrum and I hope it hasn't become Ken's Scrum.
+Unfortunately, some people in the Scrum world are still pushing things like "400% velocity increase" and "hyperproductivity."  I am embarrassed by this.  This isn't *my* Scrum as I learned from Ken Schwaber, who instead emphasized a rigorous definition of *done* and avoiding promises we can't keep.
 
 ![Velocity](/images/velocity.png)
 
