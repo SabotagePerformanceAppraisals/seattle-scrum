@@ -19,7 +19,7 @@ We sometimes hear the concern that one Product Owner would be overburdened by th
 
 ## Beware Pretend "Product Owners" Who Are Really _Team Output Owners_
 
-A common agility-reducing error is to [ignore Ken Schwaber's advice](https://kenschwaber.wordpress.com/2011/01/31/product-owners-not-proxies/) and artifically designate a team-member as a pretend "Product Owner" even though they're really only a _Team Output Owner_ (see below).  People who've witnessed the power of team self organization don't advocate special titles for people on our teams.  The Scrum Guide has a good reason to state 
+A common agility-reducing error is to [ignore Ken Schwaber's advice](https://kenschwaber.wordpress.com/2011/01/31/product-owners-not-proxies/) and artifically designate a team-member as a pretend "Product Owner" even though they're really only a [Team Output Owner](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile).  People who've witnessed the power of team self organization don't advocate special titles for people on our teams.  The Scrum Guide has a good reason to state 
 > Scrum recognizes no titles for Development Team members, regardless of the work being performed by the person.  
 
 And the Agile Manifesto states
