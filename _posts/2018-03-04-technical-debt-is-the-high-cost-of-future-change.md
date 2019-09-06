@@ -1,3 +1,8 @@
+---
+header:
+  og_image: /images/running-tested-features-graph.png
+  teaser: /images/running-tested-features-graph.png
+---
 It is possible for software to meet its current requirements -- to *work* from the perspective of a user -- but difficult to *work with* from the perspective of the developers.  When it takes a lot of time and effort to add features to the software, and when those new features are likely to introduce regression failures, we have *technical debt*.
 ![Running Tested Features Graph](/assets/images/running-tested-features-graph.png)
 In this graph (inspired by [a talk by Ron Jeffries](https://www.infoq.com/interviews/jeffries-running-tested-features)), the green line is what we wished happened in Scrum: an early and sustainable rate of valuable feature delivery. The red line is what we usually get instead: the appearance of progress while we rushed out lots of code in the beginning, followed by painfully slow progress with lots of setbacks as we (or more typically, other people) try to continue development on top of this mess. You can bet someone got promoted for the short term illusion of success before the crossover point, which is [why I barely mention velocity anymore](/why-i-barely-mention-velocity-anymore).
