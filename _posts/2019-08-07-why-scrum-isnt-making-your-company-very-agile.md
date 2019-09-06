@@ -4,6 +4,9 @@ permalink: /Why-Scrum-Isnt-Making-Your-Company-Very-Agile/
 read_time: false
 toc: true
 excerpt: This comic book went viral by revealing the truth of most "Scrum" implementations. It dismantles misconceptions in SAFe and Henrik Kniberg's Nutshell video.
+header:
+  og_image: /images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-en.png
+  teaser: /images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-en.png
 ---
 ## Watch the video
 
