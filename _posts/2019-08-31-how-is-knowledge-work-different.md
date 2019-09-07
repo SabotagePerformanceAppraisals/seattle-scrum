@@ -42,4 +42,4 @@ What would be different about an organization that recognizes that better softwa
 | retrospectives affect teams only |[retrospectives cause improvements to company policies and structure](https://less.works/less/framework/overall-retrospective.html) | 
 | managers coordinate, reallocate, motivate, and mediate | [managers are capability builders](https://less.works/less/management/role-of-manager.html) |
 
-This isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
+Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
