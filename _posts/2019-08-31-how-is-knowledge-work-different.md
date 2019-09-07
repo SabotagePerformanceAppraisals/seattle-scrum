@@ -34,9 +34,9 @@ What would be different about an organization that recognizes that better softwa
 | more departments | fewer departments | 
 | single-skilled workers | multi-skilled workers | 
 | [fewer people learn from customers and end users](https://www.youtube.com/watch?v=RAY27NU1Jog) | many people learn from customers and end users | 
-| private code ([my code/your code](/my-code-your-code/)) policies | internal open-source policies |
+| private code ([my code/your code](/my-code-your-code/)) practices or policies | internal open-source practices |
 | people spend time reading/writing "tickets" | people spend time sharing screens and whiteboards |
-| focus on execution and velocity | focus on impact | 
+| focus on execution, quantity, and velocity | focus on impact | 
 | learning happens only during brief training periods or on employee's own time | learning happens every day on company time | 
 | mistakes are not survivable | experimentation is encouraged | 
 | retrospectives affect teams only |[retrospectives cause improvements to company policies and structure](https://less.works/less/framework/overall-retrospective.html) | 
