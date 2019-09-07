@@ -14,6 +14,21 @@ While I've heard this argument used to defend [velocity](/why-i-barely-mention-v
 
 JIRA is particularly harmful to collaboration when used for the _Sprint Backlog_, the work a team has chosen to do during one Sprint.  Even if there's a shared Product Backlog in some electronic tool (ideally something much simpler than JIRA), the Sprint Backlog is meant to belong to the _team_ that's working on it.  Unfortunately you can't spend much time in a JIRA-based shop without hearing people talk about "my ticket" and "your ticket."
 
+* * *
+
+Jacek Bochenek writes:
+> I think a lot of people who dislike Jira (myself included) go off previous personal experiences on how the tool was used and what problems it coincided with.
+>
+> * Micromanagement,
+> * little or no agency for the team in organising their workflow,
+> * complex work management workflows,
+> * artificial metrics obsession without going to the gemba,
+> * dislocated teams.
+>
+> Jira has little reason to exist outside reinforcing these problems.
+
+* * *
+
 Bas Vodde had this to say:
 > I’ve gotten a lot more aggressive against Jira as I saw it (used as Sprint Backlog) truly destroy teams as it led to individual isolated work.
 >
