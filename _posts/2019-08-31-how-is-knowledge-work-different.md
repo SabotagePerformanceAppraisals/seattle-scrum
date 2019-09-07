@@ -16,7 +16,7 @@ Would it take you another four days to get back to where you were? Of course not
 
 ## Why Johnny, Inc. Can't Write Software
 
-Have you noticed that companies with lots of money and people can't seem to develop software that works very well?  I know interns who can make better websites than certain airlines can.  Those shops aren't built for learning.  They're organized as if software development is just about typing code.  When that fails, they try to fix it with ineffective measures: adding incentives and "accountability", creating new roles and departments, hiring even more people to type code.
+Have you noticed that companies with lots of money and people can't seem to develop software that works very well?  I know interns who can make better websites than certain airlines can.  Those shops aren't built for learning.  They're organized as if software development is just about typing code.  When that fails, they try to fix it with harmful measures: adding incentives and "accountability", creating new roles and departments, hiring even more people to type code.
 
 ### Hint: Johnny, Inc. Is Not "Understaffed"
 
