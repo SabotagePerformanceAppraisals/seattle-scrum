@@ -43,3 +43,9 @@ What would be different about an organization that recognizes that better softwa
 | managers coordinate, reallocate, motivate, and mediate | [managers are capability builders](https://less.works/less/management/role-of-manager.html) |
 
 Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
+
+* * *
+
+## This video has nothing to do with the article, but here it is anyway.
+
+{% include video id="E1JKd1C7izQ?rel=0" provider="youtube" %}
