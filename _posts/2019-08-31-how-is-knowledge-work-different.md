@@ -46,6 +46,6 @@ Becoming a *learning organization* isn't something that gets solved once, by a t
 
 * * *
 
-## This video has nothing to do with the article, but here it is anyway.
+## That previous list has nothing to do with the following Liszt.
 
 {% include video id="E1JKd1C7izQ?rel=0" provider="youtube" %}
