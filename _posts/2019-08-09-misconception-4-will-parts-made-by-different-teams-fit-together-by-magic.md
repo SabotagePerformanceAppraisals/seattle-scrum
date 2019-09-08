@@ -1,6 +1,7 @@
 ---
 title: 'Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?'
 toc: true
+classes: single
 ---
 ## Misconception 4.1: Will Components From Different Teams Integrate Into A Feature Without Teams Working Together?
 

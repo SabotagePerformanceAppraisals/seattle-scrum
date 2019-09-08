@@ -1,13 +1,14 @@
 ---
+classes: single
 header:
   og_image: /images/velocity.png
   teaser: /images/velocity.png
 ---
 *Velocity* isn’t part of any Scrum definition that I’m aware of.  The application of "velocity" to software development was invented by eXtreme Programming (XP) pioneers, some of whom now consider it to have been a bad idea.  
 
-Unfortunately, some people in the Scrum world are still pushing things like "400% velocity increase" and "hyperproductivity."  I am embarrassed by this.  This isn't *my* Scrum as I learned from Ken Schwaber, who instead emphasized a rigorous definition of *done* and avoiding promises we can't keep.
-
 ![Velocity](/images/velocity.png)
+
+Unfortunately, some people in the Scrum world are still pushing things like "400% velocity increase" and "hyperproductivity."  I am embarrassed by this.  This isn't *my* Scrum as I learned from Ken Schwaber, who instead emphasized a rigorous definition of *done* and avoiding promises we can't keep.
 
 If we’re promoting *the ability to learn and adapt to reality as it’s discovered*, the traditional focus on productivity (whatever that is) can be actively harmful, especially given our nearsightedness (difficulty seeing the whole picture) and cognitive biases towards short termism.  One reason your code cannot be easily changed now is that people were scrambling to get “projects” done, and didn’t create many automated tests, didn’t constantly refactor their code, didn’t pair program, didn't mob program, or didn't even do traditional code reviews.
 

@@ -3,7 +3,7 @@ If we want an organization that can quickly adapt to external reality as it's di
 
 {% assign my_image = '/assets/images/try-this-instead-with-legend.png' %}
 <a href="{{ my_image }}">
-![One Product Owner For Several Teams]({{ my_image | absolute_url }})
+![One Product Owner For Several Teams]({{ my_image | absolute_url }}){: .align-center}
 </a>
 
 We sometimes hear the concern that one Product Owner would be overburdened by this, becoming a bottleneck.  Here are the problems I've usually seen causing Product Owner bottleneck:
@@ -26,4 +26,4 @@ And the Agile Manifesto states
 > The best architectures, requirements, and designs emerge from self-organizing teams. 
 
 It is contradictory to tell a team that [Bob the Business Analyst has special authority over the rest of the team members](https://www.youtube.com/watch?v=KawTjfX--Eg) while simultaneously telling them to self organize. In the 21st Century, Bob belongs on our self organizing team without a process-imposed role.  
-![Product Owner or Team Output Owner?](/assets/images/SCRUM-COMIC-pg003.jpg){: .align-center}
+![Product Owner or Team Output Owner?](/images/team-output-owner.png){: .align-center}

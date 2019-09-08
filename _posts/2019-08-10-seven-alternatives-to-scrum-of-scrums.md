@@ -1,6 +1,7 @@
 ---
 title: 'Seven Alternatives To The Dreaded Scrum Of Scrums'
 toc: true
+classes: single
 ---
 Scrum Master Peter Woolley writes:
 > I really enjoyed the Scrum of Scrum (SOS) slide. I have only seen this work once, when SMs and POs met 3 times a week to share their premeditated conversations and working agreements at a feature level, frequently it descends into a round robin project update or a mind numbingly boring task level detailed update meeting where PMs confuse and confound each other.

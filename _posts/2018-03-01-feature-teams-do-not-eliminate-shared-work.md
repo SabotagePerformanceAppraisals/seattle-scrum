@@ -1,15 +1,14 @@
 ---
+excerpt: It is nearly always better to organize into cross-component *feature teams* that aren't restricted (by policy or skills) to a single architectural layer or design component. But transitioning from component teams to feature teams usually isn't simple or easy.  Here's an interesting discussion I recently had on this topic.
 ---
 
+
+![Feature Teams](/assets/images/feature-teams.png){: .align-right width="50%"}
 
 BACKGROUND: It is nearly always better to organize into cross-component *feature teams* that aren't
 restricted (by policy or skills) to a single architectural layer or design component. But transitioning
 from component teams to feature teams usually isn't simple or easy.  Here's an interesting discussion
 I recently had on this topic.
-
-----
-
-![Feature Teams](/assets/images/feature-teams.png)
 
 ----
 

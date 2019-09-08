@@ -7,10 +7,10 @@ Small teams are great, and mandated by the definition of Scrum.  Scrum also mand
 Most companies have more than 11 people working on any given product.  *Just to make Scrum fit* (a [local optimization](/local-optimization-bias)), they will redefine "Product" to mean something narrower than the whole product.  This is the first step into a house of mirrors where words mean the opposite of their original intent.
 
 The next mistake is to give each team a "Product Backlog" which astute observers will notice is really only a *Team Backlog*.
-![Product Backlog minus whole product authority equals Team Backlog](../images/product-backlog-minus-whole-product-authority-equals-team-backlog.png)
+![Product Backlog minus whole product authority equals Team Backlog](../images/product-backlog-minus-whole-product-authority-equals-team-backlog.png){: .align-center width="70%"}
 
 And then give each team a separate "Product Owner" who is really just a *Team Output Owner*.
-![Product Owner minus whole product authority equals Team Output Owner](../images/product-owner-minus-whole-product-authority-equals-team-output-owner.png)
+![Product Owner minus whole product authority equals Team Output Owner](../images/product-owner-minus-whole-product-authority-equals-team-output-owner.png){: .align-center width="70%"}
 
 This leaves us with perhaps a dozen separate "Scrum Teams" who managers worry would run around like chickens with their heads cut off unless we pulled them together somehow.  The traditional way of doing this, dating back at least as far as Julius Caesar's army, is to add hierarchical layers.  Humans have trouble thinking of alternatives to hierarchical layers; unfortunately this is what's recommended at the end of Henrik Kniberg's extremely popular Product Owner video (a great video up until the few minutes at the end).  So now we get "Chief Product Owner" or "Business Owner" or some other way of filling the gap.  
 
