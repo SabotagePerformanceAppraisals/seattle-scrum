@@ -2,8 +2,8 @@
 title: 'Large Organization Software Development Misconception #1: Are "Dependencies" In Knowledge Work Caused By Immutable Laws Of Physics?'
 excerpt: "Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality."
 header:
-  og_image: /images/yarn.svg
-  teaser: /images/yarn.svg
+  og_image: /images/yarn.png
+  teaser: /images/yarn.png
 ---
 
 ## Background
