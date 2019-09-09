@@ -8,7 +8,7 @@ Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted
 
 Unfortunately, people who haven't discovered [how knowledge work is different from traditional work](/how-is-knowledge-work-different) misapply these techniques to software development.
 
-Software development companies sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
+Software development companies steeped in the project manager mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
 
 ## Physical analogies for software development (and other knowledge work) are mental traps
 
