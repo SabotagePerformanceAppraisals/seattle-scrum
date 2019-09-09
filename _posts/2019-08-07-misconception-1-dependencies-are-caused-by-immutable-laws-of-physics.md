@@ -1,11 +1,18 @@
 ---
 title: 'Large Organization Software Development Misconception #1: Are "Dependencies" In Knowledge Work Caused By Immutable Laws Of Physics?'
 excerpt: "Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality."
+header:
+  og_image: /images/yarn.svg
+  teaser: /images/yarn.svg
 ---
+
 ## Background
+
+![Henry L Gantt](/images/henry-l-gantt.jpg){: .align-right width="20%"}
 
 Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.  (Interesting trivia: the Soviet Union tried to use a Gantt chart for it's first five-year plan.)
 
+![SAFe yarn](/images/yarn.svg){: .align-right width="20%"}
 Unfortunately, people who haven't discovered that [knowledge work is different from traditional work](/how-is-knowledge-work-different) misapply these techniques to software development.  Software development companies steeped in the project manager mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
 
 ## Physical analogies for software development (and other knowledge work) are mental traps
