@@ -1,0 +1,1 @@
+I walked into a Backlog Refinement session with one person typing at a keyboard, a couple people interacting with him, and everyone else looking bored.  We wrote the items on large Post-It Notes and put them on walls and tables instead.  Just this change seemed to bring it to life.
