@@ -22,4 +22,4 @@ A decendent of the failed Rational Unified Process (RUP) approach called [Scaled
 
 These traditional/Agile hybrid approaches leave the biggest problems in the traditional space rather than the Scrum space of single-list prioritization and team self organization.  With a narrow view of the product, only our toes wind up being Agile.  The rest of our body is still hidebound by traditional management.
 
-Scrum Masters (and management, if you have it) should help eradicate your current incentives and encourage a [Whole Product Focus](https://less.works/less/principles/whole-product-focus.html) instead.
+Scrum Masters (and management, if you have it) should help eradicate narrow views and encourage a [Whole Product Focus](https://less.works/less/principles/whole-product-focus.html) instead.
