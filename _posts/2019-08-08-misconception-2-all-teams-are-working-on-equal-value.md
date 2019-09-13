@@ -1,5 +1,8 @@
 ---
 title: 'Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?'
+header:
+  og_image: /images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png
+  teaser: /images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png
 ---
 
 [![Product Owner Misconceptions Page 16](../images/page-16.png){: .align-right width="60%"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
