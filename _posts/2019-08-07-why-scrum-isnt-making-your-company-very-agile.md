@@ -48,15 +48,15 @@ Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständniss
 给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
 [![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf) 
 
+### Français (French)
+
+Pourquoi “Scrum” ne rend pas votre entreprise plus Agile : de quelle manière les idées fausses sur le rôle du Product Owner nuisent à votre organisation, et que faire pour remédier à cette situation.
+[![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-fr.pdf)
+
 ---
 
 ## Translations In Progress.  Please help!
 
-### Français (French)
-
-[Pourquoi “Scrum” ne rend pas votre entreprise plus Agile : de quelle manière les idées fausses sur le rôle du Product Owner nuisent à votre organisation, et que faire pour remédier à cette situation.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)  
-![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)
-([Contact us](/contact) to join the French translation volunteers.) 
 
 ### Nederlands (Dutch)
 
