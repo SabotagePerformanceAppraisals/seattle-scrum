@@ -36,23 +36,12 @@ Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständniss
 
 ---
 
-### русский (Russian)
-
-Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать
-[![Russian](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-ru.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-ru.pdf)
-
----
-
-### 中文 (Chinese)
-
-给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
-[![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf) 
-
 ### Français (French)
 
 Pourquoi “Scrum” ne rend pas votre entreprise plus Agile : de quelle manière les idées fausses sur le rôle du Product Owner nuisent à votre organisation, et que faire pour remédier à cette situation.
 [![French](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-fr.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-fr.pdf)
 
+---
 
 ### Nederlands (Dutch)
 
@@ -74,3 +63,21 @@ Waarom “Scrum” je onderneming niet erg Agile maakt: hoe misverstanden over d
 [¿Por que Scrum no está haciendo a tu compañía más ágil ?: Cómo ciertas ideas equivocadas  sobre el rol del Product Owner perjudican a su organización y qué hacer al respecto.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)
 
 ([Contact us](/contact) to join the Spanish translation volunteers.)
+
+---
+
+### 中文 (Chinese)
+
+给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
+[![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf)
+
+([Contact us](/contact) to join the Chinese translation volunteers.)
+
+---
+
+### русский (Russian)
+
+Почему "Скрам" Не Делает Вашу Компанию Достаточно Аджайл:  Как Недопонимание Роли Продукт Овнура Вредит Вашей Организации, И Что С Этим делать
+[![Russian](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-ru.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-ru.pdf)
+
+([Contact us](/contact) to join the Russian translation volunteers.)
