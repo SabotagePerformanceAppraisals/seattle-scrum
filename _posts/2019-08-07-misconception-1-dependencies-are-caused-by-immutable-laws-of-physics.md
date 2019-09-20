@@ -13,7 +13,7 @@ header:
 Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.  (Interesting trivia: the Soviet Union tried to use a Gantt chart for it's first five-year plan.)
 
 ![SAFe yarn](/images/yarn.svg){: .align-right width="20%"}
-Unfortunately, people who haven't discovered that [knowledge work is different from traditional work](/how-is-knowledge-work-different) misapply these techniques to software development.  Software development companies steeped in the project manager mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
+Unfortunately, people who haven't discovered that [knowledge work is different from traditional work](/how-is-knowledge-work-different) misapply these techniques to software development.  Software development companies steeped in the project management mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it's still being sold as an "Agile" technique today!
 
 ## Physical analogies for software development (and other knowledge work) are mental traps
 
@@ -27,7 +27,7 @@ The illusion that we need to plan around "dependencies" through multiple Sprints
 
 Ten years ago I'd usually hear the same misconception expressed as a *house analogy*:  "If you want to build a house, you have to build the foundation first.  You can't start with the roof."  And this may be true ... about houses.
 
-## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge. 
+## The fundamental constraint of [knowledge work](/how-is-knowledge-work-different) -- such as software development -- is our ability to discover and create knowledge. 
 
 Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn't work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.
 
