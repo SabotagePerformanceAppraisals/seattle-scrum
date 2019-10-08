@@ -10,7 +10,7 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Oct 8-10 | Certified Scrum Master (in English) | Tokyo, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=Oct 8-10 CSM)
-| Dec 5-6 | Certified Scrum Master | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Dec 5-6 CSM)
+| Dec 4-6 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Dec 4-6 CSM+CLB)
 
 
 ----
