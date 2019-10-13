@@ -61,7 +61,7 @@ One of my clients is in a domain largely devoid of prior standards and APIs beca
 
 ## History Of Attempts To Eradicate This Misconception
 
-Here are [NATO conference notes from 1968](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF) pointing out how silly it is to believe the following:
+Here are [NATO conference notes from 1968](/downloads/nato1968.PDF) pointing out how silly it is to believe the following:
 
 > Interfacing this system to the rest of the software is trivial and can be easily worked out later.
 
