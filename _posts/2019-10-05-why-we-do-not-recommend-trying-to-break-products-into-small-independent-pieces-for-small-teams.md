@@ -1,4 +1,4 @@
-Just today I heard two people give the same naive scaling advice: divide products into independent pieces for different teams to work on.  This advise is very common and it illustrates a widespread blind spot in the Agile coaching and training community.  
+Just today I heard two people give the same naive scaling advice: divide products into independent pieces for different teams to work on.  This advise is so common that it's become a cliché.  It illustrates a widespread blind spot in the Agile coaching and training community.  
 
 Pre-dividing products would appear to make life easier for Scrum Teams.  But in the big picture, it actually *reduces* the product development organization's agility:
 
