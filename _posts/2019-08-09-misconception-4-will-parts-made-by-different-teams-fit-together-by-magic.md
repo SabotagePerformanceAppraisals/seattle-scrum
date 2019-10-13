@@ -2,17 +2,20 @@
 title: 'Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?'
 toc: true
 classes: single
+header:
+  og_image: /images/components-dont-fit-together.png
+  teaser: /images/components-dont-fit-together.png
 ---
 ## Misconception 4.1: Will Components From Different Teams Integrate Into A Feature Without Teams Working Together?
 
 By "components" I'm usually referring to architectural layers within the software, such as front end, back end, "platform," a device driver, etc.  Too many large organizations have teams that can only work on components.
 
-[![Components Don't Fit Together](../images/components-dont-fit-together.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+[![Components Don't Fit Together](/images/components-dont-fit-together.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 *Avoid Component Teams and Delayed Integration*
 
 For Agility, we will usually prefer [feature teams](https://less.works/less/structure/feature-teams.html) who span multiple components and can develop end-to-end, customer centric features in a shared codebase, rather than *component teams* who don't and can't.
 
-![Feature Teams](../images/feature-teams.png)
+![Feature Teams](/images/feature-teams.png)
 *Example Feature Teams*
 
 If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), transitioning to feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead Product Development agility.
@@ -44,7 +47,7 @@ The examples most obvious to a non-programmer may be User Interface and User Exp
 
 So Scrum Masters should be encouraging collaboration across teams, just as they encourage collaboration within teams.  Fortunately [there are many better ways to do this than "Scrum of Scrums"](https://less.works/less/framework/coordination-and-integration.html).
 
-![Tear down the wall](../images/tear-down-the-wall.png)
+![Tear down the wall](/images/tear-down-the-wall.png)
 
 * * *
 
