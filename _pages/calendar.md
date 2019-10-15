@@ -11,6 +11,7 @@ permalink: /calendar
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Oct 8-10 | Certified Scrum Master (in English) | Tokyo, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=Oct 8-10 CSM)
 | Dec 4-6 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1150/$1400 |[inquire](mailto:tommi@seattlescrum.com?subject=Dec 4-6 CSM + CLB)
+| Dec 16-18 | Certified Scrum Master + Certified LeSS Basics | Tokyo, Japan | ¥300,000 |[register](https://www.odd-e.jp/training/course-detail/67)
 
 
 ----
@@ -19,6 +20,8 @@ permalink: /calendar
 ## Yet-To Be Scheduled Events
 
 We have had inquiries about a 1-day [Certified LeSS Basics](/education#certified-less-basics-clb) class, and a casual, free mob programming workshop in the U-District. If we get a few more inquires we'll schedule these.  So please [let us know](/contact).
+
+We can run [private workshops](/coaching) at your company about LeSS, Agile technical practices, and Agile business practices. 
 
 ----
 
