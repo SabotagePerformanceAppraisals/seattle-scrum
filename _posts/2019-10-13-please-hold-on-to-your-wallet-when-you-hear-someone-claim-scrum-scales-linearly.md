@@ -12,7 +12,7 @@ Be *especially* skeptical of pitches having anything to do with fractals.  We wa
 
 If only you believe in miracles!  
 
-But users want integrated products, not fractalized products.  
+But users want integrated products, not fractalized products.  The fractal idea looks beautiful on paper.  But here in the real world we need teams to slow down, work with each other, and continuously integrate a whole product.
 
 See also:
 * [Why We Do Not Recommend Trying To Break Products Into Small Independent Pieces For Small Teams](/why-we-do-not-recommend-trying-to-break-products-into-small-independent-pieces-for-small-teams)
