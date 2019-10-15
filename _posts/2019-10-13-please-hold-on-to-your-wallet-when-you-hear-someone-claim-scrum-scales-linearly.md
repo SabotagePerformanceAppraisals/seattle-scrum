@@ -1,5 +1,6 @@
 ---
 title: "Please Hold On To Your Wallet When You Hear Someone Claim That Scrum Scales Linearly"
+excerpt: "Be skeptical of anyone who tells you that nine Scrum teams will finish your product in one ninth the time.  All else being equal, it's not going to happen."
 ---
 
 In 1975, Fred Brooks wrote "nine women can't make a baby in one month."  And adding people to a late project only makes it later.
