@@ -4,7 +4,7 @@ title: "Please Hold On To Your Wallet When You Hear Someone Claim That Scrum Sca
 
 In 1975, Fred Brooks wrote "nine women can't make a baby in one month."  And adding people to a late project only makes it later.
 
-Scrum has no shortage of hype.  Be skeptical of anyone who tells you that nine Scrum teams will finish your product in one ninth the time as one Scrum team.  All else being equal, it's not going to happen even if you do everything right and scale the optimum way.
+Scrum has no shortage of hype.  Be skeptical of anyone who tells you that nine Scrum teams will finish your product in one ninth the time.  All else being equal, it's not going to happen even if you do everything right and scale the optimum way.
 
 Be *especially* skeptical of pitches having anything to do with fractals.  We want so desperately to believe in miracle cures.  And there are people who will sell them to us.  Here's a tweet that seems to demonstrate this:
 
