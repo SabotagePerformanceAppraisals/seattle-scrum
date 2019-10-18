@@ -16,7 +16,7 @@ This is a great idea if your goal is to keep everyone busy.  If your goal is to 
 
 [![Product Owner Misconceptions Page 17](../images/page-17.png){: .align-right width="60%"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 
-These are the points that people who advocate the so-called "Spotify Model" (aka. Shiny Happy People Holding Hands) are usually missing: there's a difference between *feeling* productive, and actually doing the highest value work.  Employee satisfaction is a potentially useful measure, but by itself isn't evidence that the product development organization can learn and adapt to reality as it's discovered, which was supposed to be the purpose of Agility.
+These are the points that people who advocate the so-called "Spotify Model" (aka. Shiny Happy People Holding Hands) are usually missing: there's a difference between *feeling* productive, and actually doing the highest value work.  Employee satisfaction is a potentially useful indicator.  But by itself, employee satisfaction isn't evidence that the product development organization can learn and adapt to reality as it's discovered.  A happy company that cannot pivot is not Agile.
 
 There may be other justifications for keeping separate lists.  Maybe they really really really are unrelated products, [though we should be skeptical of this](https://less.works/less/framework/product.html).  Maybe we're bound by overspecialization because the skills and knowledge gaps seem insurmountable.  Maybe we've made a management decision to keep our less capable developers on Team F.  Maybe Teams X and Y are on the other side of the world and we're not willing to give them anything important.  Let's use Ken Schwaber's term for these things: *organizational impediments*.
 
