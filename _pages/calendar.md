@@ -9,6 +9,7 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
+| Nov 6-8 | [Certified LeSS Practitioner](https://less.works/course-details/certified-less-practitioner-prague-1160) | Prague, Cz | €1800+ VAT (21%) | [register](https://sochova.cz/courses-registration.htm#registovat)
 | Dec 4-6 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1150/$1400 |[inquire](mailto:tommi@seattlescrum.com?subject=Dec 4-6 CSM + CLB)
 | Dec 16-18 | Certified Scrum Master + Certified LeSS Basics | Tokyo, Japan | ¥300,000 |[register](https://www.odd-e.jp/training/course-detail/67)
 
@@ -17,6 +18,10 @@ permalink: /calendar
 
 
 ## Yet-To Be Scheduled Events
+
+We are running a Specification By Example workshop for a local client, using Cucumber and Java.  [If there is general interest in this](/contact) we will offer it as a public course.
+
+[LeSS](https://www.youtube.com/watch?v=1BZf_Oa7W94&rel=0) has mostly been a European thing, but it is gaining popularity in the US as American companies discover how awful SAFe is.  In 2020 we will run at least two [Certified LeSS Practitioner](/education#certified-less-practitioner-principles-to-practices-clp) courses in Seattle.
 
 We have had inquiries about a 1-day [Certified LeSS Basics](/education#certified-less-basics-clb) class, and a casual, free mob programming workshop in the U-District. If we get a few more inquires we'll schedule these.  So please [let us know](/contact).
 
