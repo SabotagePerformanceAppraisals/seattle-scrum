@@ -10,7 +10,7 @@ My friend Viktor Grgic wrote:
 Another friend, Ran Nyman, wrote:
 > Have been looking for convincing scrum in HW at scale. Could some one point me to good case study? Not marketing slides of it that are easy to find with Google.
 
-Viktor and Ran have already seen the usual hype about Swedish fighter jets, 100MPG cars, etc. and found the details don't usually withstand scrutiny.
+Viktor and Ran have already seen the usual hype about Swedish fighter jets, 100MPG cars, etc. and found the details don't usually withstand scrutiny.  At the 2017 Scrum Gathering in San Diego I went to the first presentation about "Scrum for Hardware." The room featured a partially assembled car, which was later pushed to the stage amidst a lot of fanfare.  We were disappointed that the presentation mostly described a waterfall process, using some Scrum elements for some of the waterfall steps.
 
 One challenge of Scrum is to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something customers might actually be able to use, even if they'd want more features later.
 
