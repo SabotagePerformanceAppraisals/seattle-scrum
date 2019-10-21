@@ -1,7 +1,7 @@
 ---
 header:
-   og_image: /images/groovex-lovot-scrum-for-hardware.jpg
-   teaser: /images/groovex-lovot-scrum-for-hardware.jpg
+   og_image: /images/groovex-lovot-less-for-hardware.jpg
+   teaser: /images/groovex-lovot-less-for-hardware.jpg
 ---
 
 My friend Viktor Grgic wrote:
