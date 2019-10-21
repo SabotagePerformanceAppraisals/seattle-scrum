@@ -4,8 +4,9 @@ My friend Viktor Grgic wrote:
 Another friend, Ran Nyman, wrote:
 > Have been looking for convincing scrum in HW at scale. Could some one point me to good case study? Not marketing slides of it that are easy to find with Google.
 
-BACKGROUND: One challenge of Scrum is to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something customers might actually be able to use, even if they'd want more features later.
+Viktor and Ran have already seen the usual hype about Swedish fighter jets, cars, etc. and found the details unpersuasive.
 
+One challenge of Scrum is to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something customers might actually be able to use, even if they'd want more features later.
 
 ![potentially shippable product increment](/assets/images/potentially-shippable-product-increment.png){: .align-center}
 
