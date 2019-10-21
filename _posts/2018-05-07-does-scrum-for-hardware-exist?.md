@@ -1,3 +1,9 @@
+---
+header:
+   og_image: /images/groovex-lovot-scrum-for-hardware.jpg
+   teaser: /images/groovex-lovot-scrum-for-hardware.jpg
+---
+
 My friend Viktor Grgic wrote:
 > I think there is no such thing as Scrum in hardware, but love to be proven wrong after trying to find myself anything in this area. There is at best scrummish practices used in hardware design part of the whole process.
 
