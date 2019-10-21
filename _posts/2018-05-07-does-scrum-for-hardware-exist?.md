@@ -4,7 +4,7 @@ My friend Viktor Grgic wrote:
 Another friend, Ran Nyman, wrote:
 > Have been looking for convincing scrum in HW at scale. Could some one point me to good case study? Not marketing slides of it that are easy to find with Google.
 
-Viktor and Ran have already seen the usual hype about Swedish fighter jets, cars, etc. and found the details unpersuasive.
+Viktor and Ran have already seen the usual hype about Swedish fighter jets, 100MPG cars, etc. and found the details unpersuasive.
 
 One challenge of Scrum is to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something customers might actually be able to use, even if they'd want more features later.
 
@@ -49,6 +49,6 @@ As far as I can tell as of May 2018, using a strict definition of Scrum, no, it 
 
 Also keep an eye on the [BMW Group Autonomous Driving Campus](https://www.youtube.com/watch?v=Hbm6IcD78R0).  BMW has realized that geographical-distribution slows them down, so they've been  closing down plants to bring people together to develop self driving cars.  According to BMW's video, they will be doing [Large Scale Scrum (LeSS)](https://www.youtube.com/watch?v=cvz4364pC0g), currently the most mature framework that's legitimately Agile.
 
-2019 UPDATE: Another one to watch is (GrooveX)[https://groove-x.com] in Tokyo.  I saw first hand that GrooveX develops consumer robots using self-managing teams and no manager role.  They develop the physical product, the electronics, and the software using the [LeSS Framework](https://less.works).  They got coaching from people like [榎本先生](https://www.odd-e.jp/team_02/) and were the star of Agile Japan in July 2018.  Read the [keynote from the CEO](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) and [details about how they use LeSS](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
+2019 UPDATE: Another one to watch is (GrooveX)[https://groove-x.com] in Tokyo.  As I've seen first hand, GrooveX develops consumer robots using self-managing teams and no manager role.  They develop the physical product, the electronics, and the software using the [LeSS Framework](https://less.works).  They got coaching from people like [榎本先生](https://www.odd-e.jp/team_02/) and were the star of Agile Japan in July 2018.  Read the [keynote from the CEO](https://www.agilejapan.org/2019/session/keynote-03_GROOVE.pdf) and [details about how they use LeSS](https://www.agilejapan.org/2019/session/east1-1_GXSM.pdf).
 
 [^disclosure]: Disclosure: I’ve met some cool Dynon people, but unfortunately I wasn’t their trainer.
