@@ -17,7 +17,7 @@ Unfortunately, people who haven't discovered that [knowledge work is different f
 
 ## Physical analogies for software development (and other knowledge work) are mental traps
 
-The following real quote reveals the mindset of someone with tools to manage dependencies in physical work -- where they actually exist -- but has not written software in a modern way:
+The following real quote reveals the mindset of a project manager with tools to manage dependencies in physical work -- where they actually exist -- but has not written software in a modern way:
 
 > People who think that dependencies are just figments of old-style thinking should convince me by first putting on a shoe and tying the laces, then putting on a sock that goes between their bare foot and the tied shoe without removing the shoe.
 
