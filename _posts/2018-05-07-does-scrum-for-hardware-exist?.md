@@ -10,13 +10,15 @@ My friend Viktor Grgic wrote:
 Another friend, Ran Nyman, wrote:
 > Have been looking for convincing scrum in HW at scale. Could some one point me to good case study? Not marketing slides of it that are easy to find with Google.
 
-Viktor and Ran have already seen the usual hype about Swedish fighter jets, 100MPG cars, etc. and found the details don't usually withstand scrutiny.  At the 2017 Scrum Gathering in San Diego I went to the first presentation about "Scrum for Hardware." The room featured a partially assembled car, which was later pushed to the stage amidst a lot of fanfare.  We were disappointed that the presentation mostly described a waterfall process, using some Scrum elements for some of the waterfall steps.
+Viktor and Ran have already seen the usual hype about Swedish fighter jets, 100MPG cars, etc. and found the details don't usually withstand scrutiny.  At the 2017 Scrum Gathering in San Diego I went to the first presentation about "Scrum for Hardware." The room featured a partially assembled car, which was later pushed to the stage amidst a lot of fanfare.  We were disappointed that the presentation mostly described a waterfall process, using some Scrum elements for some of the waterfall steps.  
 
-One challenge of Scrum is to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something customers might actually be able to use, even if they'd want more features later.
+Ken Schwaber's Scrum attempts to develop a potentially shippable product increment every Sprint.  This means that within a couple weeks we'd try (and possibly fail) to make something end customers might actually be able to use, even if they'd want more features later.   People keep sending me examples they claim are "Scrum for Hardware" which may be more agile than what was happening before, but weren't attempts to develop potentially shippable products every Sprint.
 
 ![potentially shippable product increment](/assets/images/potentially-shippable-product-increment.png){: .align-left width="40%"}
 
-There's a lot of noise about Scrum for hardware, both electronics and physical objects. It's a big hit at conferences because making stuff is cool. I've got a friend who was developing sunglasses iteratively -- a new design customers could wear every two weeks -- and then tried the same thing with wheelchairs.  These are relatively simple products though.
+There's a lot of noise about Scrum for hardware, both electronics and physical objects. It's a big hit at conferences because making stuff is cool.  There are classes about it.
+
+I've got a friend who was developing sunglasses iteratively -- a new design customers could wear every two weeks -- and then tried the same thing with wheelchairs.  These are relatively simple products though.
 
 I just watched an AgilePDX talk about [Dynon Avionics](http://www.dynonavionics.com) [^disclosure] that is more typical: Dynon's Kris Dobelstein describes Scrummish practices to develop prototypes and other kinds of useful inventory.  Though they didn’t develop an end-user-shippable product every Sprint, they benefited from shorter customer and internal feedback cycles, and reduced risk of developing the wrong product.  For example, they were considering using a videogame-style D-pad (direction pad) controller until they tested prototypes on customers who turned out to hate that design.
 [![Dynon Avionics Scrum For Hardware](/images/dynon-avionics-scrum-for-hardware.jpg)](http://dynonstore.com){: .align-right width="30%"}
