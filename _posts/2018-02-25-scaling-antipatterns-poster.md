@@ -19,3 +19,7 @@ We want fluid, role-free interactions between the teams, not Scrum Masters actin
 coordinators.
 
 Feel free to download the poster above.
+
+UPDATE: People weren't understanding the poster, so we made a comic book and video version here:
+[![comic book](../images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-en.png){: .align-center width="500"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+
