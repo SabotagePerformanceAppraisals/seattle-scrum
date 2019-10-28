@@ -19,7 +19,9 @@ My boss produced reports for his boss showing how much money we'd saved the comp
 ## Example 3
 
 ![Team Productivity Local Optimization Bias](../images/team-productivity-local-optimization-bias.png){: .align-right width="50%"}
-Beginning Scrum Masters, including some book authors, focus on trying to make a team  "hyper-productive" instead of helping the product development organization become better able to learn and adapt.
+Beginning Scrum Masters, including some book authors, focus on trying to make team  "hyper-productive" instead of helping the product development organization become better able to learn and adapt.
+
+## Example 4
 
 A variation is *branching* in our source code repository.  Whenever someone says "Let's create a feature branch!" or "Let's use Gitflow!" you should hear "Let's delay integration!"
 
