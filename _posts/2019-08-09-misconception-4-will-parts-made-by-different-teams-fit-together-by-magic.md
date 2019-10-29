@@ -57,7 +57,9 @@ It would be a bizarre business strategy for a 10-team product company to simulta
 
 Except in trivial cases where we aren't doing anything new, engineering effort will be required to ensure the products work together properly.  Take Adobe products (please):  The value of the various Adobe products I use is related to how well the integration works (or doesn't work) between them.  
 
-In some cases I can substitute incompatible products in my workflow by using the lowest-common-denominator interface, such as saving a .WAV or .SVG file to disk, then importing it in the otherwise-incompatible tool.  But that usually adds hassle and reduces functionality.  For example, I can move a picture of a cartoon character from a drawing program into an incompatible e-learning program.  But it will take extra steps.  And due to the loss of layering information, I won't be able to change her facial expression from the e-learning program.  
+In some cases I can substitute incompatible products in my workflow by using the lowest-common-denominator interface to the otherwise-incompatible tool.  But that usually adds hassle and reduces functionality.
+
+For example, I can move a picture of a cartoon character from a drawing program into an incompatible e-learning program.  But it takes extra steps to export a PNG file from one program and import it into the other.  And due to the loss of layering information in the PNG file format, I won't be able to change her facial expression from the e-learning program.  
 
 Companies won't improve their product suite by ignoring integration amongst their products.  
 
