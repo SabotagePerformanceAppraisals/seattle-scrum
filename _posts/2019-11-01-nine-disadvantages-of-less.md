@@ -1,5 +1,8 @@
 ---
 title: "Nine Disadvantages of LeSS, From Someone Who's Doing It"
+header:
+   og_image: /images/less-is-hard-og.png
+   teaser: /images/less-is-hard-og.png
 ---
 ## Why Write This?
 You may know that I helped Manoj Vadakkan establish [Fans of LeSS](https://fansofless.com), our attempt to un-hijack Scrum and Agile.  But just as Ken Schwaber used to explain that adopting Scrum will be difficult, I want you to know that adopting LeSS will be difficult.
@@ -17,7 +20,7 @@ Marcell also wrote followup articles after six more months of experience:
 
 I don't want you to think that these negative aspects are inevitable, unsolvable, or even the same one's you'll experience.  For each one, you should be able to imagine mitigation approaches that reduce organizational agility, and ways that are compatible with agility.
 
-## My Distillation of Disadvantages from Marcell's article
+## Disadvantages Distilled from Marcell's article
 
 > 1. But in the end no one is really feeling himself responsible for holding the due dates.
 > 2. \[But in the end no one is really feeling responsible for\] solving problems.
@@ -28,3 +31,5 @@ I don't want you to think that these negative aspects are inevitable, unsolvable
 > 7. I also have issues with the communications: there are so many communication channels, that it is really difficult for me to collect all the relevant information.
 > 8. I also have the feeling that the project is really lacking someone who has a good technical overview on the whole project, like a software architect. When we need to use an interface really often no one can tell us which interface is it and a lot of interface are duplicated.
 > 9. Last but not least I would like to mention that the permanent pair and mob programming is really exhausting. It is really difficult. The team members needs very good social skills and a lot of patience, which is not typical for most of the programmers.
+
+![LeSS is hard](../images/less-is-hard.png)
