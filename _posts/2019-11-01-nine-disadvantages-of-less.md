@@ -17,7 +17,7 @@ Marcell also wrote followup articles after six more months of experience:
 
 I don't want you to think that these negative aspects are inevitable, unsolvable, or even the same one's you'll experience.  For each one, you should be able to imagine mitigation approaches that reduce organizational agility, and ways that are compatible with agility.
 
-## Marcell's List Of Disadvantages
+## My Distillation of Disadvantages from Marcell's article
 
 > 1. But in the end no one is really feeling himself responsible for holding the due dates.
 > 2. \[But in the end no one is really feeling responsible for\] solving problems.
