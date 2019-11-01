@@ -1,6 +1,9 @@
 ---
 title: 'My Code, Your Code.  Private code policies considered harmful to agility.'
 excerpt: 'Tying particular people or teams to particular parts of the code has several negative impacts.'
+header:
+   og_image: /images/overspecialization.png
+   teaser: /images/overspecialization.png
 ---
 [![Private code policies](../images/page-15.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 Watch out for *private code policies and practices*.  Tying particular people or teams to particular parts of the code has several negative impacts:
