@@ -8,9 +8,9 @@ In an online forum:
 
 There are so many contradictions with Scrum here I don't know where to start.
 
-Scrum intentionally eliminates the project manager role to create space for team self management.
+Scrum intentionally eliminates the project manager role to create space for team self management.  This is a much more important part of Scrum than any 15 minute meeting!
 
-Outside stakeholders are welcome at the *Sprint Review Meeting*, to help the Product Owner inspect and adapt the product increment.  ["Scrum of Scrums" was disavowed](/seven-alternatives-to-scrum-of-scrums/#the-disavowal) by Ken Schwaber years ago.
+Outside stakeholders are welcome at the *Sprint Review Meeting*, to help the Product Owner inspect and adapt the product increment.  If stakeholders don't like what the team is doing, their beef is with the Product Owner.  ["Scrum of Scrums" was disavowed](/seven-alternatives-to-scrum-of-scrums/#the-disavowal) by Ken Schwaber years ago.
 
 The Scrum Master also should *not* be coordinating tasks -- that's the team's job.
 
