@@ -33,7 +33,7 @@ Preexisting APIs share types of information that have been shared before.  For e
 
 But companies also want their product to do newer things than that, where *both sides* of the interaction are still changing and old APIs may not suffice.  If developing a new capability requires sharing new types of information between different parts of software, somehow developers will need to agree how to do it, and what the new types of information mean.
 
-[Teams will need to talk to each other](https://less.works/less/framework/coordination-and-integration.html).  Remember what the [Agile Manifesto](https://agilemanifesto.org/principles.html) has to say about the most effective way of communicating?
+[Teams will need to talk to each other](/seven-alternatives-to-scrum-of-scrums).  Remember what the [Agile Manifesto](https://agilemanifesto.org/principles.html) has to say about the most effective way of communicating?
 
 * * *
 
