@@ -55,3 +55,7 @@ Do you have some examples of local optimization?  Please send them in!
 > -- Rush
 
 {% include video id="u7W0Nm8iHwk?rel=0" provider="youtube" %}
+
+* * *
+
+Japanese version: [局所最適化バイアス：今ここで　対　後にどこかで](https://scrummaster.jp/local-optimization-bias-jp/)
