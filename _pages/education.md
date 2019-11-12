@@ -183,12 +183,12 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
-* __Instructor: Craig Larman__
-* __Summer 2020 8:30AM-6:00PM__
-* __Price: $2,699.00 (select discounts available)__
-* __Early bird price: $2,299.00 (End Date: TBD)__
+* __Instructor: Wolfgang Steffens__
+* __February 26-28 2020, 9:00AM-6:00PM__
+* __Price: $2,500.00 (select discounts available)__
+* __Early bird price: $2,150.00 (End Date: January 26 2020)__
 * __Location: TBD__
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Jul 22-24 CLP") to register or inquire.__
+* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Feb 26-28 CLP") to register or inquire.__
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
