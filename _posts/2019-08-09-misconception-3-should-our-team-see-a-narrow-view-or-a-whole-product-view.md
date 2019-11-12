@@ -30,3 +30,9 @@ These traditional/Agile hybrid approaches leave the biggest problems in the trad
 Scrum Masters (and management, if you have it) should help eradicate narrow views and encourage a [Whole Product Focus](https://less.works/less/principles/whole-product-focus.html) instead.
 
 [^1]: Images from _Product Owner In A Nutshell_ by Henrik Kniberg.
+
+* * * 
+
+Japanese version: [大規模組織におけるソフトウェア開発の誤解その３：チームの視野は狭くて良いか、プロダクト全体を見るべきか?](https://scrummaster.jp/misconception-3-should-our-team-see-a-narrow-view-or-a-whole-product-view-jp/)
+
+* * *
