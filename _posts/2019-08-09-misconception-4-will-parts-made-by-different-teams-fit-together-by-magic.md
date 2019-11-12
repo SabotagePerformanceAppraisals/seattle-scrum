@@ -75,3 +75,8 @@ Here are [NATO conference notes from 1968](/downloads/nato1968.PDF) pointing out
 
 If we have more than 12 people in a product company, we want teams working with teams (and customers).
 [![Teams Working With Teams](../images/page-27.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+
+* * *
+
+Japanese version: [大規模組織におけるソフトウェア開発の誤解その４：各チームが作ったパーツは、魔法の力で組み合わさるのか？](https://scrummaster.jp/misconception-4-will-parts-made-by-different-teams-fit-together-by-magic-jp/)
+
