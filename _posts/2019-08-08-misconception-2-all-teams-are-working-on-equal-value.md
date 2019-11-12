@@ -25,3 +25,6 @@ Gentle reader, I have no idea what you should do in your own situation.  I hope 
 * * *
 
 {% include video id="YYOKMUTTDdA?rel=0" provider="youtube" %}
+
+* * *
+Japanese version: [大規模組織におけるソフトウェア開発の誤解その２:すべてのチームが等しい価値の業務に取り組んでいるか？](https://scrummaster.jp/misconception-2-all-teams-are-working-on-equal-value-jp/)
