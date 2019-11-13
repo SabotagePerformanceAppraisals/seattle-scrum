@@ -200,17 +200,17 @@ Course runs until 18:00 on all days, including Day 3. Full attendance and partic
 The Certified LeSS Practitioner course is for anyone who is involved a large agile adoption. Basic Scrum knowledge is expected and can be achieved by attending a [Certified ScrumMaster](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) or a [Professional ScrumMaster](https://www.scrum.org/courses/professional-scrum-master-training) course, or thoroughly reading Scrum introduction material such as the [Scrum Primer](https://scrumprimer.org/) and practicing Scrum.
 
 Feedback from previous courses:
-> "Great Job Wolfgang, thank you soooo much, this has been quite a remarkable session!I can defintely recommend this course!"
+> "Great Job Wolfgang, thank you soooo much, this has been quite a remarkable session! I can definitely recommend this course!"
 >
-> - Andreas O.
+> – Andreas O.
 >
 > "Everyone can see that he is really behind when he represents something." 
 >
-> Oliver T.
+> – Oliver T.
 
 ### CLP Learning Objectives
 
-The course is three days and will cover the following topics:
+This course is three days and will cover the following topics:
 
 * Why LeSS
 * LeSS Overview
@@ -236,12 +236,12 @@ The course is three days and will cover the following topics:
 * Project vs. Product
 * Case Study: [German big Insurance company](https://less.works/case-studies/german-big-insurance.html)
 
-### After course completion
+### After Course Completion
 
 Every participant who successfully completes the course will be registered as a [Certified LeSS Practitioner](https://less.works/courses/less-practitioner.html) and will get an account on [https://less.works](https://less.works/) where you will have access to:
 
 * Free digital versions of the [first](https://www.amazon.com/Scaling-Lean-Agile-Development-Organizational-ebook/dp/B001PBSDIE), [second](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406), and [third](https://www.amazon.com/Large-Scale-Scrum-More-Addison-Wesley-Signature-ebook/dp/B01JP91OR4) LeSS books
-* More LeSS learning (videos, etc)
+* More LeSS learning (videos, etc.)
 * Course handout PDF and photos of everything created within the course that was on the walls
 * Contacts of all course participants
 * Course certificate
