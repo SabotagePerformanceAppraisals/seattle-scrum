@@ -184,9 +184,9 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
 * __Instructor: Wolfgang Steffens__
-* __February 26-28 2020, 9:00AM-6:00PM__
+* __February 26-28, 2020, 9:00AM-6:00PM__
 * __Price: $2,500.00 (select discounts available)__
-* __Early bird price: $2,150.00 (End Date: January 26 2020)__
+* __Early bird price: $2,150.00 (End Date: January 26, 2020)__
 * __Location: TBD__
 * __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Feb 26-28 CLP") to register or inquire.__
 
@@ -198,6 +198,11 @@ Course runs until 18:00 on all days, including Day 3. Full attendance and partic
 {: .notice--danger}
 
 The Certified LeSS Practitioner course is for anyone who is involved a large agile adoption. Basic Scrum knowledge is expected and can be achieved by attending a [Certified ScrumMaster](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) or a [Professional ScrumMaster](https://www.scrum.org/courses/professional-scrum-master-training) course, or thoroughly reading Scrum introduction material such as the [Scrum Primer](https://scrumprimer.org/) and practicing Scrum.
+
+Some pictures of one recent class:
+
+![CLP class photo 1](assets/images/Wolfgang-CLP-picture1.jpg)
+![CLP class photo 2](assets/images/Wolfgang-CLP-picture2.jpg)
 
 Feedback from previous courses:
 > "Great Job Wolfgang, thank you soooo much, this has been quite a remarkable session! I can definitely recommend this course!"
