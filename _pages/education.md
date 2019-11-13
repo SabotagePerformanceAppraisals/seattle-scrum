@@ -202,6 +202,7 @@ The Certified LeSS Practitioner course is for anyone who is involved a large agi
 Some pictures of one recent class:
 
 ![CLP class photo 1](assets/images/Wolfgang-CLP-picture1.jpg)
+
 ![CLP class photo 2](assets/images/Wolfgang-CLP-picture2.jpg)
 
 Feedback from previous courses:
