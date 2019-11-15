@@ -15,7 +15,7 @@ node_modules
 npm-debug.log*
 *~
 .#*
-
+.ruby-version
 # IntelliJ #
 ############
 .idea
