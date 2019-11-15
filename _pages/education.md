@@ -187,7 +187,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 * __February 26-28, 2020, 9:00AM-6:00PM__
 * __Price: $2,500.00 (select discounts available)__
 * __Early bird price: $2,150.00 (End Date: January 26, 2020)__
-* __Location: TBD__
+{::comment}* __Location: TBD__{:/comment}
 * __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Feb 26-28 CLP") to register or inquire.__
 
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
