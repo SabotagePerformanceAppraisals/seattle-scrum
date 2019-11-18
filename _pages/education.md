@@ -183,7 +183,7 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
-* __Instructor: Wolfgang Steffens__
+* __Instructor: [Wolfgang Steffens](https://less.works/profiles/wolfgang-steffens)__
 * __February 26-28, 2020, 9:00AM-6:00PM__
 * __Price: $2,500.00 (select discounts available)__
 * __Early bird price: $2,150.00 (End Date: January 26, 2020)__
