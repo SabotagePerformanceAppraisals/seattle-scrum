@@ -8,7 +8,7 @@ header:
 
 Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program. You tore up seven ways that you realized wouldn’t work. You took a walk outside. You slept on it. You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea. By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done. Then Thursday night your cat walked across the keyboard and somehow deleted everything you typed that week.
 
-![git rm -r](/images/git-rm-r.png){: .align-left width="25%"}
+![git rm -r](/images/git-rm-r.png){: .align-left width="200"}
 
 Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the learning and creation of new knowledge.
 
@@ -21,6 +21,18 @@ Have you noticed that companies with lots of money and people can't seem to deve
 ### Hint: Johnny, Inc. Is Not "Understaffed"
 
 I recently visited a big bureaucratic agency that had trouble doing things that are easy for a small co-located team using modern development practices.  I almost fell over when I heard one of the dozen project managers say "We're understaffed."  No ... that's not the problem.
+
+* * *
+
+<style>
+@media print {
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
+}
+</style>
+<div class="pagebreak"> </div>
 
 ## Implications
 
