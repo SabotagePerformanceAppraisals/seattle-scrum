@@ -9,7 +9,7 @@ Scrum Master Peter Woolley writes:
 I'll start with the most practical link in this article.  If you're in a hurry, just go to the overview of the seven alternatives here:
 <https://less.works/less/framework/coordination-and-integration.html>
 
-![Scrum of Scrums sucks](/images/scrum-of-scrums-sucks.png)
+![Scrum of Scrums sucks](/images/scrum-of-scrums-sucks.png){: .align-center width="550"}
 
 
 ## Back Story of Scrum of Scrums
