@@ -24,14 +24,6 @@ I recently visited a big bureaucratic agency that had trouble doing things that 
 
 * * *
 
-<style>
-@media print {
-    .pagebreak {
-        clear: both;
-        page-break-after: always;
-    }
-}
-</style>
 <div class="pagebreak"> </div>
 
 ## Implications
