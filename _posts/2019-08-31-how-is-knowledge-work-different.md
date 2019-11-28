@@ -24,7 +24,7 @@ I recently visited a big bureaucratic agency that had trouble doing things that 
 
 * * *
 
-<div class="pagebreak"> </div>
+<div class="page-break-after"> </div>
 
 ## Implications
 
@@ -49,7 +49,16 @@ What would be different about an organization that recognizes that better softwa
 
 Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
 
+
 * * *
+
+## That previous list has nothing to do with the following Liszt.
+<div class="no-print">
+{% include video id="E1JKd1C7izQ?rel=0" provider="youtube" %}
+</div>
+
+* * *
+
 
 Japanese version: [知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）](https://scrummaster.jp/how-is-knowledge-work-different-jp/)
 
