@@ -52,13 +52,6 @@ Becoming a *learning organization* isn't something that gets solved once, by a t
 
 * * *
 
-## That previous list has nothing to do with the following Liszt.
-<div class="no-print">
-{% include video id="E1JKd1C7izQ?rel=0" provider="youtube" %}
-</div>
-
-* * *
-
 
 Japanese version: [知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）](https://scrummaster.jp/how-is-knowledge-work-different-jp/)
 
