@@ -4,7 +4,7 @@ toc: true
 classes: single
 ---
 Scrum Master Peter Woolley writes:
-> I really enjoyed the Scrum of Scrum (SOS) slide. I have only seen this work once, when SMs and POs met 3 times a week to share their premeditated conversations and working agreements at a feature level, frequently it descends into a round robin project update or a mind numbingly boring task level detailed update meeting where PMs confuse and confound each other.
+> I have only seen Scrum of Scrums (SOS) work once, when SMs and POs met 3 times a week to share their premeditated conversations and working agreements at a feature level, frequently it descends into a round robin project update or a mind numbingly boring task level detailed update meeting where PMs confuse and confound each other.
 
 I'll start with the most practical link in this article.  If you're in a hurry, just go to the overview of the seven alternatives here:
 <https://less.works/less/framework/coordination-and-integration.html>
@@ -50,9 +50,9 @@ Bas Vodde sent me this comment:
 My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed ["big box" approaches to scaling](http://www.lafable.com).  Scrum of Scrums is semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 * * *
-
+<div class="page-break-after"></div>
 ## Coordination & Integration: What To Do Instead
-![Tear down the wall!](/images/tear-down-the-wall.png)
+![Tear down the wall!](/images/tear-down-the-wall.png){: .align-center width="400"}
 
 All excerpts from <https://less.works/less/framework/coordination-and-integration.html>
 
