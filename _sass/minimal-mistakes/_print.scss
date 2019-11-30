@@ -124,7 +124,8 @@
     text-decoration: none;
   }
 
-/*   table,
+
+  table,
   blockquote,
   pre,
   code,
@@ -136,7 +137,8 @@
   a,
   tr {
     page-break-inside: avoid;
-  } */
+  }
+
 
   h2,
   h3,
@@ -146,6 +148,7 @@
     orphans: 3;
     widows: 3;
   }
+
 
   h1,
   h2,
@@ -157,22 +160,22 @@
     page-break-inside: avoid;
   }
 
- /*  h1 + p,
+  h1 + p,
   h2 + p,
   h3 + p {
     page-break-before: avoid;
-  } */
+  }
 
-/*   img {
+  img {
     page-break-after: auto;
     page-break-before: auto;
     page-break-inside: avoid;
-  } */
+  }
 
-/*   pre {
+  pre {
     white-space: pre-wrap !important;
     word-wrap: break-word;
-  } */
+  }
 
   a[href^='http://']:after,
   a[href^='https://']:after,
