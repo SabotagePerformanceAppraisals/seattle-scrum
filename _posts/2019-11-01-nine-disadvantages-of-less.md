@@ -32,4 +32,4 @@ I don't want you to think that these negative aspects are inevitable, unsolvable
 > 8. I also have the feeling that the project is really lacking someone who has a good technical overview on the whole project, like a software architect. When we need to use an interface really often no one can tell us which interface is it and a lot of interface are duplicated.
 > 9. Last but not least I would like to mention that the permanent pair and mob programming is really exhausting. It is really difficult. The team members needs very good social skills and a lot of patience, which is not typical for most of the programmers.
 
-![LeSS is hard](../images/less-is-hard.png)
+![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
