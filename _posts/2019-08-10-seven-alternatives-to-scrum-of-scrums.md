@@ -50,7 +50,7 @@ Bas Vodde sent me this comment:
 My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed ["big box" approaches to scaling](http://www.lafable.com).  Scrum of Scrums is semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
 * * *
-<div class="page-break-after"></div>
+
 ## Coordination & Integration: What To Do Instead
 ![Tear down the wall!](/images/tear-down-the-wall.png){: .align-center width="400"}
 
@@ -58,14 +58,14 @@ All excerpts from <https://less.works/less/framework/coordination-and-integratio
 
 > Scrum values decentralized, self-organized coordination and integration over the centralized, controlled coordination found in traditional project management. LeSS coordination and integration concentrates on how to support decentralized coordination while providing enough boundaries and structure to avoid chaos.
 >
-> ### Just Talk 
+> ### 1. Just Talk 
 >
 > Probably the best way to coordinate between teams is to simply coordinate between the teams. Any member of a self-managing team would be able and expected to reach out to another team if there is an issue to be discussed. When there is a need for coordination then “just talk” by going to the other team, picking up the phone or, in the worst case, dropping them an email. You do not need a formal, official, usually slow coordination mechanism in order to coordinate. Get up and talk to people.
 
 How do we know they'll want to talk to us?   In LeSS we try to remove the usual obstacles to that, such as teams are working for different [Team Output Owners](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/). Multiple teams work in one Sprint, toward [one Sprint Review](https://less.works/less/framework/sprint-review.html) of one [potentially shippable product increment](https://less.works/less/framework/potentially-shippable-product-increment.html).  Scrum Masters should encourage inter-team collaboration instead of focusing on individual team output.
 
 >
-> ### Communicate in Code
+> ### 2. Communicate in Code
 >
 > LeSS groups adopt [continuous integration](https://less.works/less/technical-excellence/continuous-integration), which means that everyone has all their code checked in to the central repository mainline (branches are an unnecessary complication that should be avoided). Everyone in the product teams synchronizes with the repository several times a day and will get all the changes that other people have made.
 >
@@ -76,13 +76,13 @@ Branching is _delayed integration_!   Merge problems increase exponentially over
 What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-your-code/) practices and policies many companies have. 
 
 > 
-> ### Send Observers to the Daily Scrum
+> ### 3. Send Observers to the Daily Scrum
 > 
 > A simple coordination method for teams is to send a representative —not the Scrum Master—as a silent observer to the Daily Scrum of other teams doing related work. The observers then report back to their teams so they can take further action.
 
 Unfortunately, some [locally optimizing](/local-optimization-bias/) Scrum Masters try to prevent this!  A Scrum Master with a Whole Product Focus would do everything possible to make this easy.
 
-> ### Component communities and mentors
+> ### 4. Component communities and mentors
 > 
 > People working on the same components at the same time need to know of each other so they can ask questions and review each other’s code. Do this by creating component [Communities of Practice (CoPs)](https://less.works/less/structure/communities.html), which should communicate via mailing lists, chat, occasional meetings, and other remote collaboration channels.
 > 
@@ -96,7 +96,7 @@ Unfortunately, some [locally optimizing](/local-optimization-bias/) Scrum Master
 
 One place I'm working with invited a component mentor from another team to help them with some code they weren't familiar with yet, with the agreement that the mentor would not touch the keyboard!  This might seem "inefficient" to someone who doesn't yet realize the [full cost of knowledge gaps](/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/).
 
-> ### Scrum of Scrums
+> ### 5. Scrum of Scrums
 > 
 > A Scrum of Scrums meeting is a Daily-Scrum-like meeting between teams, typically held two or three times per week.
 > 
@@ -114,7 +114,7 @@ One place I'm working with invited a component mentor from another team to help 
 
 If you decide to do Scrum of Scrums meetings anyway, remember to rotate team members.  And of course you wouldn't send Scrum Masters, since they have no authority to coordinate teams.
 
-> ### Multi-team meetings
+> ### 6. Multi-team meetings
 > 
 > It is common for some teams to need to work closely together whereas others may not feel that need. For teams that work closely together, it is common to have multi-team LeSS meetings. Some examples would be:
 > 
@@ -126,7 +126,7 @@ If you decide to do Scrum of Scrums meetings anyway, remember to rotate team mem
 Are you seeing the theme here?  Only have the meetings you need.  If you've been to an [Open Space Conference](https://www.amazon.com/dp/B005X0OKOY/), you know The Law Of Two Feet requires you to use your two feet whenever you're not learning or contributing.
 
 
-> ### Travelers to exploit and break bottlenecks and create skill
+> ### 7. Travelers to exploit and break bottlenecks and create skill
 > 
 > Sometimes a product group relies on a couple of experienced technical experts. How can the knowledge of these (scarce) experts be kept available to all teams? They can become travelers. Each Sprint they join a different team, coaching via pairing, workshops, and teaching sessions.
 > 
@@ -134,7 +134,7 @@ Are you seeing the theme here?  Only have the meetings you need.  If you've been
  
 Once when I helped teams reorganize (using a [team-self design workshop](https://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team)) I was surprised that several specialists did not want to join teams and opted to call themselves travelers instead.  But a few months later, they had settled into teams.
 
-> ### Leading Team
+> ### 8. Leading Team
 > 
 > In some domains, features are monstrously large. When you split these giants into smaller Product Backlog Items, it can require many teams working closely together, each separately on its own PBI, to create a single monster feature.
 > 
