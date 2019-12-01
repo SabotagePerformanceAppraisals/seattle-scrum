@@ -24,8 +24,6 @@ I recently visited a big bureaucratic agency that had trouble doing things that 
 
 * * *
 
-<div class="page-break-after"> </div>
-
 ## Implications
 
 What would be different about an organization that recognizes that better software is really about our ability to discover and create knowledge?
