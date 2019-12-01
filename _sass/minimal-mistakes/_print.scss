@@ -137,7 +137,6 @@
   figure,
   li,
   hr,
-  ul,
   a,
   tr {
     page-break-inside: avoid;
@@ -168,6 +167,14 @@
   h2 + p,
   h3 + p {
     page-break-before: avoid;
+  }
+
+// Workaround from https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading
+  h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
+      content: "";
+      display: block;
+      height: 100px;
+      margin-bottom: -100px;
   }
 
   img {
@@ -246,6 +253,7 @@
   .pagination,
   .ads,
   .page__footer,
+  .page__meta,
   .page__comments-form,
   .author__avatar,
   .author__content,
