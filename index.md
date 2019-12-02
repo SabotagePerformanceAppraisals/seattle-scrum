@@ -5,15 +5,10 @@ author_profile: false
 
 ![Seattle Scrum Company](assets/images/Seattle-Scrum-Company-1024.png){: .align-center }
 
-----
-
 ![CSM class](assets/images/NYC-CSM-class.jpg){: .align-center }
 
-----
-Helping organizations adapt to ever-changing reality.
+Helping organizations learn and adapt to ever-changing reality.
 {: .text-center}
-
-----
 
 <style>
 
