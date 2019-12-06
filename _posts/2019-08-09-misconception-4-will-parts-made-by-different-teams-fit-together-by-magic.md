@@ -10,12 +10,12 @@ header:
 
 By "components" I'm usually referring to architectural layers within the software, such as front end, back end, "platform," a device driver, etc.  Too many large organizations have teams that can only work on components.
 
-[![Components Don't Fit Together](/images/components-dont-fit-together.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+[![Components Don't Fit Together](/images/components-dont-fit-together.png){: .align-center width="390"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 *Avoid Component Teams and Delayed Integration*
 
 For Agility, we will usually prefer [feature teams](https://less.works/less/structure/feature-teams.html) who span multiple components and can develop end-to-end, customer centric features in a shared codebase, rather than *component teams* who don't and can't.
 
-![Feature Teams](/images/feature-teams.png)
+![Feature Teams](/images/feature-teams.png){: .align-center width="350"}
 *Example Feature Teams*
 
 If we're using modern programming practices (TDD, Continuous Integration, trunk-based development, etc.), transitioning to feature teams *may* reduce the coupling between teams a bit.  But not to zero.  In fact, we should *not* try to reduce team-to-team coupling to zero unless our goal is team "productivity" instead of Product Development agility.
@@ -35,8 +35,6 @@ But companies also want their product to do newer things than that, where *both 
 
 [Teams will need to talk to each other](/seven-alternatives-to-scrum-of-scrums).  Remember what the [Agile Manifesto](https://agilemanifesto.org/principles.html) has to say about the most effective way of communicating?
 
-* * *
-
 ## Misconception 4.2: Will Features From Different Teams Integrate Into A Product Without Teams Working Together?
 
 Let's say you've taken the wise step of switching from component teams to [feature teams](https://less.works/less/structure/feature-teams.html).  Your feature teams will *still* need to collaborate with each other to develop a cohesive product inside and out.
@@ -47,9 +45,7 @@ The examples most obvious to a non-programmer may be User Interface and User Exp
 
 So Scrum Masters should be encouraging collaboration across teams, just as they encourage collaboration within teams.  Fortunately [there are many better ways to do this than "Scrum of Scrums"](https://less.works/less/framework/coordination-and-integration.html).
 
-![Tear down the wall](/images/tear-down-the-wall.png)
-
-* * *
+![Tear down the wall](/images/tear-down-the-wall.png){: .align-center width="400"}
 
 ## Misconception 4.3: Will Products Sold Separately _Or_ As Parts Of A Suite Integrate Without Teams Working Together?
 
@@ -74,9 +70,7 @@ Here are [NATO conference notes from 1968](/downloads/nato1968.PDF) pointing out
 > Interfacing this system to the rest of the software is trivial and can be easily worked out later.
 
 If we have more than 12 people in a product company, we want teams working with teams (and customers).
-[![Teams Working With Teams](../images/page-27.png)](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
-
-* * *
+[![Teams Working With Teams](../images/page-27.png){: .align-center width="400"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 
 Japanese version: [大規模組織におけるソフトウェア開発の誤解その４：各チームが作ったパーツは、魔法の力で組み合わさるのか？](https://scrummaster.jp/misconception-4-will-parts-made-by-different-teams-fit-together-by-magic-jp/)
 

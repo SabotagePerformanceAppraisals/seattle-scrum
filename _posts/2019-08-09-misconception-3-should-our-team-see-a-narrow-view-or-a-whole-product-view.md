@@ -10,16 +10,16 @@ Small teams are great, and mandated by the definition of Scrum.  Scrum also mand
 Most companies have more than 11 people working on any given product.  *Just to make Scrum fit* (a [local optimization](/local-optimization-bias)), they will redefine "Product" to mean something narrower than the whole product.  This is the first step into a house of mirrors where words mean the opposite of their original intent.
 
 The next mistake is to give each team a "Product Backlog" which astute observers will notice is really only a *Team Backlog*.
-![Product Backlog minus whole product authority equals Team Backlog](/images/product-backlog-minus-whole-product-authority-equals-team-backlog.png){: .align-center width="60%"}
+![Product Backlog minus whole product authority equals Team Backlog](/images/product-backlog-minus-whole-product-authority-equals-team-backlog.png){: .align-center width="300"}
 
 And then give each team a separate "Product Owner" who is really just a *Team Output Owner*.
-![Product Owner minus whole product authority equals Team Output Owner](/images/product-owner-minus-whole-product-authority-equals-team-output-owner.png){: .align-center width="60%"}
+![Product Owner minus whole product authority equals Team Output Owner](/images/product-owner-minus-whole-product-authority-equals-team-output-owner.png){: .align-center width="300"}
 
 This leaves us with multiple separate "Scrum Teams," each with a narrow view of the real product. Unfortunately this is recommended at the end of Henrik Kniberg's extremely popular Product Owner video (a great video up until the few minutes at the end).[^1]
-![Henrik Kniberg Multiple-PO Dysfunction](/images/henrik-kniberg-multiple-po-dysfunction.png){: .align-center width="40%"}
+![Henrik Kniberg Multiple-PO Dysfunction](/images/henrik-kniberg-multiple-po-dysfunction.png){: .align-center width="300"}
 
 Managers worry these teams would run around like chickens with their heads cut off unless we pulled them together somehow.  The traditional way of managing lots of people, dating back at least as far as Julius Caesar's army, is to add hierarchical layers.  Humans have trouble thinking of alternatives to hierarchical layers.  So now we get "Chief Product Owner" or "Business Owner" or some other way of filling the gap above the multiple Team Output Owners.
-![Henrik Kniberg Product Owner In a Nutshell Dysfunction](/images/henrik-kniberg-cpo-dysfunction.png){: .align-center width="50%"}
+![Henrik Kniberg Product Owner In a Nutshell Dysfunction](/images/henrik-kniberg-cpo-dysfunction.png){: .align-center width="300"}
 
 Calling someone a "Chief Product Owner" or "Business Owner" is a symptom of an unnecessary intermediate layer.  The Scrum and LeSS term for the real business decision maker is simply [Product Owner](https://less.works/less/framework/product-owner.html).
 

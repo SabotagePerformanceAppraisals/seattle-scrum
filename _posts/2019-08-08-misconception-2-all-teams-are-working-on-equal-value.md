@@ -5,7 +5,7 @@ header:
   teaser: /images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png
 ---
 
-[![Product Owner Misconceptions Page 16](../images/page-16.png){: .align-right width="60%"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+[![Product Owner Misconceptions Page 16](../images/page-16.png){: .align-right width="350"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them "productive," right?
 
 This is a great idea if your goal is to keep everyone busy.  If your goal is to do the highest priority, highest value work, it could only be justified if several implausible things were true:
@@ -14,7 +14,7 @@ This is a great idea if your goal is to keep everyone busy.  If your goal is to 
 2. Each team's sub-list would have to *stay* the same priority over time.  Even as we learned more about customer needs, we would not be able to reprioritize beyond the limited context of each team's list.  We'd have to decide up-front, once and for all, the value of each team's type of work.  This type of "Scrum" would work if we didn't need agility.  Of course we could cheat and move items between Team C and Team D's lists, but that would be admitting that it's really just one list we've artificially segregated.  (The more common form of crypto-reprioritization is to yank key people from one thing to another: *resource management*.  This habit is so widespread, it should be a clue that superficial-Scrum actually *reduces* agility, and managers need a way around it!)
 3. Each team would have to complete every item at the same rate.  If Team A started #A-3 before Team B started #B-2, they would be working on the stuff we'd declared lower value at the expense of higher valued work.  Have you ever gotten in line at a grocery store and noticed that latecomers in a different line finished before you?  
 
-[![Product Owner Misconceptions Page 17](../images/page-17.png){: .align-right width="60%"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+[![Product Owner Misconceptions Page 17](../images/page-17.png){: .align-right width="350"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 
 These are the points that people who advocate the so-called "Spotify Model" (aka. Shiny Happy People Holding Hands) are usually missing: there's a difference between *feeling* productive, and actually doing the highest value work.  Employee satisfaction is a potentially useful indicator.  But by itself, employee satisfaction isn't evidence that the product development organization can learn and adapt to reality as it's discovered.  A happy company that cannot pivot is not Agile.
 
