@@ -6,9 +6,16 @@
 
   @page {
     @bottom {
-      content: "© 2019 Seattle Scrum Company"
+      content: "© 2019 Seattle Scrum Company";
     }
   }
+  @page:verso {
+    @bottom-left { content: counter(page) }
+  }
+  @page:recto {
+    @bottom-right { content: counter(page) }
+  }
+
 
   [hidden] {
     display: none;
