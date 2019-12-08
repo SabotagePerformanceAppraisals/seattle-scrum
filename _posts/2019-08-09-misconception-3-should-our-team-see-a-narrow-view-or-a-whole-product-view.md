@@ -31,8 +31,4 @@ Scrum Masters (and management, if you have it) should help eradicate narrow view
 
 [^1]: Images from _Product Owner In A Nutshell_ by Henrik Kniberg.
 
-* * * 
-
 Japanese version: [大規模組織におけるソフトウェア開発の誤解その３：チームの視野は狭くて良いか、プロダクト全体を見るべきか?](https://scrummaster.jp/misconception-3-should-our-team-see-a-narrow-view-or-a-whole-product-view-jp/)
-
-* * *
