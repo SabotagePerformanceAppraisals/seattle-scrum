@@ -4,6 +4,12 @@
 
 @media print {
 
+  @page {
+    @bottom {
+      content: "© 2019 Seattle Scrum Company"
+    }
+  }
+
   [hidden] {
     display: none;
   }
