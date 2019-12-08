@@ -40,3 +40,5 @@ Would it take you another four days to get back to where you were?  Of course no
 Once we internalize this realization, it leads to actions which were counterintuitive before -- often the opposite actions that project management would advise.  Unfortunately your organization's structure and policies have actively encouraged these knowledge gaps. 
 
 A skillful software development organization allows the Product Owner to *prioritize* the Product Backlog from a business perspective, not just "order" it.  Put away the red yarn.
+
+[Japanese version](https://scrummaster.jp/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics-jp/)
