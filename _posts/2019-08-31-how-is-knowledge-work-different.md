@@ -22,8 +22,6 @@ Have you noticed that companies with lots of money and people can't seem to deve
 
 I recently visited a big bureaucratic agency that had trouble doing things that are easy for a small co-located team using modern development practices.  I almost fell over when I heard one of the dozen project managers say "We're understaffed."  No ... that's not the problem.
 
-* * *
-
 ## Implications
 
 What would be different about an organization that recognizes that better software is really about our ability to discover and create knowledge?
@@ -46,10 +44,6 @@ What would be different about an organization that recognizes that better softwa
 | extended overtime | adequate sleep |
 
 Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
-
-
-* * *
-
 
 Japanese version: [知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）](https://scrummaster.jp/how-is-knowledge-work-different-jp/)
 
