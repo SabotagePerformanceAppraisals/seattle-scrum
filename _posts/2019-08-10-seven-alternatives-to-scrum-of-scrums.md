@@ -45,7 +45,7 @@ Bas Vodde sent me this comment:
 > Bas
 
 
-## Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
+### Why Scrum of Scrums Continues 16 Years After The Problems Are Known And 10 Years After Ken Disowned it
 
 My theory is that Scrum of Scrums is like a bad song we can't get out of our heads.  I think other influential people (including Mike Cohn and Jeff Sutherland, who became a Scrum trainer in 2008) kept promoting it because we had so few agreed answers for organizations with more than 11 people.  Scrum of Scrums is not in the *Scrum Guide*, but it is built in the two top-marketed ["big box" approaches to scaling](http://www.lafable.com).  Scrum of Scrums is semi-discouraged in LeSS (the less marketed approach to scaling) because we keep finding alternatives that are better at increasing an organization's ability to learn and adapt.
 
@@ -143,7 +143,5 @@ Once when I helped teams reorganize (using a [team-self design workshop](https:/
 > Sometimes several teams start implementing the giant at the same time. At other times, the leading team starts alone to focus the early knowledge transfer and simplify the creation of a cohesive design. After a few Sprints, more teams join. In this case the lead team also has a teaching responsibility to help the incoming teams learn what they already know.
 
 Do not underestimate the power of a single team in an optimized environment!  The development director of one place I worked with in local government told me that as he introduced Scrum he realized he really only had one capable team out of his 40 employees.  In another famous story, over 100 contractors for the FBI were unable to get anything done.  The solution was to use a much smaller group in the basement of the FBI Headquarters.
-
-* * *
 
 Japanese version: [面倒なスクラム・オブ・スクラムに取って替わる７つの方法](https://scrummaster.jp/seven-alternatives-to-scrum-of-scrums-jp/)
