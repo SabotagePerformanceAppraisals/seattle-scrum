@@ -11,6 +11,8 @@ permalink: /calendar
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Jan 29-31 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Jan 29-31 CSM + CLB)
 | Feb 26-28, 2020 | [Certified LeSS Practitioner (CLP)](/education#certified-less-practitioner-principles-to-practices-clp) | Seattle, WA (U-Dist) | $2150/$2500 |[inquire](mailto:tommi@seattlescrum.com?subject=Feb 26-28 CLP)
+| Mar 18-20 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 18-20 CSM + CLB)
+| Jul 27-29, 2020 | [Certified LeSS Practitioner (CLP)](/education#certified-less-practitioner-principles-to-practices-clp) | Seattle, WA (U-Dist) | $2299/$2699 |[inquire](mailto:tommi@seattlescrum.com?subject=Jul 27-29 CLP)
 
 
 ----
