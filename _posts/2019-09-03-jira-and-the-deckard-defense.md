@@ -6,7 +6,7 @@ title: "JIRA and The Deckard Defense"
 >
 > Deckard: Replicants are just like any other machine.  They are either a benefit or a hazard.
 
-Here's a familiar pattern: An experienced observer notes that a certain tool, mental model, or practice should be avoided because it is causing more harm than good in the industry.  Then a less experienced observer waddles in with _The Deckard Defense_: "Thing X can be used for good or bad."  (Deckard is a character in [Blade Runner](https://www.imdb.com/title/tt0083658/).)
+Here's a familiar pattern: An experienced observer notes that a certain tool, mental model, or practice should be avoided because it is causing more harm than good in the industry.  Then a someone reflexively responds with _The Deckard Defense_: "Thing X can be used for good or bad."  (Deckard is a character in [Blade Runner](https://www.imdb.com/title/tt0083658/).)
 
 The Deckard Defense is logically valid, but misses the point that Thing X _usually_ has a harmful effect, and removing it _usually_ has a beneficial effect.
 
