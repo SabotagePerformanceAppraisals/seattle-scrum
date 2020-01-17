@@ -34,4 +34,14 @@ Bas Vodde had this to say:
 >
 > I then convinced management they don’t need it, explained the drawbacks to the team, and I consider that the single most impactful thing I did. Overnight it improved about 30 teams.
 
-{% include video id="Vs6zXpTz2hk?rel=0" provider="youtube" %}
+* * *
+
+From <https://less.works/blog/2020/01/16/digital-tools-considered-harmful-jira.html>
+
+> At the time of this writing, Jira is probably the most widely used digital tool in Scrum and LeSS adoptions. Unfortunately, using Jira commonly leads to some predictable dysfunctions. Some of these are: 
+>   
+>  * Scrum confusion and tool-owned processes
+>  * Micro-management due to integration of Product and Sprint Backlog
+>  * No shared team responsibility due to poor Sprint Backlog"  
+
+{% include video id="Vs6zXpTz2hk" provider="youtube" %}
