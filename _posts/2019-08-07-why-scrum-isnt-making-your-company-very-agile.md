@@ -29,6 +29,13 @@ header:
 
 ---
 
+### Español (Spanish)
+
+¿Por qué Scrum no está haciendo que tu empresa sea muy ágil?: Cómo el tener ideas equivocadas sobre el rol del Product Owner perjudican a su empresa y qué hacer al respecto. 
+[![Spanish](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-es.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-es.pdf)
+
+---
+
 ### Deutsche (German)
 
 Warum Scrum allein Ihre Firma nicht sonderlich agil macht: Wie Missverständnisse über die Product Owner Rolle ihrer Organisation schaden - und wie sie sich davor bewahren können
@@ -57,12 +64,6 @@ Waarom “Scrum” je onderneming niet erg Agile maakt: hoe misverstanden over d
 [Porque "Scrum" não está fazendo a sua companhia mais agíl?:  Como idéias equivocadas sobre o papel de Product Owner prejudicam a sua organização e o que fazer a respeito.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)
 ![Portuguese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-pt.png)
 ([Contact us](/contact) to join the Portuguese translation volunteers.)
-
-### Español (Spanish)
-
-[¿Por que Scrum no está haciendo a tu compañía más ágil ?: Cómo ciertas ideas equivocadas  sobre el rol del Product Owner perjudican a su organización y qué hacer al respecto.](https://docs.google.com/document/d/13jKXmUA-p2GP1UraZmQ-5SSyhZYcW6J8PzvSaVzPZfc/edit?usp=sharing)
-
-([Contact us](/contact) to join the Spanish translation volunteers.)
 
 ---
 
