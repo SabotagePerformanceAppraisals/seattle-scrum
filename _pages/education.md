@@ -183,83 +183,127 @@ Certified LeSS Basics (CLB) is additional content typically integrated into a 3-
 
 ## Certified LeSS Practitioner: Principles to Practices (CLP) 
 
-* __Instructor: [Wolfgang Steffens](https://less.works/profiles/wolfgang-steffens)__
-* __February 26-28, 2020, 9:00AM-6:00PM__
-* __Price: $2,500.00 (select discounts available)__
-* __Early bird price: $2,150.00 (End Date: January 26, 2020)__
-{::comment}* __Location: TBD__{:/comment}
-* __[Email Tommi](mailto:tommi@seattlescrum.com?subject="Feb 26-28 CLP") to register or inquire.__
-
 * __Instructor: [Craig Larman](https://less.works/profiles/craig-larman)__
 * __July 27-29, 2020, 8:30AM-5:30PM__
 * __Price: $2,699.00 (select discounts available)__
 * __Early bird price: $2,299.00 (End Date: June 27, 2020)__
 {::comment}* __Location: TBD__{:/comment}
 * __[Email Tommi](mailto:tommi@seattlescrum.com?subject="July 27-29 CLP") to register or inquire.__
-
 ![CLP](assets/images/CLP.png){: height="150px" width="150px" .align-right}
 
 [Large-Scale Scrum (LeSS)](https://less.works) is a framework for scaling agile development to multiple teams while _descaling_ organizational complexity. LeSS uses the Scrum principles such as empiricism, cross-functional self-managing teams and provides a framework for applying that at scale. It provides simple structural rules and guidelines on how to adopt Scrum in large product development.
 
-Course runs until 18:00 on all days, including Day 3. Full attendance and participation is required for certification.
+{% include video id="yS55D2c5N_c" provider="youtube" %}
+
+Learn with [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6)—the co-creator of LeSS—in this 3-day highly-participative course. Participants (senior managers, product developers, etc.) explore a deep understanding of LeSS, Large-Scale Scrum, for lean & agile development with many teams working together on one product. We explore adoption, new organizational design, systems thinking & optimization, the role of management, and concretely how to work together in a Sprint at scale in terms of coordination, architecture, planning, and more.
+
+Course runs until 17:30 on all days, including Day 3. Full attendance and participation is required for certification.
 {: .notice--danger}
 
-The Certified LeSS Practitioner course is for anyone who is involved a large agile adoption. Basic Scrum knowledge is expected and can be achieved by attending a [Certified ScrumMaster](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) or a [Professional ScrumMaster](https://www.scrum.org/courses/professional-scrum-master-training) course, or thoroughly reading Scrum introduction material such as the [Scrum Primer](https://scrumprimer.org/) and practicing Scrum.
+We explore the Big Idea of [more with LeSS](https://less.works/less/principles/more-with-less.html): _simplifying and descaling_ over "scaling," _scaling product development by descaling the organization_.
 
-Some pictures of one recent class:
+This course runs mostly _at giant whiteboards_ as a series of deep-thinking exercises involving systems modeling in small teams to explore why, so that people can _own_ the ideas by discovering them for themselves, rather than merely _renting_ the ideas. A focus on _why_ and _owning not renting_ are important elements of LeSS and how it's learned. Craig emphasizes this in the course learning experience.
 
-![CLP class photo 1](assets/images/Wolfgang-CLP-picture1.jpg)
-
-![CLP class photo 2](assets/images/Wolfgang-CLP-picture2.jpg)
+Join Larman for a deep dive into _more with LeSS_, based on his long experience with LeSS adoptions.
 
 Feedback from previous courses:
-> "Great Job Wolfgang, thank you soooo much, this has been quite a remarkable session! I can definitely recommend this course!"
+> “It was inspiring to discuss Large-Scale Scrum with Craig Larman. The content of the course was top-notch.”
 >
-> – Andreas O.
+> – Steve Alexander
 >
-> "Everyone can see that he is really behind when he represents something." 
+> “The delivery was outstanding and the supporting material vast and detailed.”
 >
-> – Oliver T.
+> – Simone Zecchi
+>
+> “The best course I have ever been on. Totally blown away.”
+>
+> – Simon Powers
+
+In addition to course material, each participant will also receive:
+
+1. _Large-Scale Scrum: More with LeSS_ (the third LeSS book)
+1. _Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum_ (the first LeSS book)
+
+{% include video id="I8MMV_bRaBc" provider="youtube" %}
 
 ### CLP Learning Objectives
 
-This course is three days and will cover the following topics:
+#### LeSS Overview
 
-* Why LeSS
-* LeSS Overview
-* LeSS Principles
-* Sprint
-* Lean Thinking
-* Systems Thinking
-* Global vs. Local Optimization
-* Queueing Theory
-* Product Definition
-* Feature Teams
+* descaling and simplifying over scaling: more with LeSS
+* LeSS principles, frameworks, guides, experiments
+* two LeSS frameworks: basic & LeSS Huge
+
+#### Adoption
+
+* pre-adoption: building interest
+* the adoption guides
+* three principles
+* getting started
+* scope of first adoption
+* stories of LeSS adoptions
+
+#### Local Optimization & System Optimization 
+
+* local versus global systems optimization
+* local optimization in backlogs
+* local optimization in product definition
+* local optimization in planning
+* local optimization in analysis & design
+* local optimization in programming
+
+#### Product Definition
+
+* redefining the scope of product, and the impact on global optimization
+* portfolio management
+
+#### Why LeSS?
+
+* shu-ha-ri and frameworks
+* empirical control
+* why "More with LeSS"?
+* systems optimization
+* occupational psychology
+
+#### LeSS Sprint
+
+* preparation before first Sprint
+* Sprint Planning with many teams
+* coordination & integration: from communities to architecture
+* scaling Product Backlog Refinement
+* scaling the Sprint Review & Retrospective
+* multi-site development
+
+#### LeSS Huge Framework
+
 * Requirement Areas
-* Product Owner
-* LeSS Huge
-* Scrum Master
-* Coordination
-* Done
-* Technical Excellence
-* Adoption
-* Management
-* LeSS Organization
-* LeSS Simulation
-* Project vs. Product
-* Case Study: [German big Insurance company](https://less.works/case-studies/german-big-insurance.html)
+* Area Product Owners
+* role of Overall Product Owner
+* Area Backlogs
+* adoption
 
-### After Course Completion
+#### More on LeSS Roles
 
-Every participant who successfully completes the course will be registered as a [Certified LeSS Practitioner](https://less.works/courses/less-practitioner.html) and will get an account on [https://less.works](https://less.works/) where you will have access to:
+* Managers in a LeSS organization
+* Scrum Masters at scale
+* Product Owner in LeSS
 
-* Free digital versions of the [first](https://www.amazon.com/Scaling-Lean-Agile-Development-Organizational-ebook/dp/B001PBSDIE), [second](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406), and [third](https://www.amazon.com/Large-Scale-Scrum-More-Addison-Wesley-Signature-ebook/dp/B01JP91OR4) LeSS books
-* More LeSS learning (videos, etc.)
-* Course handout PDF and photos of everything created within the course that was on the walls
-* Contacts of all course participants
-* Course certificate
+### After course completion
+
+Every participant who completes the course will be registered as a Certified LeSS Practitioner on <https://less.works>. Here they can find additional information about LeSS, share course information and stay in contact with the other course participants.
 
 ----
+![image-right](assets/images/MJ.png){: height="150px" width="150px" .align-right}
+
+### Why MJ endorses Craig's class
+
+> As "Agile" has taken off as a buzzword, it's brought us a multi-billion dollar industry
+> of fake agile, hybrids, and quick fixes that just make things worse.  Even before Agile was a thing,
+> [Craig Larman](https://www.amazon.com/Craig-Larman/e/B000APVUN6/) has been the quiet voice of reason
+> in a world of hyperbolic claims.  He works "C to C" -- helping people from the embedded C developer all the way down to the CEO.
+>
+> After ten years of trying to help people do Scrum, it's become obvious that most of the problems that stop them are built into
+> the __organizational design__, the structures, policies, and management habits beyond just the team level.  Craig and Bas's work in LeSS debunks the hype and focuses on those difficult problems.
 
 ### Intro to LeSS Complete Picture - 3 minute video
 
@@ -268,3 +312,4 @@ Every participant who successfully completes the course will be registered as a 
 ### Intro to LeSS Framework - 7 minute video
 
 {% include video id="e7mzpKHOAHs" provider="youtube" %}
+
