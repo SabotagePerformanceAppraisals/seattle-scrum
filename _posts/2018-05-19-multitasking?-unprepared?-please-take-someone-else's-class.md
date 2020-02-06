@@ -2,4 +2,4 @@ After running hundreds of workshops for thousands of people I’ve learned that 
 
 In many past classes I’ve seen participants waste everyone else’s time by not having applied themselves to the preparation work, PARTICULARLY THE QUIZZES in the six e-learning modules at <http://ScrumTrainingSeries.com/> .  This is a time commitment before the workshop.  It will be obvious to me and your team if you haven’t prepared as Tommi and I have insisted for this workshop, or if you tried to do it all on the night before class.  If you’re not certain you’ll be able to prepare, please avoid embarassing yourself by rescheduling your class or finding someone else’s Scrum class at <https://www.scrumalliance.org/courses-events/search?ctyp=Csm&cnty=US&st=WA&cty=Seattle&rad=20&last=cr&pg=1>.
 
-{% include video id="https://www.youtube.com/watch?v=UBVV8pch1dM?rel=0" provider="youtube" %}
+{% include video id="UBVV8pch1dM" provider="youtube" %}

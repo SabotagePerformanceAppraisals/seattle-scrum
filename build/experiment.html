@@ -1,0 +1,78 @@
+<!doctype html>
+<head>
+  <title>Experiment With Page Breaks</title>
+  <style>
+h1, h2, h3, h4 {
+page-break-after: avoid;
+color: green;
+}
+h1 {
+border-top: 4px solid #e6e7e9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    page-break-inside: avoid;
+}
+h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
+    }
+
+  </style>
+
+</head>
+
+<body>
+<h1>First header</h1>
+<p>Long paragraph. Long paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph. Long
+  paragraph. Long paragraph.
+  Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph. Long
+  paragraph. Long paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph. Long
+  paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph.</p>
+<p>
+  Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph. Long
+  paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph Long paragraph. Long
+  paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraphLong paragraph. Long paragraph Long paragraph Long paragraph Long paragraph Long
+  paragraph Long paragraph Long paragraph. Long paragraph. Long paragraph.
+  Long paragraph Long paragraphLong paragraphLong paragraphLong paragraphLong paragraphLong paragraph Long paragraph
+  Long paragraph Long paragraph.</p>
+  <h3> K-12 Proposition</h3>
+  <p>Another paragraph.  This one goes on for another sentence.  And Another.  The quick brown fox jumps over the lazy dog. dog. dog.  The text is test. the test is text.</p>
+</body>

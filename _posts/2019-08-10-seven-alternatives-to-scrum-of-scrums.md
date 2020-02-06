@@ -123,7 +123,7 @@ If you decide to do Scrum of Scrums meetings anyway, remember to rotate team mem
 > * Multi-team [Design Workshops](https://less.works/less/technical-excellence/architecture-design.html)
 > * Exchange members in Daily Scrum.
 
-Are you seeing the theme here?  Only have the meetings you need.  If you've been to an [Open Space Conference](https://www.amazon.com/dp/B005X0OKOY/), you know The Law Of Two Feet requires you to use your two feet whenever you're not learning or contributing.
+Are you seeing the theme here?  Only have the meetings you need.  If you've been to an {% include fn-link content="Open Space Conference" url="https://www.amazon.com/dp/B005X0OKOY/" %}, you know The Law Of Two Feet requires you to use your two feet whenever you're not learning or contributing.
 
 
 > ### 7. Travelers to exploit and break bottlenecks and create skill
@@ -131,8 +131,8 @@ Are you seeing the theme here?  Only have the meetings you need.  If you've been
 > Sometimes a product group relies on a couple of experienced technical experts. How can the knowledge of these (scarce) experts be kept available to all teams? They can become travelers. Each Sprint they join a different team, coaching via pairing, workshops, and teaching sessions.
 > 
 > Although travelers are not specifically created for coordination, by joining different teams they create or strengthen a broad network, which is exactly what is needed for informal coordination channels. And they increase the consistency of some knowledge or practice across teams, realizing a coordination goal.
- 
-Once when I helped teams reorganize (using a [team-self design workshop](https://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team)) I was surprised that several specialists did not want to join teams and opted to call themselves travelers instead.  But a few months later, they had settled into teams.
+
+Once when I helped teams reorganize (using a {% include fn-link content="team-self design workshop" url="https://www.ahmadfahmy.com/blog/2013/12/5/the-rise-of-the-team" %}) I was surprised that several specialists did not want to join teams and opted to call themselves travelers instead. But a few months later, they had settled into teams.
 
 > ### 8. Leading Team
 > 
@@ -145,3 +145,4 @@ Once when I helped teams reorganize (using a [team-self design workshop](https:/
 Do not underestimate the power of a single team in an optimized environment!  The development director of one place I worked with in local government told me that as he introduced Scrum he realized he really only had one capable team out of his 40 employees.  In another famous story, over 100 contractors for the FBI were unable to get anything done.  The solution was to use a much smaller group in the basement of the FBI Headquarters.
 
 Japanese version: [面倒なスクラム・オブ・スクラムに取って替わる７つの方法](https://scrummaster.jp/seven-alternatives-to-scrum-of-scrums-jp/)
+

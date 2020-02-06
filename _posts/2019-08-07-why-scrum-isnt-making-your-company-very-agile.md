@@ -11,7 +11,7 @@ header:
 ---
 ## Watch the video
 
-{% include video id="cr2rjaGmUzo?rel=0" provider="youtube" %}
+{% include video id="cr2rjaGmUzo" provider="youtube" %}
 
 ## Download the comic book
 

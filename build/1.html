@@ -1,0 +1,656 @@
+<!doctype html>
+<!--
+   Copyright (C) Michael James (MJ) and The Seattle Scrum Company.
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Large Organization Software Development Misconception #1: Are “Dependencies” In Knowledge Work Caused By Immutable Laws Of Physics? - The Seattle Scrum Company</title>
+<meta name="description" content="Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.">
+
+
+  <meta name="author" content="Michael James (MJ)">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="The Seattle Scrum Company">
+<meta property="og:title" content="Large Organization Software Development Misconception #1: Are “Dependencies” In Knowledge Work Caused By Immutable Laws Of Physics?">
+<meta property="og:url" content="http://localhost:4000/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/">
+
+
+  <meta property="og:description" content="Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/images/yarn.png">
+
+
+
+  <meta name="twitter:site" content="@michaeldotjames">
+  <meta name="twitter:title" content="Large Organization Software Development Misconception #1: Are “Dependencies” In Knowledge Work Caused By Immutable Laws Of Physics?">
+  <meta name="twitter:description" content="Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.">
+  <meta name="twitter:url" content="http://localhost:4000/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="http://localhost:4000/images/yarn.png">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-08-07T00:00:00-07:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Michael James",
+      "url": "http://localhost:4000/",
+      "sameAs": ["https://twitter.com/michaeldotjames","https://www.linkedin.com/in/michaeljamesseattle/","https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw"]
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="The Seattle Scrum Company Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/Seattle-Scrum-Company-corner.svg" alt=""></a>
+        
+        <a class="site-title" href="/">
+           
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/education" >Education</a>
+            </li><li class="masthead__menu-item">
+              <a href="/coaching" >Coaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/articles" title="Articles, videos, and other resources.">Articles</a>
+            </li><li class="masthead__menu-item">
+              <a href="/testimonials" >Testimonials</a>
+            </li><li class="masthead__menu-item">
+              <a href="/calendar" >Calendar</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact" >Contact us</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Michael James (MJ)</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Guy who simplifies your organization.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Seattle, WA</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+            <li><a href="https://twitter.com/michaeldotjames" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/michaeljamesseattle/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+          
+        
+          
+            <li><a href="https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Large Organization Software Development Misconception #1: Are “Dependencies” In Knowledge Work Caused By Immutable Laws Of Physics?">
+    <meta itemprop="description" content="Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.">
+    <meta itemprop="datePublished" content="August 07, 2019">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Large Organization Software Development Misconception #1: Are “Dependencies” In Knowledge Work Caused By Immutable Laws Of Physics?
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h2 id="background">Background</h2>
+
+<p><img src="/images/henry-l-gantt.jpg" alt="Henry L Gantt" class="align-right" width="20%" /></p>
+
+<p>Just before World War I, a colleague of Frederick Taylor named HL Gantt promoted the use of a project schedule chart highlighting activities that depend on each other.  This can be useful in manufacturing, construction, logistics, and other fields where the dependencies are imposed by physical reality.  (Interesting trivia: the Soviet Union tried to use a Gantt chart for it’s first five-year plan.)</p>
+
+<p><img src="/images/yarn.svg" alt="SAFe yarn" class="align-right" width="20%" />
+Unfortunately, people who haven’t discovered that <a href="/how-is-knowledge-work-different">knowledge work is different from traditional work</a> misapply these techniques to software development.  Software development companies steeped in the project management mindset sometimes try to plan around perceived dependencies with traditional Gantt charts, or sometimes by modeling them with red yarn.  The yarn method is only superficially different than a 100 year old Gantt chart, yet it’s still being sold as an “Agile” technique today!</p>
+
+<h2 id="physical-analogies-for-software-development-and-other-knowledge-work-are-mental-traps">Physical analogies for software development (and other knowledge work) are mental traps</h2>
+
+<p>The following real quote reveals the mindset of a project manager with tools to manage dependencies in physical work – where they actually exist – but has not written software in a modern way:</p>
+
+<blockquote>
+  <p>People who think that dependencies are just figments of old-style thinking should convince me by first putting on a shoe and tying the laces, then putting on a sock that goes between their bare foot and the tied shoe without removing the shoe.</p>
+</blockquote>
+
+<h2 id="in-software-development-asynchronous-dependencies-are-not-caused-by-immutable-laws-of-physics">In software development, asynchronous “dependencies” are not caused by immutable laws of physics!</h2>
+
+<p>The illusion that we need to plan around “dependencies” through multiple Sprints is a symptom of obsolete organizational structure, policy, and skills. We gain agility by directly addressing those problems rather than institutionalizing them with Gantt charts or red yarn.  The socks and shoes argument inadvertently demonstrates that “dependencies” in software development <em>are</em> figments of old-style thinking.</p>
+
+<p>Ten years ago I’d usually hear the same misconception expressed as a <em>house analogy</em>:  “If you want to build a house, you have to build the foundation first.  You can’t start with the roof.”  And this may be true … about houses.</p>
+
+<h2 id="the-fundamental-constraint-of-knowledge-work--such-as-software-development--is-our-ability-to-discover-and-create-knowledge">The fundamental constraint of <a href="/how-is-knowledge-work-different">knowledge work</a> – such as software development – is our ability to discover and create knowledge.</h2>
+
+<p>Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program.  You tore up seven ways that you realized wouldn’t work.  You took a walk outside.  You slept on it.  You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea.  By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done.</p>
+
+<p>Then Thursday night your cat walked across the keyboard and erased everything you typed that week.</p>
+
+<p>Would it take you another four days to get back to where you were?  Of course not!  By 10AM Friday you’d be ahead of where you were Thursday night.  Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the learning and creation of new knowledge.</p>
+
+<h2 id="perceived-dependencies-in-knowledge-work-are-caused-by-knowledge-gaps">Perceived “dependencies” in knowledge work are caused by knowledge gaps.</h2>
+
+<p>Once we internalize this realization, it leads to actions which were counterintuitive before – often the opposite actions that project management would advise.  Unfortunately your organization’s structure and policies have actively encouraged these knowledge gaps.</p>
+
+<p>A skillful software development organization allows the Product Owner to <em>prioritize</em> the Product Backlog from a business perspective, not just “order” it.  Put away the red yarn.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-08-07T00:00:00-07:00">August 07, 2019</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=michaeldotjames&text=Large+Organization+Software+Development+Misconception+%231%3A+Are+%22Dependencies%22+In+Knowledge+Work+Caused+By+Immutable+Laws+Of+Physics%3F%20http%3A%2F%2Flocalhost%3A4000%2Fmisconception-1-dependencies-are-caused-by-immutable-laws-of-physics%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fmisconception-1-dependencies-are-caused-by-immutable-laws-of-physics%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fmisconception-1-dependencies-are-caused-by-immutable-laws-of-physics%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/jp/" class="pagination--pager" title="日本語でご覧いただけるMJの著作
+">Previous</a>
+    
+    
+      <a href="/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/" class="pagination--pager" title="Why “Scrum” Isn’t Making Your Company Very Agile, How Misconceptions About The Product Owner Role Harm Your Organization, And What To Do About It.
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/images/less-is-hard-og.png"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/nine-disadvantages-of-less/" rel="permalink">Nine Disadvantages of LeSS, From Someone Who’s Doing It
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Why Write This?
+You may know that I helped Manoj Vadakkan establish Fans of LeSS, our attempt to un-hijack Scrum and Agile.  But just as Ken Schwaber used to...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/please-hold-on-to-your-wallet-when-you-hear-someone-claim-scrum-scales-linearly/" rel="permalink">Please Hold On To Your Wallet When You Hear Someone Claim That Scrum Scales Linearly
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Be skeptical of anyone who tells you that nine Scrum teams will finish your product in one ninth the time.  All else being equal, it’s not going to happen.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/why-we-do-not-recommend-trying-to-break-products-into-small-independent-pieces-for-small-teams/" rel="permalink">Why We Do Not Recommend Trying To Break Products Into Small Independent Pieces For Small Teams
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Just today I heard two people give the same naive scaling advice: divide products into independent pieces for different teams to work on.  This advice is so ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/an-example-dysfunctional-contract-relationship/" rel="permalink">An Example Dysfunctional Contract Relationship
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Q: I am having a struggle with our contractor over scrum meetings. I am proposing that only the scrum master (me) and the developers (contractors) attend a s...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+    <label class="sr-only" for="cse-search-input-box-id">
+      Enter your search term...
+    </label>
+    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results">
+    <gcse:searchresults-only></gcse:searchresults-only>
+  </div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2019 The Seattle Scrum Company. </div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+<script>
+  (function () {
+    var cx = '014200965223414329328:w3shlo5ugdu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+
+  function googleCustomSearchExecute() {
+    var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
+    if (input.value == '') {
+      element.clearAllResults();
+    } else {
+      element.execute(input.value);
+    }
+    return false;
+  }
+
+  
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>

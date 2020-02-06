@@ -22,4 +22,4 @@ See also:
 
 * * *
 
-{% include video id="7m8izf-oXY4?rel=0" provider="youtube" %}
+{% include video id="7m8izf-oXY4" provider="youtube" %}

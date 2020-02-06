@@ -11,7 +11,7 @@ I’ve heard this blind spot called *local optimization bias*.
 ## Example 1
 
 The following video illustrates local optimization in a typical organization.  A supervisor instructs workers to prevent any unwrapped chocolate from getting past them into the next room.  They mostly succeed.  But in the long run and in the big picture, optimizing locally harms the business, its employees, and its customers.  The video is supposed to be funny, but I want you to take it seriously because similar things happen every day in your own company.
-{% include video id="8NPzLBSBzPI?rel=0" provider="youtube" %}
+{% include video id="8NPzLBSBzPI" provider="youtube" %}
 
 ## Example 2
 
@@ -41,7 +41,7 @@ Do you have some examples of local optimization?  Please send them in!
 
 ## Craig Larman Elaborates
 
-{% include video id="xJXPUZ0m38g?rel=0" provider="youtube" %}
+{% include video id="xJXPUZ0m38g" provider="youtube" %}
 
 * * *
 
@@ -54,7 +54,7 @@ Do you have some examples of local optimization?  Please send them in!
 > 
 > -- Rush
 
-{% include video id="u7W0Nm8iHwk?rel=0" provider="youtube" %}
+{% include video id="u7W0Nm8iHwk" provider="youtube" %}
 
 * * *
 

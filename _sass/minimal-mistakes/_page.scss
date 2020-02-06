@@ -245,6 +245,15 @@ body {
   }
 }
 
+.print-only, .print-only-inline {
+  display: none;
+}
+
+.yt-thumb {
+  height: 90px;
+  width: auto;
+}
+
 /*
    Social sharing
    ========================================================================== */

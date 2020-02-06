@@ -22,6 +22,6 @@ There may be other justifications for keeping separate lists.  Maybe they really
 
 Gentle reader, I have no idea what you should do in your own situation.  I hope I've at least helped you gain clarity about why Scrum has only one Product Backlog per product, regardless of the number of teams.
 
-{% include video id="YYOKMUTTDdA?rel=0" provider="youtube" %}
+{% include video id="YYOKMUTTDdA" provider="youtube" %}
 
 Japanese version: [大規模組織におけるソフトウェア開発の誤解その２:すべてのチームが等しい価値の業務に取り組んでいるか？](https://scrummaster.jp/misconception-2-all-teams-are-working-on-equal-value-jp/)

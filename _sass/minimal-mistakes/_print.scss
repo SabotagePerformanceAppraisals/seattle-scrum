@@ -228,6 +228,24 @@
     display: none;
   }
 
+
+  .print-link {
+    display: inline !important;
+    text-decoration: none;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .print-only-inline {
+    display: inline-block;
+  }
+
+  .responsive-video-container {
+    padding-bottom: 120px;
+  }
+
   a.no-reformat:after {
     content: '';
   }
@@ -265,7 +283,6 @@
   .author__urls-wrapper,
   .nav__list,
   .sidebar,
-  .responsive-video-container,
   .adsbygoogle {
     display: none !important;
     height: 1px !important;

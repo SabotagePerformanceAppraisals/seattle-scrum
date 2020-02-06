@@ -1,0 +1,650 @@
+<!doctype html>
+<!--
+   Copyright (C) Michael James (MJ) and The Seattle Scrum Company.
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff? - The Seattle Scrum Company</title>
+<meta name="description" content="If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them “productive,” right?">
+
+
+  <meta name="author" content="Michael James (MJ)">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="The Seattle Scrum Company">
+<meta property="og:title" content="Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?">
+<meta property="og:url" content="http://localhost:4000/misconception-2-all-teams-are-working-on-equal-value/">
+
+
+  <meta property="og:description" content="If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them “productive,” right?">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png">
+
+
+
+  <meta name="twitter:site" content="@michaeldotjames">
+  <meta name="twitter:title" content="Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?">
+  <meta name="twitter:description" content="If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them “productive,” right?">
+  <meta name="twitter:url" content="http://localhost:4000/misconception-2-all-teams-are-working-on-equal-value/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="http://localhost:4000/images/goddamn-it-only-a-few-teams-are-doing-the-most-valuable-work.png">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-08-08T00:00:00-07:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/misconception-2-all-teams-are-working-on-equal-value/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Michael James",
+      "url": "http://localhost:4000/",
+      "sameAs": ["https://twitter.com/michaeldotjames","https://www.linkedin.com/in/michaeljamesseattle/","https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw"]
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="The Seattle Scrum Company Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/Seattle-Scrum-Company-corner.svg" alt=""></a>
+        
+        <a class="site-title" href="/">
+           
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/education" >Education</a>
+            </li><li class="masthead__menu-item">
+              <a href="/coaching" >Coaching</a>
+            </li><li class="masthead__menu-item">
+              <a href="/articles" title="Articles, videos, and other resources.">Articles</a>
+            </li><li class="masthead__menu-item">
+              <a href="/testimonials" >Testimonials</a>
+            </li><li class="masthead__menu-item">
+              <a href="/calendar" >Calendar</a>
+            </li><li class="masthead__menu-item">
+              <a href="/contact" >Contact us</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Michael James (MJ)</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Guy who simplifies your organization.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Seattle, WA</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+            <li><a href="https://twitter.com/michaeldotjames" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/michaeljamesseattle/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+          
+        
+          
+            <li><a href="https://www.youtube.com/channel/UClZWfQtgi5d5pvwEq5v9XTw" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?">
+    <meta itemprop="description" content="If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them “productive,” right?">
+    <meta itemprop="datePublished" content="August 08, 2019">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Large Organization Software Development Misconception #2: Are All Teams Working On Equal Value Stuff?
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p><a href="/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/"><img src="../images/page-16.png" alt="Product Owner Misconceptions Page 16" class="align-right" width="350" /></a>
+If someone in an seven-team company had only a superficial understanding of Scrum, they might think each team should have its own segregated list of stuff to do.  That keeps them “productive,” right?</p>
+
+<p>This is a great idea if your goal is to keep everyone busy.  If your goal is to do the highest priority, highest value work, it could only be justified if several implausible things were true:</p>
+
+<ol>
+  <li>Each team’s backlog would need to contain the <em>same priority work</em>, work of equal value.  Team A’s #1 item (A-1) would need to have the same customer impact as Team G’s #1 (G-1) item.  If you’ve spent much time with your eyes open in real organizations, you already know that one team’s work will be more important in the big picture than another team’s work.  In real life it’s not hard to imagine the value ratio exceeding 1000 to 1.  The problem will be masked if we have single-function teams (e.g. design only, test only) or <em>component teams</em> (e.g. back end only) rather than <a href="https://less.works/less/structure/feature-teams.html">feature teams</a>.</li>
+  <li>Each team’s sub-list would have to <em>stay</em> the same priority over time.  Even as we learned more about customer needs, we would not be able to reprioritize beyond the limited context of each team’s list.  We’d have to decide up-front, once and for all, the value of each team’s type of work.  This type of “Scrum” would work if we didn’t need agility.  Of course we could cheat and move items between Team C and Team D’s lists, but that would be admitting that it’s really just one list we’ve artificially segregated.  (The more common form of crypto-reprioritization is to yank key people from one thing to another: <em>resource management</em>.  This habit is so widespread, it should be a clue that superficial-Scrum actually <em>reduces</em> agility, and managers need a way around it!)</li>
+  <li>Each team would have to complete every item at the same rate.  If Team A started #A-3 before Team B started #B-2, they would be working on the stuff we’d declared lower value at the expense of higher valued work.  Have you ever gotten in line at a grocery store and noticed that latecomers in a different line finished before you?</li>
+</ol>
+
+<p><a href="/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/"><img src="../images/page-17.png" alt="Product Owner Misconceptions Page 17" class="align-right" width="350" /></a></p>
+
+<p>These are the points that people who advocate the so-called “Spotify Model” (aka. Shiny Happy People Holding Hands) are usually missing: there’s a difference between <em>feeling</em> productive, and actually doing the highest value work.  Employee satisfaction is a potentially useful indicator.  But by itself, employee satisfaction isn’t evidence that the product development organization can learn and adapt to reality as it’s discovered.  A happy company that cannot pivot is not Agile.</p>
+
+<p>There may be other justifications for keeping separate lists.  Maybe they really really really are unrelated products, <a href="https://less.works/less/framework/product.html">though we should be skeptical of this</a>.  Maybe we’re bound by overspecialization because the skills and knowledge gaps seem insurmountable.  Maybe we’ve made a management decision to keep our less capable developers on Team F.  Maybe Teams X and Y are on the other side of the world and we’re not willing to give them anything important.  Let’s use Ken Schwaber’s term for these things: <em>organizational impediments</em>.</p>
+
+<p>Gentle reader, I have no idea what you should do in your own situation.  I hope I’ve at least helped you gain clarity about why Scrum has only one Product Backlog per product, regardless of the number of teams.</p>
+
+<hr />
+
+<!-- Courtesy of embedresponsively.com //-->
+<div class="responsive-video-container">
+
+  <iframe src="https://www.youtube-nocookie.com/embed/YYOKMUTTDdA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+
+<hr />
+<p>Japanese version: <a href="https://scrummaster.jp/misconception-2-all-teams-are-working-on-equal-value-jp/">大規模組織におけるソフトウェア開発の誤解その２:すべてのチームが等しい価値の業務に取り組んでいるか？</a></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2019-08-08T00:00:00-07:00">August 08, 2019</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=michaeldotjames&text=Large+Organization+Software+Development+Misconception+%232%3A+Are+All+Teams+Working+On+Equal+Value+Stuff%3F%20http%3A%2F%2Flocalhost%3A4000%2Fmisconception-2-all-teams-are-working-on-equal-value%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fmisconception-2-all-teams-are-working-on-equal-value%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fmisconception-2-all-teams-are-working-on-equal-value%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/" class="pagination--pager" title="Why “Scrum” Isn’t Making Your Company Very Agile, How Misconceptions About The Product Owner Role Harm Your Organization, And What To Do About It.
+">Previous</a>
+    
+    
+      <a href="/misconception-3-should-our-team-see-a-narrow-view-or-a-whole-product-view/" class="pagination--pager" title="Large Organization Software Development Misconception #3: Should Our Team See A Narrow View Or A Whole Product View?
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/images/less-is-hard-og.png"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/nine-disadvantages-of-less/" rel="permalink">Nine Disadvantages of LeSS, From Someone Who’s Doing It
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Why Write This?
+You may know that I helped Manoj Vadakkan establish Fans of LeSS, our attempt to un-hijack Scrum and Agile.  But just as Ken Schwaber used to...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/please-hold-on-to-your-wallet-when-you-hear-someone-claim-scrum-scales-linearly/" rel="permalink">Please Hold On To Your Wallet When You Hear Someone Claim That Scrum Scales Linearly
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Be skeptical of anyone who tells you that nine Scrum teams will finish your product in one ninth the time.  All else being equal, it’s not going to happen.
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/why-we-do-not-recommend-trying-to-break-products-into-small-independent-pieces-for-small-teams/" rel="permalink">Why We Do Not Recommend Trying To Break Products Into Small Independent Pieces For Small Teams
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Just today I heard two people give the same naive scaling advice: divide products into independent pieces for different teams to work on.  This advice is so ...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "/assets/images/Seattle-Scrum-Company-corner.svg"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/an-example-dysfunctional-contract-relationship/" rel="permalink">An Example Dysfunctional Contract Relationship
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Q: I am having a struggle with our contractor over scrum meetings. I am proposing that only the scrum master (me) and the developers (contractors) attend a s...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id">
+    <label class="sr-only" for="cse-search-input-box-id">
+      Enter your search term...
+    </label>
+    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results">
+    <gcse:searchresults-only></gcse:searchresults-only>
+  </div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2019 The Seattle Scrum Company. </div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+<script>
+  (function () {
+    var cx = '014200965223414329328:w3shlo5ugdu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+
+  function googleCustomSearchExecute() {
+    var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
+    if (input.value == '') {
+      element.clearAllResults();
+    } else {
+      element.execute(input.value);
+    }
+    return false;
+  }
+
+  
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
