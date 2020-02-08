@@ -10,6 +10,8 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Mar 18-20 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 18-20 CSM + CLB)
+| May 20-22 | Certified Scrum Master + Certified LeSS Basics | Osaka, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 20-22 CSM + CLB)
+| May 25-27 | Certified Scrum Master + Certified LeSS Basics | Tokyo, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 25-27 CSM + CLB)
 | Jul 27-29, 2020 | [Certified LeSS Practitioner (CLP)](/education#certified-less-practitioner-principles-to-practices-clp) | Seattle, WA | $2299/$2699 |[inquire](mailto:tommi@seattlescrum.com?subject=Jul 27-29 CLP)
 
 
