@@ -6,7 +6,7 @@ header:
 ---
 We human animals naturally think about what’s right in front of us.  We focus on the here and now.  This served us well enough when life was simpler.  But actions also have effects we don't usually consider very well, either due to time -- because they happen later on -- , or distance -- they affect people or things we don't often interact with.
 
-I’ve heard this blind spot called *local optimization bias*. 
+I’ve heard this blind spot called *local optimization bias*: the tendency of actors within a complex system to do the 'best' thing in the confines of their own duties and roles, without understanding the larger impact of their choices and actions, or ignoring higher-level goals of the system.[^1]
 
 ## Example 1
 
@@ -35,8 +35,7 @@ A person without a deep understanding of software development might assume that 
 [![Hyperproductivity can hurt](/images/hyperproductivity-can-hurt.png){: .align-center width="500"}](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
 
 
-Do you have some examples of local optimization?  Please send them in!
-
+[^1]: _Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large Scale Scrum_, Larman/Vodde (2010)
 * * *
 
 ## Craig Larman Elaborates
