@@ -57,6 +57,13 @@ Waarom “Scrum” je onderneming niet erg Agile maakt: hoe misverstanden over d
 
 ---
 
+### Český (Czech)
+
+Proč “Scrum” sám o sobě neudělá vaší organizaci agilní.
+[![Czech](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cz.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cz.pdf) 
+
+---
+
 ## Translations In Progress.  Please help!
 
 ### Português (Portuguese)
