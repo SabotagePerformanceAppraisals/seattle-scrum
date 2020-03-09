@@ -9,7 +9,7 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Mar 18-20 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 18-20 CSM + CLB)
+| Mar 18-20 | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 18-20 CSM + CLB)
 | Mar 20 | LeSS Meetup Group | Seattle, WA (U-Dist) | FREE |[inquire / RSVP](mailto:tommi@seattlescrum.com?subject=Mar 20 LeSS Meetup)
 | May 6-7 | Certified Scrum Master | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 6-7 CSM)
 | May 20-22 [TENTATIVE]| Certified Scrum Master + Certified LeSS Basics | Osaka, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 20-22 CSM + CLB)
