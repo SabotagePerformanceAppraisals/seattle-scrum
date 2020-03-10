@@ -10,8 +10,8 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | Mar 18-20 [CANCELLED] | Certified Scrum Master + Certified LeSS Basics | Seattle, WA (U-Dist) | $1005 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 18-20 CSM + CLB)
-| Mar 20 7PM | LeSS Meetup Group | Seattle, WA (U-Dist) + remote | FREE |[register](https://www.meetup.com/Seattle-LeSS-Large-Scale-Scrum-Meetup-Group/events/269228739/)
-| Mar 25 9AM | LeSS Meetup Group: Common Misconceptions About Agile Multi-team Software Development, with Michael James | NYC + remote | FREE | [register](https://www.meetup.com/Large-Scale-Scrum-LeSS-in-NYC/events/269105054/)
+| Mar 20 7PM | LeSS Meetup: Assessing a waterfall organization for the benefits to becoming Agile, with Lancer Kind | Seattle, WA (U-Dist) + remote | FREE |[register](https://www.meetup.com/Seattle-LeSS-Large-Scale-Scrum-Meetup-Group/events/269228739/)
+| Mar 25 9AM | LeSS Meetup: Common Misconceptions About Agile Multi-team Software Development, with Michael James | NYC + remote | FREE | [register](https://www.meetup.com/Large-Scale-Scrum-LeSS-in-NYC/events/269105054/)
 | May 6-7 | Certified Scrum Master | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 6-7 CSM)
 | May 20-22 [TENTATIVE]| Certified Scrum Master + Certified LeSS Basics | Osaka, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 20-22 CSM + CLB)
 | May 25-27 [TENTATIVE]| Certified Scrum Master + Certified LeSS Basics | Tokyo, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 25-27 CSM + CLB)
