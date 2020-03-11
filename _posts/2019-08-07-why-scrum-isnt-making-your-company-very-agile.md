@@ -13,6 +13,10 @@ header:
 
 {% include video id="cr2rjaGmUzo?rel=0" provider="youtube" %}
 
+## Attend the March 25 live online discussion
+
+<https://www.meetup.com/Large-Scale-Scrum-LeSS-in-NYC/events/269105054/>
+
 ## Download the comic book
 
 ### English
