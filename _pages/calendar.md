@@ -9,7 +9,7 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Mar 19-20 ONLINE | LeSS-friendly Certified Scrum Master (CSM) | ONLINE | $1005 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 19-20 Vitual CSM)
+| Mar 19-20 LIVE VIRTUAL | LeSS-friendly Certified Scrum Master (CSM) | LIVE VIRTUAL[^virtual] | $1005 |[inquire](mailto:tommi@seattlescrum.com?subject=Mar 19-20 Vitual CSM)
 | Mar 20 7PM | LeSS Meetup: Assessing a waterfall organization for the benefits to becoming Agile, with Lancer Kind | Seattle, WA (U-Dist) + remote | FREE |[register](https://www.meetup.com/Seattle-LeSS-Large-Scale-Scrum-Meetup-Group/events/269228739/)
 | Mar 25 9AM | LeSS Meetup: Common Misconceptions About Agile Multi-team Software Development, with Michael James | NYC + remote | FREE | [register](https://www.meetup.com/Large-Scale-Scrum-LeSS-in-NYC/events/269105054/)
 | May 6-7 | LeSS-friendly Certified Scrum Master (CSM) | Seattle, WA (U-Dist) | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 6-7 CSM)
@@ -53,4 +53,4 @@ TIP: base your self-assessment answers on the preparation materials rather than 
 
 ----
 [^price]: All pricing listed as: early bird rate / standard rate. Please inquire for early bird rate expirations.
-[^lessnyc]: MJ will be presenting a session about management's role in Scrum, and a workshop on Test Driven Development [TDD]
+[^virtual]: YES, it's a real Certified Scrum Master (CSM) class.  Due to COVID-19, the Scrum Alliance has authorized us to do remote training for the CSM program.  We will conduct this session using Zoom, Google Docs, and Miro.  There will be glitches, and it will be hard to move as quickly.  Other than that, it's a regular CSM class leading to the Scrum Alliance CSM certificate.
