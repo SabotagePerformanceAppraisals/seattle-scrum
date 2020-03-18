@@ -20,6 +20,9 @@ Our Certified Scrum Master (CSM) experience combines [six entertaining online pr
 
 ----
 
+During the COVID-19 situation, the CSM class is available as a LIVE VIRTUAL session using tools like Zoom, Google Docs, and other online collaboration methods. 
+{: .notice--warning }
+
 During class, CSM participants explore Agility while divided into self organizing Scrum teams of 4-7 people each, experiencing learning situations beyond the ScrumAlliance's certification requirements.  
 
 As Michael James puts it,
