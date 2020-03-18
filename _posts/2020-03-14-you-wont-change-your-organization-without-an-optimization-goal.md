@@ -4,8 +4,7 @@ header:
    og_image: /images/less-is-hard-og.png
    teaser: /images/less-is-hard-og.png
 ---
-A distinguishing feature of Craig Larman's work (e.g. _Scaling Lean & Agile Development_) is the explicit
-focus on a system optimization goal for a change initiative.  Here's an example system optimization goal that we consider consistent with Agility:
+A distinguishing feature of Craig Larman's work (e.g. _Scaling Lean & Agile Development_) is the explicit focus on a system optimization goal for a change initiative.  Here's an example system optimization goal that we consider consistent with Agility:
 
 Increase an organization's ability to respond to change.
 {: .notice--success}
