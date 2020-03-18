@@ -1,5 +1,6 @@
 ---
 title: "You Won't Change Your Organization Without An Optimization Goal"
+excerpt: 'Why "make everything better” does not work.'
 header:
    og_image: /images/less-is-hard-og.png
    teaser: /images/less-is-hard-og.png
