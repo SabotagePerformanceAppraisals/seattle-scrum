@@ -48,6 +48,7 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * increased release frequency
 * fewer defects in each release
 * predictability
+* clarity about who does what
 * resource utilization (keeping people busy)
 * ideation (creating ideas)
 * typing code faster
