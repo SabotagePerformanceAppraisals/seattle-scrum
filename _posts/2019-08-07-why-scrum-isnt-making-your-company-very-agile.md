@@ -22,8 +22,8 @@ header:
 ### English
 
 [![comic book version](/assets/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2-cover.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-v2.pdf)
-* [supplementary material about multi-team software development](/downloads/CLB-class-handout.pdf)
-* [Contact Tommi](mailto:tommi@seattlescrum.com?subject=Please mail me comic books) for the physical printed version with slightly less snazzy graphics.
+* [supplementary material about multi-team software development](/downloads/more-agile-misconceptions.pdf)
+* [Contact Tommi](mailto:tommi@seattlescrum.com?subject=Please mail me comic books) for the physical printed version.
 
 ---
 
