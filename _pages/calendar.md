@@ -9,7 +9,7 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| April 23-24 | Certified LeSS Basics (CLB) | Japan | ¥100,000 |[register](https://www.odd-e.jp/training/course-detail/111)
+| April 23-24 | Certified LeSS Basics (CLB) | Japan | ¥110,000  税込み |[register](https://www.odd-e.jp/training/course-detail/111)
 | May 6-7 | LeSS-friendly Certified Scrum Master (CSM) | LIVE VIRTUAL[^virtual] | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 6-7 Virtual CSM)
 | May 20-22 TENTATIVE | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB)| Osaka, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 20-22 CSM + CLB)
 | May 25-27 TENTATIVE | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) | Tokyo, Japan | ¥300,000 |[inquire](mailto:tommi@seattlescrum.com?subject=May 25-27 CSM + CLB)
