@@ -53,9 +53,9 @@ Eventually the effort paid off, they started getting solid builds, and they were
 While the focus of LeSS is increased adaptiveness/Agility, not just *releases that don't suck*, the latter is still consistent with adaptiveness and with LeSS's guidance.  You can't adapt to changing customer needs if you're drowning in hot fixes.
 
 The experience taught me to be less attached to my idea of what an organization's system optimization goal should be.  There isn't a "right" one.  At the same time I've come to believe that senior management should 
-* carefully consider what their goal is, 
+* carefully consider what the goal is, 
 * express it clearly to everyone, and also 
-* express what we're willing to let go of.
+* express what attachments we're willing to let go of.
 
 ## When are goals context sensitive?
 
