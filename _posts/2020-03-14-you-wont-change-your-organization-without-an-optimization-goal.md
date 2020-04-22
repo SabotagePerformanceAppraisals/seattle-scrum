@@ -33,23 +33,29 @@ we'll want to consider some [better alternatives](/seven-alternatives-to-scrum-o
 
 ## What happens without a system optimization goal?
 
-I spent a little some time with a company which I initially thought was a perfect candidate for an Agile adoption.  They had less than 100 people in the company, all co-located on the same floor of their hip, modern office.  Their  management initially seemed quite gung ho.  But as the discussions progressed, it became more clear that this management did not *want* to untangle the byzantine organizational structure and the overspecialization that had built up over the past 20 years, didn't think people could learn new skills, and really felt it was best to micromanage employees.
+### Example A: 
+I spent a little some time with a company which I initially thought was a perfect candidate for an Agile adoption, a slam dunk.  They had less than 100 people in the company, all co-located on the same floor of their hip, modern office.  Their  management initially seemed quite gung ho.  But as the discussions progressed, it became more clear that this management did not *want* to untangle the byzantine organizational structure and the overspecialization they had built up over the past 20 years, didn't think people could learn new skills, and really felt it was best to micromanage employees.
 
 When the company attempted an [Overall Retrospective](https://less.works/less/framework/overall-retrospective.html), their actions were to *increase* the organizational complexity that was at the root of their problems!  [Local optimization bias](/local-optimization-bias/) is so powerful that doing retrospectives blindly can actually make things worse if we are not clear about our optimization goal.
 
-At another similarly-sized company I worked with, the CEO himself came to our mob programming training sessions to see the company's code for himself, and suggest ways of adding automated tests.  (This is similar to Ahmad Fahmy's [Gemba Sprint](https://www.infoq.com/articles/guide-gemba-sprint/))  This sent everyone a clear message that it's often appropriate to *stop and fix*, rather than continuing to add bugs by churning out crap code.  
-
 If management cannot express a clear optimization goal and act consistently with it, perhaps we're dealing with too low a level of management.    
+
+### Example B:
+At another similarly-sized company I worked with, the CEO himself came to our mob programming training sessions to see the company's code for himself, and suggest ways of adding automated tests.  (This is similar to Ahmad Fahmy's [Gemba Sprint](https://www.infoq.com/articles/guide-gemba-sprint/))  This sent everyone a clear message that it's often appropriate to *stop and fix*, rather than continuing to add bugs by churning out crap code.  
 
 ## What's the right system optimization goal? 
 
+### Example C:
 I worked with a multi-team product development group that was living in *hot-fix hell*.  Developing new features was impossible because so much energy was spent on fixing and supporting previous releases.  Their releases were often so buggy that customers declined to take them, further increasing the support effort as they tried to hot fix multiple versions.  To escape the situation, teams had to increase their focus on writing automated tests, increase their focus on reducing code duplication, and increase their focus on collaborating with other teams.  But this was *inconsistent* with what they'd been supervised to do in the past -- typing lots of crap code -- and initially there were complaints that Scrum was "reducing productivity."  Fortunately senior management made it clear that the old kind of micro-efficiency and their old ideas about what "productivity" meant were not the reasons for the change initiative.
 
 Eventually the effort paid off, they started getting solid builds, and they were able to release solid products.  And then they stopped changing their organization!  I was initially disappointed because I saw additional changes they could have made to become more adaptive to customer needs (aka. *Agile*).  But they were so pleased their releases no longer sucked that they didn't have an appetite for the additional changes that would have increased their agility.  
  
-While the focus of LeSS is increased adaptiveness/Agility, not just *releases that don't suck*, the latter is still consistent with adaptiveness.  You can't adapt to changing customer needs if you're drowning in hot fixes.
+While the focus of LeSS is increased adaptiveness/Agility, not just *releases that don't suck*, the latter is still consistent with adaptiveness and with LeSS's guidance.  You can't adapt to changing customer needs if you're drowning in hot fixes.
 
-The experience taught me to be less attached to my idea of what an organization's system optimization goal should be.  At the same time I've come to believe that senior management should carefully consider what their goal is, and then express it clearly to everyone.
+The experience taught me to be less attached to my idea of what an organization's system optimization goal should be.  There isn't a "right" one.  At the same time I've come to believe that senior management should 
+* carefully consider what their goal is, 
+* express it clearly to everyone, and also 
+* express what we're willing to let go of.
 
 ## When are goals context sensitive?
 
