@@ -1,16 +1,16 @@
 ---
-title: "How is Knowledge Work Different? (Why Johnny, Inc. Can't Code.)"
+title: "How is Knowledge Creation Work Different? (Why Johnny, Inc. Can't Code.)"
 header:
   og_image: /images/git-rm-r.png
   teaser: /images/git-rm-r.png
 ---
-## The fundamental constraint of knowledge work -- such as software development -- is our ability to discover and create knowledge.
+## The fundamental constraint of knowledge creation work -- such as software development -- is our ability to discover and create knowledge.
 
 Imagine that you had spent Monday through Thursday working on an essay, a song, or even a computer program. You tore up seven ways that you realized wouldn’t work. You took a walk outside. You slept on it. You did research and found an eighth way that looked like it would work, until you showed it to a friend who pointed out a serious flaw with one part of your idea. By Thursday afternoon you had nearly finished a ninth way that combined the best of your previous approaches and looked to be nearly done. Then Thursday night your cat walked across the keyboard and somehow deleted everything you typed that week.
 
 ![git rm -r](/images/git-rm-r.png){: .align-left width="200"}
 
-Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that knowledge work? It wasn’t the typing. It was the learning and creation of new knowledge.
+Would it take you another four days to get back to where you were? Of course not! By 10AM Friday you’d be ahead of where you were Thursday night. Therefore what was the actual constraint on that work? It wasn’t the typing. It was the learning and creation of new knowledge.
 
 * * *
 
@@ -45,5 +45,5 @@ What would be different about an organization that recognizes that better softwa
 
 Becoming a *learning organization* isn't something that gets solved once, by a training program, a reorg, or a one shot "Agile transformation."  It doesn't happen just by talking about organizational culture.  It is a deep change that cannot ignore the policies and structure of the organization.  
 
-Japanese version: [知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）](https://scrummaster.jp/how-is-knowledge-work-different-jp/)
+Japanese version: [知識創造を行う仕事は、どうしてこうも異なるのか？（なぜあの会社はコーディングができないのか）](https://scrummaster.jp/how-is-knowledge-creation-work-different-jp/)
 
