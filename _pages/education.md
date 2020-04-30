@@ -32,7 +32,7 @@ As Michael James puts it,
 
 ### CSM Learning Objectives
 
-Topics covered primarily by team activities and examples (any lectures would be very short):
+Topics are covered primarily by team activities and examples (any lectures would be very short).  A CSM participant who applies himself/herself to the preparation work and course activities should be able to explain the following:
 
 * How Agile development differs from traditional project management.
 * Three Scrum roles, responsibilities, boundaries, in depth.
