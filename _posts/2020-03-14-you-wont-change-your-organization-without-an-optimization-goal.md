@@ -70,7 +70,7 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * predictability
 * clarity about who does what
 * resource utilization (keeping people busy)
-* ideation (creating ideas)
+* ideation (creating ideas, like IDEO and Xerox PARC were famous for)
 * typing code faster
 * secrecy[^yes]
 * comfort
