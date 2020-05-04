@@ -88,9 +88,9 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * increase return on investment
 * survival
 * conformance to a plan
-* rate of developing features immediately
-* rate of developing features within this quarter
-* rate of developing features next year
+* rate of developing features immediately (this week's velocity)
+* rate of developing features within this quarter (this quarter's velocity)
+* rate of developing features next year (next year's velocity)
 
 
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
