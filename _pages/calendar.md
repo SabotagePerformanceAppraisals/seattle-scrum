@@ -9,9 +9,9 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| April 30 6:00 PM | Online Meetup: Seattle LeSS (Large Scale Scrum) case study with Lancer Kind | LIVE VIRTUAL | FREE | [register](https://www.meetup.com/Seattle-LeSS-Large-Scale-Scrum-Meetup-Group/events/270213267/)  
 | May 6-7 | LeSS-friendly Certified Scrum Master (CSM) | LIVE VIRTUAL[^virtual] | $1005/$1200 |[inquire](mailto:tommi@seattlescrum.com?subject=May 6-7 Virtual CSM)
-| June 1-5 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL | ¥330,000税込み |[register](https://www.odd-e.jp/training/course-detail/112)
+| June 1-5 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL[^virtual] | ¥330,000税込み |[register](https://www.odd-e.jp/training/course-detail/112)
+| June 29-July 3 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL[^virtual] | ¥330,000税込み |[register](https://www.odd-e.jp/training/course-detail/114)
 | Jul 27-29, 2020 | [Certified LeSS Practitioner (CLP)](/education#certified-less-practitioner-principles-to-practices-clp) | Seattle, WA | $2299/$2699 |[inquire](mailto:tommi@seattlescrum.com?subject=Jul 27-29 CLP)
 
 
