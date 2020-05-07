@@ -7,4 +7,4 @@ Pre-dividing products would appear to make life easier for Scrum Teams.  But in 
 * Customers want integrated products and solutions, not pieces that don't fit together.  Please see [Large Organization Software Development Misconception #4: Will Parts Made By Different Teams Fit Together By Magic?](/misconception-4-will-parts-made-by-different-teams-fit-together-by-magic/)
 * It reduces team learning about the world outside their "own code."  Please see [My Code, Your Code. Private code policies considered harmful to agility.](/my-code-your-code/)
 
-Instead we want teams [working together](/seven-alternatives-to-scrum-of-scrums/) toward a [shared product vision and priorities](/https://less.works/less/framework/product-owner).
+Instead we want teams [working together](/seven-alternatives-to-scrum-of-scrums/) toward a [shared product vision and priorities](https://less.works/less/framework/product-owner).
