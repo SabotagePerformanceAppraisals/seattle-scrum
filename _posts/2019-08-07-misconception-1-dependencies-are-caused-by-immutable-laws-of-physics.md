@@ -42,3 +42,5 @@ Once we internalize this realization, it leads to actions which were counterintu
 A skillful software development organization allows the Product Owner to *prioritize* the Product Backlog from a business perspective, not just "order" it.  Put away the red yarn.
 
 [Japanese version](https://scrummaster.jp/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics-jp/)
+
+{% include video id="y8OnoxKotPQ?rel=0" provider="youtube" %}
