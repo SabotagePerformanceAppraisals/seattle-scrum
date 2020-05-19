@@ -11,6 +11,7 @@ permalink: /calendar
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | June 1-5 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL[^virtual] | ¥330,000税込み |[register](https://www.odd-e.jp/training/course-detail/112)
 | June 29-July 3 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL[^virtual] | ¥330,000税込み |[register](https://www.odd-e.jp/training/course-detail/114)
+| July 13-July 17 | LeSS-friendly Certified Scrum Master (CSM) + Certified LeSS Basics (CLB) (日本語) | Japan LIVE VIRTUAL[^virtual] | ¥330,000税込み |[register](https://www.odd-e.jp/en/training/course-detail/122)
 | Jul 27-29, 2020 | [Certified LeSS Practitioner (CLP)](/education#certified-less-practitioner-principles-to-practices-clp) | Seattle, WA | $2299/$2699 |[inquire](mailto:tommi@seattlescrum.com?subject=Jul 27-29 CLP)
 
 
