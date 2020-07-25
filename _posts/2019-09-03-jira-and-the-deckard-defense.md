@@ -44,4 +44,23 @@ From <https://less.works/blog/2020/01/16/digital-tools-considered-harmful-jira.h
 >  * Micro-management due to integration of Product and Sprint Backlog
 >  * No shared team responsibility due to poor Sprint Backlog"  
 
+* * *
+
+From Large Scale Scrum: More With LeSS by Craig Larman and Bas Vodde:
+
+## What Product Backlog tool at scale?
+## Use nothing more complicated than a spreadsheet and wiki.
+
+Why? Because of the problems with using so-called “agile” tools:
+* The focus is on tools rather than the deep systemic problems, and that diverts or avoids focusing on what’s important: changing behavior and the system. These tools don’t solve the real prob- lems.
+* These tools contain and promote reporting features, reinforcing traditional management-reporting and control behaviors.
+* They convey a facade of improvement or agile adoption, when nothing meaningful has changed; “agile” tools have nothing to do with being agile.
+* They often impose inflexible terminology and workflows to the teams, taking away process ownership and restricting improve- ment.
+* The backlog is often hidden for most people as access requires an expensive account.
+* These tools enable complexifying rather than simplifying.
+
+It is, of course, possible to gain all these problems also with spreadsheets by maximizing their complexity. Try to avoid that.
+
+* * *
+
 {% include video id="Vs6zXpTz2hk" provider="youtube" %}
