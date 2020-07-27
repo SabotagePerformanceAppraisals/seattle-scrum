@@ -52,10 +52,10 @@ From Large Scale Scrum: More With LeSS by Craig Larman and Bas Vodde:
 ## Use nothing more complicated than a spreadsheet and wiki.
 
 Why? Because of the problems with using so-called “agile” tools:
-* The focus is on tools rather than the deep systemic problems, and that diverts or avoids focusing on what’s important: changing behavior and the system. These tools don’t solve the real prob- lems.
+* The focus is on tools rather than the deep systemic problems, and that diverts or avoids focusing on what’s important: changing behavior and the system. These tools don’t solve the real problems.
 * These tools contain and promote reporting features, reinforcing traditional management-reporting and control behaviors.
 * They convey a facade of improvement or agile adoption, when nothing meaningful has changed; “agile” tools have nothing to do with being agile.
-* They often impose inflexible terminology and workflows to the teams, taking away process ownership and restricting improve- ment.
+* They often impose inflexible terminology and workflows to the teams, taking away process ownership and restricting improvement.
 * The backlog is often hidden for most people as access requires an expensive account.
 * These tools enable complexifying rather than simplifying.
 
