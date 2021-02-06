@@ -83,7 +83,7 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * clarity about who does what
 * resource utilization (keeping people busy)
 * ideation (creating ideas, as IDEO and Xerox PARC were famous for)
-* maximum [output](/why-i-barely-mention-velocity-anymore/) or [tickets closed per Sprint](https://dilbert.com/strip/1995-11-13)
+* maximum [local team output](/why-i-barely-mention-velocity-anymore/) or [tickets closed per Sprint](https://dilbert.com/strip/1995-11-13)
 * secrecy[^yes]
 * employee satisfaction/retention (when using this list in a system modeling exercise, break this variable down into different categories of employees: coders, line managers, department heads, etc.)
 * customer satisfaction
