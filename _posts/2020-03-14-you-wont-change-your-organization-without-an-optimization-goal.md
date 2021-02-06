@@ -10,8 +10,18 @@ A distinguishing feature of Craig Larman's work (e.g. _Scaling Lean & Agile Deve
 Increase an organization's ability to respond to change.
 {: .notice--success}
 
-Craig Larman clarifies:
-> tis true that the org design from LeSS is consistent with broad adaptiveness, but... suggest that we coach that adaptiveness is not for its own sake. rather, adaptiveness is in the service of something else: learning towards the discovery and delivery of high value or high impact, in the context of a world in which it's usually difficult to a priori know for sure what is high value/impact, and a world in which competition does stuff, new technologies emerge, new trends emerge, etc.
+Craig Larman clarifies[^craig]:
+> the organizational design from LeSS is consistent with broad adaptiveness, but... suggest we coach that 
+> adaptiveness is not for its own sake. rather, adaptiveness is in the service of something else: learning 
+> towards the discovery and delivery of high value or high impact, in the context of a world in which it's 
+> usually difficult to a priori know for sure what is high value/impact, and a world in which competition does 
+> stuff, new technologies emerge, new trends emerge, etc.
+> 
+> for a product group to demonstrate skillful adaptiveness -- changing to some unanticipated direction -- 2 key elements:
+> 1. the ability to change direction cheaply and quickly. poetically i call this "turn on a dime, for dime."
+> 2. the information to change direction
+>
+> both (1) ability to change, via low transaction and switching costs, and (2) information to change, are needed to realize adaptiveness
 
 So, less succinctly:
 
@@ -29,7 +39,7 @@ with *increased stock price this quarter*.  Or another example, I heard a projec
 trainer say "In my experience, Scrum of Scrums works great!"  And I can see how that could be true, if 
 we're optimizing for the sort of problems project managers are usually asked to solve.  But if we're doing 
 Scrum to increase agility,
-we'll want to consider some [better alternatives](/seven-alternatives-to-scrum-of-scrums/#coordination--integration-what-to-do-instead).
+we'll want to consider some [more agile alternatives](/seven-alternatives-to-scrum-of-scrums/#coordination--integration-what-to-do-instead).
 
 ## What happens without a system optimization goal?
 
@@ -59,7 +69,7 @@ The experience taught me to be less attached to my idea of what an organization'
 
 ## When are goals context sensitive?
 
-People sometimes seek *predictability*.  On one hand Scrum tries to make some things as predictable as possible, such as having a shippable product every couple weeks.  We want to eliminate *unnecessary unpredictability*.  But maybe we do this to increase our ability to cope with *necessary unpredictability* such as our evolving understanding of the requirements, learning new technologies, etc.
+People sometimes seek *predictability*.  On one hand Scrum tries to make some things as predictable as possible, such as having a shippable product every couple weeks.  We want to eliminate *unnecessary unpredictability*.  But let's do this to increase our ability to cope with *necessary unpredictability* such as our evolving understanding of the requirements, learning new technologies, etc.
 
 ## Does the change initiative have consistent optimization goals?
 
@@ -68,13 +78,14 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * increased release frequency
 * fewer defects in each release
 * predictability
+* comfort
+* order
 * clarity about who does what
 * resource utilization (keeping people busy)
 * ideation (creating ideas, as IDEO and Xerox PARC were famous for)
-* typing code faster
+* maximum [output](/why-i-barely-mention-velocity-anymore/) or [tickets closed per Sprint](https://dilbert.com/strip/1995-11-13)
 * secrecy[^yes]
-* comfort
-* employee satisfaction/retention (break this down into different categories of employees: coders, line managers, department heads, etc.)
+* employee satisfaction/retention (when using this list in a system modeling exercise, break this variable down into different categories of employees: coders, line managers, department heads, etc.)
 * customer satisfaction
 * appearance that the change initiative has succeeded
 * increase top-line revenue
@@ -95,5 +106,6 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
 
+[^craig]: Craig's not big on capital letters in casual writing.
 [^1]: Adapted from a list Viktor Grgic assembled.
 [^yes]: Yes, I have seen this as an *implicit* goal that was surfaced during training.
