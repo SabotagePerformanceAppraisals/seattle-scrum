@@ -25,3 +25,12 @@ Being Agile is about being adaptable, including changing the requirements.  Ther
 
 * Q. I noticed on Twitter and LinkedIn that you don't like story points...
 * A. I *do* like story points.  And planning poker.  In [this example](http://scrumtrainingseries.com/BacklogRefinementMeeting/) the team uses four cards only, with simple powers of 2.
+
+----
+
+* Q. Why are you making a big deal over this?  It's not a problem if one team decides to use Fibonacci numbers.
+* A. Agree that's not a problem.  But when so many teams "decide" to use them, it's an indicator we haven't taught them to think for themselves.
+
+See also:
+[Fibonacci must die](https://medium.com/@daverooneyca/fibonacci-must-die-6a2e2e0c8f6a)
+
