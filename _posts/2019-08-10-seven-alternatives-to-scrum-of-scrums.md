@@ -76,9 +76,11 @@ Branching is _delayed integration_!   Merge problems increase exponentially over
 What else makes *Communicate in Code* hard?  The [my code, your code](/my-code-your-code/) practices and policies many companies have. 
 
 > 
-> ### 3. Send Observers to the Daily Scrum
+> ### 3. Scouts
 > 
-> A simple coordination method for teams is to send a representative —not the Scrum Master—as a silent observer to the Daily Scrum of other teams doing related work. The observers then report back to their teams so they can take further action.
+> A simple coordination method is for teams to explore their environment and send scouts to other teams or other interfaces. The scout monitors the interface and reports back to his team. 
+> Usually, teams do this during their Sprint Planning and select scouts for the length of one Sprint. 
+> The interfaces of the team could be another team, another product, something external to the team or a stakeholder… it doesn’t really matter what the team is scouting.
 
 Unfortunately, some [locally optimizing](/local-optimization-bias/) Scrum Masters try to prevent this!  A Scrum Master with a Whole Product Focus would do everything possible to make this easy.
 
