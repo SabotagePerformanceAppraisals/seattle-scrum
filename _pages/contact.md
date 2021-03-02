@@ -22,5 +22,12 @@ __Chi Lu__ mostly works behind the scenes. Don't call her. She'll call you.
 
 ----
 
+The Seattle Scrum Company is an __Odd-entity__.  We frequently collaborate with Odd-e. 
+* <https://odd-e.com> 
+
+
+----
+
+
 _The Seattle Scrum Company, 1119 First Avenue #209, Seattle, WA  98101_
 {: .text-center}
