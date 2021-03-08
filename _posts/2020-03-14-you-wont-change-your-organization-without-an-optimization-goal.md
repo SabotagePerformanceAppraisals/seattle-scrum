@@ -87,17 +87,18 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * secrecy[^yes]
 * employee satisfaction/retention (when using this list in a system modeling exercise, break this variable down into different categories of employees: coders, line managers, department heads, etc.)
 * customer satisfaction
+* parent company satisfaction
 * appearance that the change initiative has succeeded
-* increase top-line revenue
+* top-line revenue
 * maintaining lead or monopoly
-* reduce cost per developer
+* cost per developer
+* size of organizational substructure (e.g. department, reporting chain)
 * product versatility
 * broaden/diversify customer base
-* preserve status quo
+* preservation of status quo
 * compliance with rules/regulations
-* lead the market by disruption 
-* increase return on investment
-* survival
+* leading/disrupting the market 
+* return on investment
 * conformance to a plan
 * rate of developing features immediately (this week's [velocity](/why-i-barely-mention-velocity-anymore))
 * rate of developing features within this quarter (this quarter's velocity)
