@@ -88,6 +88,7 @@ Here's a list of other optimization goals[^1] that may exist in your organizatio
 * employee satisfaction/retention (when using this list in a system modeling exercise, break this variable down into different categories of employees: coders, line managers, department heads, etc.)
 * customer satisfaction
 * parent company satisfaction
+* the feeling of making progress 
 * appearance that the change initiative has succeeded
 * top-line revenue
 * maintaining lead or monopoly
