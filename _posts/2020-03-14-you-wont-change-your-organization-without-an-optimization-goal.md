@@ -29,8 +29,8 @@ Increase an organization's ability to discover and deliver the highest value in 
 {: .notice--success}
 
 
-I'm not seeing any consistent system optimization goal in SAFe, Scrum@Scale, the "Spotify model" and the way 
-some people explain basic Scrum. 
+I don't see any consistent system optimization goal in SAFe, Scrum@Scale, the "Spotify model" and the way 
+some people explain basic Scrum.  
 
 ## Why not just "Make Everything Better"?
 
