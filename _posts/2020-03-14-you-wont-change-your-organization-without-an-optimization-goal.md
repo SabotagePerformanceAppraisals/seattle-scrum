@@ -25,7 +25,7 @@ Craig Larman clarifies[^craig]:
 
 So, less succinctly:
 
-Increase an organization's ability to discover and deliver the highest value in a world where we don't know everything, and everything's changing.
+Increase an organization's ability to discover and deliver the highest value to end users in a world where we don't know everything, and everything's changing.
 {: .notice--success}
 
 
