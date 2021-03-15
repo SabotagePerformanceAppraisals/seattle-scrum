@@ -20,7 +20,7 @@ permalink: /calendar
 
 We are running a Specification By Example workshop for a local client, using Cucumber and Java.  [If there is general interest in this](/contact) we will offer it as a public course.
 
-[LeSS](https://www.youtube.com/watch?v=1BZf_Oa7W94&rel=0) has mostly been a European thing, but it is gaining popularity in the US as American companies discover how awful SAFe is.  In 2020 we will run at least two [Certified LeSS Practitioner](/education#certified-less-practitioner-principles-to-practices-clp) courses in Seattle.
+[LeSS](https://www.youtube.com/watch?v=1BZf_Oa7W94&rel=0) has mostly been a European thing, but it is gaining popularity in the US as American companies discover how awful SAFe is.  In 2021 we will run at least two [Certified LeSS Practitioner](/education#certified-less-practitioner-principles-to-practices-clp) courses in Seattle.
 
 We have had inquiries about a 1-day [Certified LeSS Basics](/education#certified-less-basics-clb) class, and a casual, free mob programming workshop in the U-District. If we get a few more inquires we'll schedule these.  So please [let us know](/contact).
 
