@@ -13,7 +13,7 @@ Craig Larman and Bas Vodde call this blind spot *local optimization bias*:
 ## Example 1
 
 The following video illustrates local optimization in a typical organization.  A supervisor instructs workers to prevent any unwrapped chocolate from getting past them into the next room.  They mostly succeed.  But in the long run and in the big picture, optimizing locally harms the business, its employees, and its customers.  The video is supposed to be funny, but I want you to take it seriously because similar things happen every day in your own company.
-{% include video id="v=HnbNcQlzV-4?rel=0" provider="youtube" %}
+{% include video id="HnbNcQlzV-4?rel=0" provider="youtube" %}
 
 ## Example 2
 
