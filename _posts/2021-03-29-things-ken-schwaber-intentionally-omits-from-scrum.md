@@ -11,6 +11,7 @@ Here are some things that aren't part of Scrum and may be inconsistent with the 
 * tasks in the Product Backlog
 * burndown chart as a management report
 * "hyperproductivity"
+* multiple Product Owners per product (e.g. one per team)
 * extra roles
 
 What have I forgotten?
