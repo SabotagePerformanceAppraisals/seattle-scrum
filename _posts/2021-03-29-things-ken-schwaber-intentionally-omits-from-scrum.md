@@ -12,7 +12,7 @@ What does it matter?  It's not like the Scrum cops will throw you in jail.  But 
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
 * tasks in the Product Backlog
-* burndown chart as a management report
+* burndown chart as a management report, or at all
 * "hyperproductivity"
 * multiple Product Owners per product (e.g. one per team)
 * extra roles
