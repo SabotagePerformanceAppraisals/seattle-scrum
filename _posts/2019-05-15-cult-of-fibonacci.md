@@ -24,7 +24,7 @@ Being Agile is about being adaptable, including changing the requirements.  Ther
 ----
 
 * Q. I noticed on Twitter and LinkedIn that you don't like story points...
-* A. I *do* like story points.  And planning poker.  In [this example](http://scrumtrainingseries.com/BacklogRefinementMeeting/) the team uses four cards only, with simple powers of 2.
+* A. I *do* like story points.  And planning poker.  In [this example](https://scrumtrainingseries.com/BacklogRefinementMeeting/) the team uses four cards only, with simple powers of 2.
 
 ----
 
