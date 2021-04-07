@@ -8,7 +8,7 @@ What does it matter?  It's not like the Scrum cops will throw you in jail.  But 
 * [daily status meeting](#scrum-does-not-contain-a-daily-status-meeting)  
 * [velocity](#scrum-does-not-contain-velocity)
 * [Story Points, Fibonacci numbers](#scrum-does-not-contain-story-points-and-fibonacci-numbers)
-* Scrum of Scrums
+* [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
 * tasks in the Product Backlog
@@ -29,12 +29,11 @@ According to the [Definition of Scrum](/https://scrumguides.org/scrum-guide.html
 > 
 > The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
-Do I need to say anything more?  Companies that don't treat the Daily Scrum as a self organization, *re-planning* event are likely to refer to it as a "stand up" where people report status to a manager.
+Do I need to say anything more?  Companies that don't treat the Daily Scrum as a self organization, *re-planning* event are likely to call it a "stand up" for people to give status reports.
 
 ## Scrum Does Not Contain "Velocity"
 
-Schwaber's definition of Scrum has never contained "velocity."  It is a practice sometimes borrowed from Extreme Programming.  But even the Extreme Programming people who came up with the idea now have regrets.  Should you keep doing it?  I'd rather you focused on keeping your product shippable *all the time*.  
-See [Why I Barely Mention Velocity Anymore](/why-i-barely-mention-velocity-anymore)
+Schwaber's definition of Scrum has never contained "velocity."  It is a practice sometimes borrowed from Extreme Programming.  But even the Extreme Programming people who came up with the idea now have regrets.  Should you keep doing it?  I'd rather you focused on keeping your product shippable *all the time*.  Focusing on velocity is a [local optimization](/local-optimization-bias) that can be bad for business outcomes.  See [Why I Barely Mention Velocity Anymore](/why-i-barely-mention-velocity-anymore).
 
 ## Scrum Does Not Contain Story Points and Fibonacci numbers
 
@@ -44,6 +43,10 @@ Yes, there's a strong case for relative exponential estimates over absolute esti
 
 Cool programmers use powers of two.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
 
+## Scrum Does Not Contain "Scrum of Scrums"
 
+The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty solution to the problem that they only knew how to make Scrum work in small organizations.  But Ken Schwaber's next book, in 2004, identified the ways it contradicted team self organization.  Fortunately there are [alternatives to Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums).
+
+----
 
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
