@@ -9,12 +9,12 @@ What does it matter?  It's not like the Scrum cops will throw you in jail.  But 
 * [velocity](#scrum-does-not-contain-velocity)
 * [Story Points, Fibonacci numbers](#scrum-does-not-contain-story-points-and-fibonacci-numbers)
 * [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
+* multiple Product Owners per product (e.g. one per team)
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
 * tasks in the Product Backlog
 * burndown chart as a management report, or at all
 * "hyperproductivity"
-* multiple Product Owners per product (e.g. one per team)
 * extra roles
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give people control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
@@ -45,7 +45,12 @@ Cool programmers use powers of two.  And if you're using more than a few choices
 
 ## Scrum Does Not Contain "Scrum of Scrums"
 
-The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty solution to the problem that they only knew how to make Scrum work in small organizations.  But Ken Schwaber's next book, in 2004, identified the ways it contradicted team self organization.  Fortunately there are [alternatives to Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums).
+The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty stab at the problem that no one knew how to make organizations agile.  But Ken Schwaber's next book, in 2004, identified the ways it contradicted team self organization.  Fortunately there are [alternatives to Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums).
+
+## Scrum Does Not Have Multiple Product Owners Per Product
+
+
+> If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
 
 ----
 
