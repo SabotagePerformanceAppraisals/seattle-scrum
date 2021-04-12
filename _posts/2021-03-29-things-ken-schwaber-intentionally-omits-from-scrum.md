@@ -12,10 +12,10 @@ Scrum does NOT contain the following:
 * [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
 * [multiple Product Owners per product (e.g. one per team)](#scrum-does-not-have-multiple-product-owners-per-product)
 * [tasks in the Product Backlog](#scrum-does-not-have-tasks-in-the-product-backlog)
-* extra roles such as Chief Product Owner and Release Train Engineer
+* [extra roles such as Chief Product Owner and Release Train Engineer](#scrum-does-not-contain-extra-roles)
+* [burndown chart as a management report, or at all](#scrum-does-not-contain-burndown-charts)
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
-* burndown chart as a management report, or at all
 * "hyperproductivity"
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give people control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
@@ -65,6 +65,19 @@ Scrum has historically separated the *what* from the *how*.  *How* to solve prob
 We'll give you a pass if you refer to Product Backlog Items as "User Stories," but we want you to be aware this is actually an Extreme Programming concept that many Scrum teams borrow.  How to create well-formed Product Backlog Items is covered in detail in the [Scrum Training Series](https://scrumtrainingseries.com/BacklogRefinementMeeting/).
 
 A team may decide to create Sprint Tasks when planning a Sprint -- again covered by the [Scrum Training Series](https://scrumtrainingseries.com/SprintPlanningMeeting/).  We try to defer *how* decisions until the *last responsible moment*.
+
+## Scrum Does Not Contain Extra Roles
+
+Since a product has only one Product Owner, there is [no "Chief Product Owner"](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
+
+There is no "Release Train Engineer" because integration is a team responsibility.  Giving responsibilities to named roles takes them away from teams, making them less cross-functional and less self-managing.
+
+Organizations often try to solve problems by creating additional roles, structures, departments, processes, etc.  All of these can be quick fixes with harmful side effects.  We believe in removing that complexity and solving the underlying problems: more with less.
+
+## Scrum Does Not Contain Burndown Charts
+
+While the first Scrum book in 2001 did recommend burndown charts, it was quickly discovered that they could lead to a decrease in team self management through excess focus on estimates and short-term efficiencies.  Complex work doesn't necessarily follow Newton's Laws Of Motion.  So they're out now.  Use them if you want, and understand why they're no longer prescribed in Scrum.
+
 
 
 ----
