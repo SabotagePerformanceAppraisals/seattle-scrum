@@ -14,9 +14,7 @@ Scrum does NOT contain the following:
 * [tasks in the Product Backlog](#scrum-does-not-have-tasks-in-the-product-backlog)
 * [extra roles such as Chief Product Owner and Release Train Engineer](#scrum-does-not-contain-extra-roles)
 * [burndown chart as a management report, or at all](#scrum-does-not-contain-burndown-charts)
-* Scrum Master coordinates/reports/motivates the team
-* Scrum Master reports status upward
-* "hyperproductivity"
+* [Scrum Master as coordinator, motivator, or status reporter](#scrum-masters-are-not-for-coordination-motivation-or-status-reporting)
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give people control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
 
@@ -70,13 +68,28 @@ A team may decide to create Sprint Tasks when planning a Sprint -- again covered
 
 Since a product has only one Product Owner, there is [no "Chief Product Owner"](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
 
-There is no "Release Train Engineer" because integration is a team responsibility.  Giving responsibilities to named roles takes them away from teams, making them less cross-functional and less self-managing.
+There is no "Release Train Engineer" because integration is a team responsibility.  Giving responsibilities to named roles takes them away from teams, making teams less cross-functional and less self-managing.
 
 Organizations often try to solve problems by creating additional roles, structures, departments, processes, etc.  All of these can be quick fixes with harmful side effects.  We believe in removing that complexity and solving the underlying problems: more with less.
 
 ## Scrum Does Not Contain Burndown Charts
 
 While the first Scrum book in 2001 did recommend burndown charts, it was quickly discovered that they could lead to a decrease in team self management through excess focus on estimates and short-term efficiencies.  Complex work doesn't necessarily follow Newton's Laws Of Motion.  So they've been out of Scrum's definition for years.  Use them if you want, and understand why they're no longer prescribed in Scrum.
+
+## Scrum Masters Are Not For Coordination, Motivation, or Status Reporting
+
+The Scrum Master was not intended to be a renamed project manager.
+
+### coordination
+The Scrum Master is there to teach the team that coordination is a *team* responsibility.  Doing it for them teaches them the opposite.
+
+### motivation
+If people are not motivated, it's likely there are organizational impediments the Scrum Master should be working to address.  In healthy organizations the motivation comes from seeing how the work helps people.
+
+### status reporting
+Why do you think the authors of the Agile Manifesto wrote "Working software is the primary measure of progress"?  Scrum emphasizes the empirical over the theoretical.  At the *Sprint Review* everyone sees the product itself, not a report about it.
+
+For more about Scrum Master responsibilities, please see the [Example Scrum Master's Checklist](https://scrummasterchecklist.org).
 
 
 
