@@ -84,10 +84,10 @@ The Scrum Master was not intended to be a renamed project manager.
 The Scrum Master is there to teach the team that coordination is a *team* responsibility.  Doing it for them teaches them the opposite.
 
 ### motivation
-If people are not motivated, it's likely there are organizational impediments the Scrum Master should be working to address.  In healthy organizations the motivation comes from seeing how the work helps people.
+If people are not motivated, it's likely there are organizational impediments the Scrum Master should be working to address.  In healthy organizations the motivation comes from doing great work and seeing how it helps people.  (You still have to pay us to get us in the door.)
 
 ### status reporting
-The authors of the Agile Manifesto wrote "[Working software is the primary measure of progress](https://agilemanifesto.org/principles.html)"?  Scrum emphasizes the empirical over the theoretical.  At the *Sprint Review* everyone sees the product itself, not a report about it.
+The authors of the Agile Manifesto wrote that [Working software is the primary measure of progress](https://agilemanifesto.org/principles.html).  Scrum emphasizes the empirical over the theoretical.  At the *Sprint Review* everyone sees the product itself, not a report about it.
 
 For more about Scrum Master responsibilities, please see the [Example Scrum Master's Checklist](https://scrummasterchecklist.org).
 
