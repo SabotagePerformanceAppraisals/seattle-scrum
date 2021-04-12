@@ -9,10 +9,10 @@ What does it matter?  It's not like the Scrum cops will throw you in jail.  But 
 * [velocity](#scrum-does-not-contain-velocity)
 * [Story Points, Fibonacci numbers](#scrum-does-not-contain-story-points-and-fibonacci-numbers)
 * [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
-* multiple Product Owners per product (e.g. one per team)
+* [multiple Product Owners per product (e.g. one per team)](#scrum-does-not-have-multiple-product-owners-per-product)
+* [tasks in the Product Backlog](#scrum-does-not-have-tasks-in-the-product-backlog)
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
-* tasks in the Product Backlog
 * burndown chart as a management report, or at all
 * "hyperproductivity"
 * extra roles
@@ -21,7 +21,7 @@ Scrum was intended to be a framework, a meta-process, to connect feedback loops 
 
 ## Scrum Does Not Contain A Daily Status Meeting
 
-According to the [Definition of Scrum](/https://scrumguides.org/scrum-guide.html#daily-scrum)
+Schwaber [writes](/https://scrumguides.org/scrum-guide.html#daily-scrum)
 
 > The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 > 
@@ -49,8 +49,22 @@ The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty stab at 
 
 ## Scrum Does Not Have Multiple Product Owners Per Product
 
+Per the [Definition of Scrum](/https://scrumguides.org/scrum-guide.html#scrum-team)
 
 > If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
+
+Why is it harmful to have multiple POs per product?  See [my comic book](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
+
+## Scrum Does Not Have Tasks In The Product Backlog
+
+One clue that someone hasn't yet gotten the point of Scrum is that they refer to "tasks" in the Product Backlog.  
+
+Scrum has historically separated the *what* from the *how*.  *How* to solve problems is left to self-managing cross-functional teams.  Thus, the items in the Product Backlog are properly called *Product Backlog Items* (or PBIs), and never "tasks."  
+
+We'll give you a pass if you refer to Product Backlog Items as "User Stories," but we want you to be aware this is actually an Extreme Programming concept that many Scrum teams borrow.  How to create well-formed Product Backlog Items is covered in detail in the [Scrum Training Series](https://scrumtrainingseries.com/BacklogRefinementMeeting/).
+
+A team may decide to create Sprint Tasks when planning a Sprint -- again covered by the [Scrum Training Series](https://scrumtrainingseries.com/SprintPlanningMeeting/).  We try to defer *how* decisions until the *last responsible moment*.
+
 
 ----
 
