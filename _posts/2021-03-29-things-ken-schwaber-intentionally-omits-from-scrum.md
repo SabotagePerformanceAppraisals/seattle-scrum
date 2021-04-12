@@ -60,7 +60,7 @@ Why is it harmful to have multiple POs per product?  See [my comic book](/Why-Sc
 
 One clue that someone hasn't yet gotten the point of Scrum is that they refer to "tasks" in the Product Backlog.  
 
-Scrum has historically separated the *what* from the *how*.  *How* to solve problems is left to self-managing cross-functional teams.  Thus, the items in the Product Backlog are properly called *Product Backlog Items* (or PBIs), and never "tasks."  
+Scrum has historically separated the *what* from the *how*.  *How* to solve problems is left to self-managing cross-functional teams.  If you cannot do this, you do not yet have self-managing cross-functional teams.  Thus, the items in the Product Backlog are properly called *Product Backlog Items* (or PBIs), and never "tasks."  
 
 We'll give you a pass if you refer to Product Backlog Items as "User Stories," but we want you to be aware this is actually an Extreme Programming concept that many Scrum teams borrow.  How to create well-formed Product Backlog Items is covered in detail in the [Scrum Training Series](https://scrumtrainingseries.com/BacklogRefinementMeeting/).
 
