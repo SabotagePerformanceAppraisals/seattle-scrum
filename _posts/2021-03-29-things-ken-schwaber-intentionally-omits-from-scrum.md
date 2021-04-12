@@ -1,10 +1,11 @@
 ---
 title: "Things Ken Schwaber Intentionally Omits From Scrum"
 ---
-I've listed are some things that are intentionally not part of Scrum, and may contradict it or make it less useful.  
+I've listed some things that are intentionally not part of Scrum, and may contradict it or make it less useful.  
 
 What does it matter?  It's not like the Scrum cops will throw you in jail.  But organizations do things mindlessly -- unintentionally -- because they got the impression they were essential to Scrum.  For each one, please think about what problem it is meant to solve and whether there are solutions more consistent with your [system optimization goal](/you-wont-change-your-organization-without-an-optimization-goal/).
 
+Scrum does NOT contain the following:
 * [daily status meeting](#scrum-does-not-contain-a-daily-status-meeting)  
 * [velocity](#scrum-does-not-contain-velocity)
 * [Story Points, Fibonacci numbers](#scrum-does-not-contain-story-points-and-fibonacci-numbers)
