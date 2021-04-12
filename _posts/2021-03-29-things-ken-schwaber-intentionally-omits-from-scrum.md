@@ -11,11 +11,11 @@ What does it matter?  It's not like the Scrum cops will throw you in jail.  But 
 * [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
 * [multiple Product Owners per product (e.g. one per team)](#scrum-does-not-have-multiple-product-owners-per-product)
 * [tasks in the Product Backlog](#scrum-does-not-have-tasks-in-the-product-backlog)
+* extra roles such as Chief Product Owner and Release Train Engineer
 * Scrum Master coordinates/reports/motivates the team
 * Scrum Master reports status upward
 * burndown chart as a management report, or at all
 * "hyperproductivity"
-* extra roles
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give people control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
 
