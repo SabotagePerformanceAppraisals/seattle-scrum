@@ -20,7 +20,7 @@ Scrum was intended to be a framework, a meta-process, to connect feedback loops 
 
 ## Scrum Does Not Contain A Daily Status Meeting
 
-Schwaber [writes](/https://scrumguides.org/scrum-guide.html#daily-scrum)
+Schwaber [writes](https://scrumguides.org/scrum-guide.html#daily-scrum)
 
 > The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 > 
@@ -48,7 +48,7 @@ The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty stab at 
 
 ## Scrum Does Not Have Multiple Product Owners Per Product
 
-Per the [Definition of Scrum](/https://scrumguides.org/scrum-guide.html#scrum-team)
+Per the [Definition of Scrum](https://scrumguides.org/scrum-guide.html#scrum-team)
 
 > If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
 
