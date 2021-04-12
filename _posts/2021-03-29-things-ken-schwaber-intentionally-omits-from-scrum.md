@@ -38,7 +38,7 @@ Schwaber's definition of Scrum has never contained "velocity."  It is a practice
 
 Scrum does not contain any particular effort estimation scheme.  The Scrum Guide barely mentions estimation at all.
 
-Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  Do you also believe in astrology?
+Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  
 
 Cool programmers use powers of two.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
 
