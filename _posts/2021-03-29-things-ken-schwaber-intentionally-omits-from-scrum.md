@@ -40,7 +40,7 @@ Scrum does not contain any particular effort estimation scheme.  The Scrum Guide
 
 Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  
 
-Cool programmers use powers of two.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
+People who know binary like powers of two.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
 
 ## Scrum Does Not Contain "Scrum of Scrums"
 
