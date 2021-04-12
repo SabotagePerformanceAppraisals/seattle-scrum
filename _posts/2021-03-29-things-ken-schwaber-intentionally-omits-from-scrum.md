@@ -76,7 +76,7 @@ Organizations often try to solve problems by creating additional roles, structur
 
 ## Scrum Does Not Contain Burndown Charts
 
-While the first Scrum book in 2001 did recommend burndown charts, it was quickly discovered that they could lead to a decrease in team self management through excess focus on estimates and short-term efficiencies.  Complex work doesn't necessarily follow Newton's Laws Of Motion.  So they're out now.  Use them if you want, and understand why they're no longer prescribed in Scrum.
+While the first Scrum book in 2001 did recommend burndown charts, it was quickly discovered that they could lead to a decrease in team self management through excess focus on estimates and short-term efficiencies.  Complex work doesn't necessarily follow Newton's Laws Of Motion.  So they've been out of Scrum's definition for years.  Use them if you want, and understand why they're no longer prescribed in Scrum.
 
 
 
