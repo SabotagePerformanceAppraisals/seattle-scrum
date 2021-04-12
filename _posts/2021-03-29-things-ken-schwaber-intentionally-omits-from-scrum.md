@@ -68,9 +68,9 @@ A team may decide to create Sprint Tasks when planning a Sprint -- again covered
 
 Since a product has only one Product Owner, there is [no "Chief Product Owner"](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
 
-There is no "Release Train Engineer."  Giving responsibilities to named roles takes them away from teams, making teams less cross-functional and less self-managing.
+There is no "Release Train Engineer."  Are there ways to solve the problems this role was meant to solve that increase adaptivenesss rather than reducing it?  Giving responsibilities to named roles takes them away from teams, making teams less cross-functional and less self-managing.
 
-Organizations often try to solve problems by creating additional roles, structures, departments, processes, etc.  All of these can be quick fixes with harmful side effects.  We believe in removing that complexity and solving the underlying problems: more with less.
+Organizations often try to solve problems by adding organizational complexity in the form of additional roles, structures, departments, processes, etc.  All of these quick fixes can have harmful side effects, leading to hidebound organizations.  We believe in reducing organizational complexity and solving the underlying problems.
 
 ## Scrum Does Not Contain Burndown Charts
 
