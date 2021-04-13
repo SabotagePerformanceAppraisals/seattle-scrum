@@ -52,7 +52,9 @@ Per the [Definition of Scrum](https://scrumguides.org/scrum-guide.html#scrum-tea
 
 > If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner.
 
-Why is it harmful to have multiple POs per product?  See [my comic book](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
+Why is it harmful to have multiple POs per product (e.g. a different one for each team)?  See [my comic book](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
+
+What is a "product" anyway?  If we are optimizing for the big picture, consider using the [broadest practical definition of product](https://less.works/less/framework/product).
 
 ## Scrum Does Not Have Tasks In The Product Backlog
 
