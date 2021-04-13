@@ -28,7 +28,7 @@ Schwaber [writes](https://scrumguides.org/scrum-guide.html#daily-scrum)
 > 
 > The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
-Do I need to say anything more?  Companies that don't treat the Daily Scrum as a self organization, *re-planning* event are likely to call it a "stand up" for people to give status reports.
+Do I need to say anything more?  Companies that don't treat the Daily Scrum as event for team self organization and *re-planning* are likely to call it a "stand up" for people to give status reports.
 
 ## Scrum Does Not Contain "Velocity"
 
