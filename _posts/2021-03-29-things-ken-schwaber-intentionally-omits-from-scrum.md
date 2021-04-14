@@ -15,8 +15,9 @@ Scrum *intentionally* does not contain the following:
 * [extra roles such as Chief Product Owner and Release Train Engineer](#scrum-does-not-contain-extra-roles)
 * [burndown chart as a management report, or at all](#scrum-does-not-contain-burndown-charts)
 * [Scrum Master as coordinator, motivator, or status reporter](#scrum-masters-are-not-for-coordination-motivation-or-status-reporting)
+* [Sprint Backlog as a surveillance tool](#the-sprint-backlog-is-for-the-team-developers-not-for-surveillance)
 
-Scrum was intended to be a framework, a meta-process, to connect feedback loops and give people control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
+Scrum was intended to be a framework, a meta-process, to connect feedback loops and give teams control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
 
 ## Scrum Does Not Contain A Daily Status Meeting
 
@@ -93,6 +94,15 @@ The authors of the Agile Manifesto wrote that [working software is the primary m
 
 For more about Scrum Master responsibilities, please see the [Example Scrum Master's Checklist](https://scrummasterchecklist.org).
 
+## The Sprint Backlog Is For the Team (Developers), Not For Surveillance
+
+From [the definition](https://scrumguides.org/scrum-guide.html#sprint-backlog):
+
+> The Sprint Backlog is a plan by and for the Developers.
+
+I once heard a Microsoft employee ask Ken Schwaber why the team's self management artifacts shouldn't be published to the whole organization.  "Transparency" right?  Ken restated that the team is meant to be self organizing, and said he would want to find out why people who aren't on the team would want to meddle with them during a Sprint.
+
+The Sprint Review is the appropriate time to make the results of the work visible to everyone outside the team(s).  They are invited to give feedback at that time.
 
 
 ----
