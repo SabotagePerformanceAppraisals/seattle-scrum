@@ -102,7 +102,7 @@ From [the definition](https://scrumguides.org/scrum-guide.html#sprint-backlog):
 
 I once heard a Microsoft employee ask Ken Schwaber why the team's self management artifacts shouldn't be published to the whole organization.  "Transparency" right?  Ken restated that the team is meant to be self organizing, and said he would want to find out why people who aren't on the team would want to meddle with them during a Sprint.
 
-The Sprint Review is the appropriate time to make the results of the work visible to everyone outside the team(s).  They are invited to give feedback at that time.
+The Sprint Review is the appropriate time to make the results of the work visible to everyone outside the team(s).  They are invited to give feedback at that time.  The Product Owner will decide how to adapt to the feedback.
 
 
 ----
