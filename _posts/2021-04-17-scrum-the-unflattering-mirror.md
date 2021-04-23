@@ -1,3 +1,7 @@
+---
+title: "Scrum, The Unflattering Mirror"
+---
+
 Here's what Ken Schwaber wanted you to learn years ago:
 * Scrum is intended to highlight every deficiency and impediment the enterprise has so the enterprise can ﬁx them.
 * When an enterprise modifies or only partially implements Scrum, it is usually hiding or obscuring one or more dysfunctionalities that restrict its competence in product development and management.
