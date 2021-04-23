@@ -26,8 +26,6 @@ Schwaber [writes](https://scrumguides.org/scrum-guide.html#daily-scrum)
 > The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 > 
 > The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work.
-> 
-> The purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work.
 
 Do I need to say anything more?  Companies that don't treat the Daily Scrum as event for team self organization and *re-planning* are likely to call it a "stand up" for people to give status reports.
 
