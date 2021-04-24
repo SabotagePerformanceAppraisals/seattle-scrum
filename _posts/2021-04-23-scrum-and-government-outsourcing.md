@@ -15,11 +15,11 @@ Also, please understand that software development is [knowledge-creation work](/
 
 ## Expensive, late, and defective results
 
-Over the years I've seen the outsourcing of software development attempted with various federal, state, and local government agencies.  It nearly always made me cringe.  It is not just that the long-term costs are so much higher than an agile approach would be, it isn't just that it's slow.  Perhaps worst of all, the solutions have more defects than you'll be able to find in time.
+Over the years I've seen the outsourcing of software development attempted with various federal, state, and local government agencies.  It nearly always made me cringe.  It is not just that the long-term costs are so much higher than an agile approach would be.  It isn't just that it's slow.  Perhaps worst of all, the solutions have more defects than you'll be able to find in time.
 
 ## Try this instead
 
-The only time I've seen it work well was when we mixed the vendor contractors in with the government employees *on the same teams at the government location*.  This brought its own problems, but was still better than the typical project-based approach.  See also FBI Sentinel, where the FBI finally got results by bringing a much smaller team right into the building, working with them directly each day.  Small and skillful – connected directly to the customers and users – beats huge and clueless every time.
+The only time I've seen this work reasonably well was when we mixed the vendor contractors in with the government employees *on the same teams at the government location*.  This brought its own problems, but was still better than the typical project-based approach.  See also FBI Sentinel, where the FBI finally got results by bringing a much smaller team right into the building, working with them directly each day.  Small and skillful – connected directly to the customers and users – beats huge and clueless every time.
  
 If you have no other choice but to use outside contractors, please at least read the [Agile Contracts Primer](https://agilecontracts.org) to learn more sensible ways of doing it.
 
