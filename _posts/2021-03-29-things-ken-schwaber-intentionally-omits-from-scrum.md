@@ -108,4 +108,9 @@ During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-revie
 
 ----
 
+## "Scrum!"  You keep using that word ...
+{% include video id="dTRKCXC0JFg?rel=0" provider="youtube" %}
+
+----
+
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
