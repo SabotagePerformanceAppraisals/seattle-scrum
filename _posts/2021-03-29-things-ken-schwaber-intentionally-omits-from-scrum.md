@@ -114,3 +114,7 @@ During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-revie
 ----
 
 ![LeSS is hard](../images/less-is-hard.png){: .align-center width="400"}
+
+----
+
+Japanese version: [ケン・シュエーバーが意図的にスクラムから排除したもの](https://scrummaster.jp/things-ken-schwaber-intentionally-omits-from-scrum/)
