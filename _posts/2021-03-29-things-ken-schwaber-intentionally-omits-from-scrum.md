@@ -9,6 +9,7 @@ Scrum *intentionally* does not contain the following:
 * [daily status meeting](#scrum-does-not-contain-a-daily-status-meeting)  
 * [velocity](#scrum-does-not-contain-velocity)
 * [Story Points, Fibonacci numbers](#scrum-does-not-contain-story-points-and-fibonacci-numbers)
+* [Product Owner assigning work](#product-owner-cannot-assign-work) 
 * [Scrum of Scrums](#scrum-does-not-contain-scrum-of-scrums)
 * [multiple Product Owners per product (e.g. one per team)](#scrum-does-not-have-multiple-product-owners-per-product)
 * [tasks in the Product Backlog](#scrum-does-not-have-tasks-in-the-product-backlog)
@@ -35,11 +36,25 @@ Schwaber's definition of Scrum has never contained "velocity."  It is a practice
 
 ## Scrum Does Not Contain Story Points and Fibonacci numbers
 
-Scrum does not contain any particular effort estimation scheme.  The Scrum Guide barely mentions estimation at all.
+Scrum does not contain any particular effort estimation scheme.  Scrum does not force (or prohibit) the use of story points.  The Scrum Guide barely mentions estimation at all. 
 
 Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  
 
-People who know binary find powers of two to be sufficient.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
+People who know binary find [T-shirt sizes with simple powers of two](https://scrumtrainingseries.com/BacklogRefinementMeeting/) to be sufficient.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
+
+### Effort estimates and Sprint Planning
+
+Scrum does not require a team to link Product Backlog Item estimation to Sprint Planning.  Ultimately it's their responsibility to choose what to attempt in a Sprint, as shown below.  
+
+## Product Owner Cannot Assign Work
+
+During Sprint Planning:
+> Through discussion with the Product Owner, the Developers [select](https://scrumguides.org/scrum-guide.html#sprint-planning) items from the Product Backlog to include in the current Sprint.
+
+It follows that a self-managing team would be responsible for maintaining code quality, test quality, and continuous learning.  This benefits everyone, especially a Product Owner who plans to be around longer than a few months.
+
+[Principle #8](https://agilemanifesto.org/principles.html):
+> Agile processes promote sustainable development.  The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
 ## Scrum Does Not Contain "Scrum of Scrums"
 
