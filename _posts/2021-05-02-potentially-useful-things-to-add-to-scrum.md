@@ -16,6 +16,8 @@ Here are some things beyond Scrum that can increase agility:
 
 {% include video id="is41fgDrqn0?rel=0" provider="youtube" %}
 
+{% include video id="445554041?rel=0" provider="vimeo" %}
+
 ## Try Mob Programming
 
 {% include video id="p_pvslS4gEI?rel=0" provider="youtube" %}
