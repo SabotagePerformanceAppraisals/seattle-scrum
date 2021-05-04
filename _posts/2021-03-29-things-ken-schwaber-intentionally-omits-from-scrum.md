@@ -70,6 +70,8 @@ Per the [Definition of Scrum](https://scrumguides.org/scrum-guide.html#scrum-tea
 
 Why is it harmful to have multiple POs per product (e.g. a different one for each team)?  See [my comic book](/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/).
 
+I'm aware of two frameworks that offer specific guidance on how multiple teams share a Product Owner and Product Backlog: [Nexus](https://www.scrum.org/resources/online-nexus-guide) and [LeSS](https://www.youtube.com/watch?v=1BZf_Oa7W94).  I also know of two other frameworks without clear [system optimization goals](/you-wont-change-your-organization-without-an-optimization-goal), thus in practice are about preserving the status quo. 
+
 What is a "product" anyway?  If we are optimizing for the big picture, consider using the [broadest practical definition of product](https://less.works/less/framework/product).
 
 ## Scrum Does Not Have Tasks In The Product Backlog
