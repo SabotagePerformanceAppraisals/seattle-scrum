@@ -13,7 +13,18 @@ Craig Larman and Bas Vodde call this blind spot *local optimization bias*:
 ## Example 1
 
 The following video illustrates local optimization in a typical organization.  A supervisor instructs workers to prevent any unwrapped chocolate from getting past them into the next room.  They mostly succeed.  But in the long run and in the big picture, optimizing locally harms the business, its employees, and its customers.  The video is supposed to be funny, but I want you to take it seriously because similar things happen every day in your own company.
+
 {% include video id="HnbNcQlzV-4?rel=0" provider="youtube" %}
+
+In the video above, *all three employees are acting correctly*!  It's easy to blame the line manager, but she is doing exactly what she should be doing for her role in the organization, given the current structure and policies.  
+
+### Does training without action make it worse?
+
+Just sending them to Scrum or LeSS training without changing the organizational design will not make a difference other than renaming the roles to Agile-sounding labels, inoculating the organization from fundamental change.  Without changes to organizational design, it's also futile to send the line manager to [leadership training](https://www.amazon.com/Leadership-BS-Fixing-Workplaces-Careers/dp/0062383167) or lecturing her to change her mindset and behavior.  Why should she?  As Craig Larman would say (paraphrasing [Larman's Laws](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)),
+
+> Culture follows structure.  In big established groups, culture/behavior/mindset follows and is influenced by changes in the organizational system and design. That is, in large established organizations, if you want to really change culture, you have to start with changing the organizational system (groups, teams, roles and responsibilities, hierarchies, career paths, policies, measurement and reward mechanisms, etc), because culture does not really change otherwise. 
+> 
+> Said another way, the organizational system is strongly influential on mindset and behavior.
 
 ## Example 2
 
