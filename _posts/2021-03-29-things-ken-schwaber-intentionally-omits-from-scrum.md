@@ -20,6 +20,8 @@ Scrum *intentionally* does not contain the following:
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give teams control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
 
+For things that are consistent with Scrum and usually necessary for it to work, see [Potentially Useful Things To Add To Scrum](/potentially-useful-things-to-add-to-scrum/).
+
 ## Scrum Does Not Contain A Daily Status Meeting
 
 Schwaber [writes](https://scrumguides.org/scrum-guide.html#daily-scrum)
