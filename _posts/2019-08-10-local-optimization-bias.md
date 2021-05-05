@@ -16,9 +16,9 @@ The following video illustrates local optimization in a typical organization.  A
 
 {% include video id="HnbNcQlzV-4?rel=0" provider="youtube" %}
 
-In the video above, *all three employees are acting correctly*!  It's easy to blame the line manager, but she is doing exactly what she should be doing for her role in the organization, given the current structure and policies.  
+In the video above, *all three employees are acting correctly*!  It's easy to demonize line manager, but she is doing exactly what she should be doing for her role in the organization, given the current structure and policies.  
 
-### Does training without action make it worse?
+### Does training without action create *change theater*?
 
 Just sending them to Scrum or LeSS training without changing the organizational design will not make a difference other than renaming the roles to Agile-sounding labels, inoculating the organization from fundamental change.  Without changes to organizational design, it's also futile to send the line manager to [leadership training](https://www.amazon.com/Leadership-BS-Fixing-Workplaces-Careers/dp/0062383167) or lecturing her to change her mindset and behavior.  Why should she?  As Craig Larman would say (paraphrasing [Larman's Laws](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)),
 
