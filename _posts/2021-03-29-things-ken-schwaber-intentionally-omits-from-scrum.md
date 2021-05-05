@@ -40,6 +40,10 @@ Schwaber's definition of Scrum has never contained "velocity."  It is a practice
 
 Scrum does not contain any particular effort estimation scheme.  Scrum does not force (or prohibit) the use of story points.  The Scrum Guide barely mentions estimation at all. 
 
+Ron Jeffries, co-inventor of story points and "velocity," had [this](https://twitter.com/RonJeffries/status/493915127293296640) to say:
+
+> beware of using story points. they turn out to have been a bloody mistake.
+
 Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  
 
 People who know binary find [T-shirt sizes with simple powers of two](https://scrumtrainingseries.com/BacklogRefinementMeeting/) to be sufficient.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
