@@ -154,7 +154,7 @@ The existence of single-function teams or departments isn't necessarily harmful 
 
 ### How to become a rich methodologist 
 
-A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Well, in the late 1990s people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
+A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Well, around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
 > I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
 
 One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
