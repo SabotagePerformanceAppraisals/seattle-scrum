@@ -47,7 +47,7 @@ Ron Jeffries, co-inventor of story points and "velocity," had [this](https://twi
 
 Yes, there's a strong case for relative exponential estimates over absolute estimates.  Do you really need a vast array of [Fibonacci numbers](/cult-of-fibonacci)?  You're doing this because someone told you Fibonacci numbers have magical powers?  
 
-People who know binary find [T-shirt sizes with simple powers of two](https://scrumtrainingseries.com/BacklogRefinementMeeting/) to be sufficient.  And if you're using more than a few choices, you're probably just creating the pretense of precision.
+People who know binary find [T-shirt sizes with simple powers of two](https://scrumtrainingseries.com/BacklogRefinementMeeting/) to be sufficient.  Other teams are fine with even less: *small* or *let's slice it until it is small*.  If you're using more than a few choices, you're probably just creating the pretense of precision.
 
 ### Effort estimates and Sprint Planning
 
@@ -65,7 +65,7 @@ It follows that a self-managing team would be responsible for maintaining code q
 
 ## Scrum Does Not Contain "Scrum of Scrums"
 
-The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty stab at the problem that no one knew how to make multi-team organizations agile.  But Ken Schwaber's next book, in 2004, identified the ways it contradicted team self organization.  Fortunately there are [alternatives to Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums).
+The first Scrum book in 2001 did contain a "Scrum of Scrums" -- a hasty stab at the problem that no one knew how to make multi-team organizations agile.  But Ken Schwaber's next book, in 2004, identified the ways it contradicted team self organization.  Maybe it meets your current needs, but don't get stuck thinking it's the only way.  There are [alternatives to Scrum of Scrums](/seven-alternatives-to-scrum-of-scrums).
 
 ## Scrum Does Not Have Multiple Product Owners Per Product
 
@@ -135,7 +135,7 @@ During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-revie
 From the 1986 Harvard Business Review paper that inspired Scrum[^newnew] through today's _Scrum Guide_, the magic is the result of *cross-functional teams*.  In 1986 Hirotaka Takeuchi and Ikujiro Nonaka wrote: 
 > Under the old approach, a product development process moved like a relay race, with one group of functional specialists passing the baton to the next group. Under the rugby approach, the product development process emerges from the constant interaction of a hand-picked, multidisciplinary team whose members work together from start to finish.
 
-The opposite of cross-functional teams are the single-function teams that abound in most organizations: 
+The opposite of a cross-functional team is a *single-function team*.  Single-function teams abound in most organizations: 
 * teams that just do analysis work, writing detailed requirements, etc.
 * teams that mostly code but don't fully test
 * teams that only test
@@ -151,10 +151,9 @@ The opposite of cross-functional teams are the single-function teams that abound
 * maintenance teams
 * operations teams
 * firefighting teams
-* etc.  
+* etc.
 
-
-Not everything in the world has to be called "Scrum."  The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber wrote:
+Not everything in the world has to be called "Scrum."  The existence of single-function teams or departments isn't necessarily harmful.  Humans got work done for thousands of years before there was anything called Scrum.  Some types of work (especially with [physical dependencies](/misconception-1-dependencies-are-caused-by-immutable-laws-of-physics)) may require a sequential approach.  Even Ken Schwaber wrote:
 
 > If waterfall meets current needs, keep doing it.  
 
@@ -162,13 +161,13 @@ But it *is* a contradiction to call single-function teams (or departments) "Scru
 
 > If thought corrupts language, language can also corrupt thought.  
  
-At the very least abusing language like this prevents learning what Scrum actually is.  
+Abusing our language prevents the discovery of what Scrum actually is.  
 
 ### How to become a rich methodologist 
 
 A person who was called "Product Owner"[^fake] of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams?  [Scrum was meant to expose dysfunction](/scrum-the-unflattering-mirror), not mask it.
 
-Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (a coauthor of the [Agile Manifesto](https://agilemanifesto.org)) clearly wasn't a fan: 
+Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your traditional organizational design.  It was a disaster, of course.  Alistair Cockburn (a coauthor of the [Agile Manifesto](https://agilemanifesto.org)) clearly wasn't a fan: 
 > I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
 
 One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
