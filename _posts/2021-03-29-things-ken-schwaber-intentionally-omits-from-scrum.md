@@ -17,6 +17,7 @@ Scrum *intentionally* does not contain the following:
 * [burndown chart as a management report, or at all](#scrum-does-not-contain-burndown-charts)
 * [Scrum Master as coordinator, motivator, or status reporter](#scrum-masters-are-not-for-coordination-motivation-or-status-reporting)
 * [Sprint Backlog as a surveillance tool](#the-sprint-backlog-is-for-the-team-developers-not-for-surveillance)
+* [single-function teams](#scrum-does-not-contain-single-function-teams)
 
 Scrum was intended to be a framework, a meta-process, to connect feedback loops and give teams control over their own work.  What you've experienced as Scrum in your workplace has likely diverged far from those intentions.
 
@@ -128,6 +129,35 @@ The Sprint Review is an appropriate time to make the results of the work visible
 During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-review):
 
 >  the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next. The Product Backlog may also be adjusted to meet new opportunities.
+
+## Scrum Does Not Contain Single-Function Teams
+
+Ever since the paper that inspired Scrum in 1986 through the present Scrum Guide, the magic requires *cross-functional teams*.  The opposite of cross-functional teams are the single-function teams that abound in most organizations: 
+* teams that just do analysis work, writing detailed requirements, etc.
+* teams that mostly code but don't fully test
+* teams that only test
+* integration teams
+* fake "DevOps" teams (real DevOps is the opposite)
+* product (management) teams
+* UX/UI teams
+* support teams (that sometimes become [control departments](/local-optimization-bias/#example-2))
+* marketing teams
+* architecture teams
+* risk management teams
+* infosec teams
+* maintenance teams
+* operations teams
+* firefighting teams
+* etc.  
+
+The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber said, if that meets current needs, keep doing it.  But it *is* a contradiction to call them "Scrum" teams, and I'd want to examine why we're using Scrum words for things that aren't Scrum.  George Orwell said, "If thought corrupts language, language can also corrupt thought."  At the very least abusing the language like this prevents learning what Scrum actually is.
+
+### How to become a rich methodologist 
+
+A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Well, in the late 1990s people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
+> I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
+
+One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
 
 ----
 
