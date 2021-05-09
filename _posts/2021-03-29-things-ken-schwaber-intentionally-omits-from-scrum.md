@@ -132,7 +132,10 @@ During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-revie
 
 ## Scrum Does Not Contain Single-Function Teams
 
-Ever since the paper that inspired Scrum in 1986 through the present Scrum Guide, the magic requires *cross-functional teams*.  The opposite of cross-functional teams are the single-function teams that abound in most organizations: 
+From the 1986 Harvard Business Review paper that inspired Scrum[^newnew] through the present Scrum Guide, the magic is the result of *cross-functional teams*.  In 1986 Hirotaka Takeuchi and Ikujiro Nonaka wrote: 
+> Under the old approach, a product development process moved like a relay race, with one group of functional specialists passing the baton to the next group. Under the rugby approach, the product development process emerges from the constant interaction of a hand-picked, multidisciplinary team whose members work together from start to finish.
+
+The opposite of cross-functional teams are the single-function teams that abound in most organizations: 
 * teams that just do analysis work, writing detailed requirements, etc.
 * teams that mostly code but don't fully test
 * teams that only test
@@ -150,15 +153,22 @@ Ever since the paper that inspired Scrum in 1986 through the present Scrum Guide
 * firefighting teams
 * etc.  
 
-The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber said, if the traditional way meets current needs, keep doing it.  But it *is* a contradiction to call them "Scrum" teams, and I'd want to examine why we're using Scrum words for things that aren't Scrum.  George Orwell said, 
+
+Not everything in the world has to be called "Scrum."  The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber wrote:
+
+> If waterfall meets current needs, keep doing it.  
+
+But it *is* a contradiction to call single-function teams (or departments) "Scrum" teams. Is there an honest reason to use Scrum words for things that aren't Scrum?  As George Orwell wrote 
 
 > If thought corrupts language, language can also corrupt thought.  
  
-At the very least abusing the language like this prevents learning what Scrum actually is.
+At the very least abusing language like this prevents learning what Scrum actually is.  
 
 ### How to become a rich methodologist 
 
-A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Well, around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
+A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams?
+
+Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
 > I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
 
 One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
@@ -175,3 +185,5 @@ One of the people responsible for the RUP fiasco repackaged it into a monstrous,
 ----
 
 Japanese version: [ケン・シュエーバーが意図的にスクラムから排除したもの](https://scrummaster.jp/things-ken-schwaber-intentionally-omits-from-scrum/)
+
+[^newnew]: _The New New Product Development Game_ by Hirotaka Takeuchi and Ikujiro Nonaka
