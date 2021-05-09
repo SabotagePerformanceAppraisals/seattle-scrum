@@ -158,7 +158,7 @@ Not everything in the world has to be called "Scrum."  The existence of single-f
 
 > If waterfall meets current needs, keep doing it.  
 
-But it *is* a contradiction to call single-function teams (or departments) "Scrum" teams. Is there an honest reason to use Scrum words for things that aren't Scrum?  As George Orwell wrote 
+But it *is* a contradiction to call single-function teams (or departments) "Scrum" teams. Is there an honest reason to use Scrum words for things that aren't Scrum?  George Orwell wrote: 
 
 > If thought corrupts language, language can also corrupt thought.  
  
@@ -166,7 +166,7 @@ At the very least abusing language like this prevents learning what Scrum actual
 
 ### How to become a rich methodologist 
 
-A person who was called "Product Owner"[^fake] of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams, and just forgot to accommodate them?
+A person who was called "Product Owner"[^fake] of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams?  [Scrum was meant to expose dysfunction](/scrum-the-unflattering-mirror), not mask it.
 
 Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (a coauthor of the [Agile Manifesto](https://agilemanifesto.org)) clearly wasn't a fan: 
 > I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
