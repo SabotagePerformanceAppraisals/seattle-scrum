@@ -114,7 +114,7 @@ If people are not motivated, it's likely there are organizational impediments th
 ### status reporting
 The authors of the Agile Manifesto wrote that [working software is the primary measure of progress](https://agilemanifesto.org/principles.html).  Scrum emphasizes the empirical over the theoretical.  At the *Sprint Review* everyone sees the real product itself, not a report about it.
 
-For more about Scrum Master responsibilities, please see the [Example Scrum Master's Checklist](https://scrummasterchecklist.org).
+I still have Ken's slide that said "The Scrum Master has no authority."  For more about Scrum Master responsibilities, please see the [Example Scrum Master's Checklist](https://scrummasterchecklist.org).
 
 ## The Sprint Backlog Is For the Team (Developers), Not For Surveillance
 
