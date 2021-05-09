@@ -132,7 +132,7 @@ During the [Sprint Review](https://scrumguides.org/scrum-guide.html#sprint-revie
 
 ## Scrum Does Not Contain Single-Function Teams
 
-From the 1986 Harvard Business Review paper that inspired Scrum[^newnew] through the present Scrum Guide, the magic is the result of *cross-functional teams*.  In 1986 Hirotaka Takeuchi and Ikujiro Nonaka wrote: 
+From the 1986 Harvard Business Review paper that inspired Scrum[^newnew] through today's _Scrum Guide_, the magic is the result of *cross-functional teams*.  In 1986 Hirotaka Takeuchi and Ikujiro Nonaka wrote: 
 > Under the old approach, a product development process moved like a relay race, with one group of functional specialists passing the baton to the next group. Under the rugby approach, the product development process emerges from the constant interaction of a hand-picked, multidisciplinary team whose members work together from start to finish.
 
 The opposite of cross-functional teams are the single-function teams that abound in most organizations: 
@@ -166,9 +166,9 @@ At the very least abusing language like this prevents learning what Scrum actual
 
 ### How to become a rich methodologist 
 
-A person who was called "Product Owner" of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams?
+A person who was called "Product Owner"[^fake] of a single-function team told me I could make a lot of money by inventing a methodology to accommodate teams like hers.  Did she think Ken Schwaber, Takeuchi-さん, and Nonaka-さん were unaware of the existence of single-function teams, and just forgot to accommodate them?
 
-Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (one of the authors of the Agile Manifesto) clearly wasn't a fan: 
+Around the year 2000 people made a lot of money with something called the Rational Unified Process (the RUP) that could be "tailored" to require no change at all to your organizational design.  It was a disaster, of course.  Alistair Cockburn (a coauthor of the [Agile Manifesto](https://agilemanifesto.org)) clearly wasn't a fan: 
 > I am interested in fending off the fat methodology army, the vast quantity of RUP, \[Arthur\] Anderson \[now Accenture\], SEI \[Software Engineering Institute\] salespeople putting ideas into CIOs' minds that they should have lots of paperwork to be "safe".
 
 One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
@@ -187,3 +187,4 @@ One of the people responsible for the RUP fiasco repackaged it into a monstrous,
 Japanese version: [ケン・シュエーバーが意図的にスクラムから排除したもの](https://scrummaster.jp/things-ken-schwaber-intentionally-omits-from-scrum/)
 
 [^newnew]: _The New New Product Development Game_ by Hirotaka Takeuchi and Ikujiro Nonaka
+[^fake]: A single-function team (or department) is only one part of producing a real product.  It does not have a "Product Owner."
