@@ -28,7 +28,7 @@ Just sending them to Scrum or LeSS training without changing the organizational 
 
 ## Example 2
 
-During the 1980's I had a brief stint in an IT department.  Our IT department was actually called Information Services & Control (IS&C).  One of my responsibilities was to prevent engineering teams from buying the tools they wanted to use because we could bulk purchase slightly cheaper alternatives that were "almost as good," or force people to use our unwieldy Univac mainframe.  This is a reasonable argument that could be right in some cases.
+During the 1980's I had a brief stint in an IT department.  Our IT department was actually called Information Services & Control (IS&C).  They weren't even trying to hide the *control* part.  One of my responsibilities was to prevent engineering teams from buying the tools they wanted to use because we could bulk purchase slightly cheaper alternatives that were "almost as good," or force people to use our unwieldy Univac mainframe.  *This is a reasonable argument that could be right in some cases.*  But in this particular case it was not right.
 
 My boss produced reports for his boss showing how much money we'd saved the company.  Those people probably all retired thinking this was the right thing to do.  But today I realize what I did to save pennies was actually harmful in the big picture.  *Penny wise, pound foolish* is an example of local optimization bias.
 
