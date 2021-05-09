@@ -150,7 +150,11 @@ Ever since the paper that inspired Scrum in 1986 through the present Scrum Guide
 * firefighting teams
 * etc.  
 
-The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber said, if the traditional way meets current needs, keep doing it.  But it *is* a contradiction to call them "Scrum" teams, and I'd want to examine why we're using Scrum words for things that aren't Scrum.  George Orwell said, "If thought corrupts language, language can also corrupt thought."  At the very least abusing the language like this prevents learning what Scrum actually is.
+The existence of single-function teams or departments isn't necessarily harmful -- as Ken Schwaber said, if the traditional way meets current needs, keep doing it.  But it *is* a contradiction to call them "Scrum" teams, and I'd want to examine why we're using Scrum words for things that aren't Scrum.  George Orwell said, 
+
+> If thought corrupts language, language can also corrupt thought.  
+ 
+At the very least abusing the language like this prevents learning what Scrum actually is.
 
 ### How to become a rich methodologist 
 
