@@ -157,6 +157,8 @@ Not everything in the world has to be called "Scrum."  The existence of single-f
 
 > If waterfall meets current needs, keep doing it.  
 
+![George Orwell](../images/George-Orwell.jpg){: .align-right width="200"}
+
 But it *is* a contradiction to call single-function teams (or departments) "Scrum" teams. Is there an honest reason to use Scrum words for things that aren't Scrum?  George Orwell wrote: 
 
 > If thought corrupts language, language can also corrupt thought.  
