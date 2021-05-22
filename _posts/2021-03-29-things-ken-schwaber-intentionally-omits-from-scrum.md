@@ -174,6 +174,14 @@ Around the year 2000 people made a lot of money with something called the Ration
 
 One of the people responsible for the RUP fiasco repackaged it into a monstrous, fundamentally dishonest thing called [SAFe](https://www.lafable.com).  Fool me once, shame on you.  Fool me twice, shame on me.
 
+
+## About "Thought Leaders"
+
+* Q (from a LinkedIn user):
+   > many of the patterns mentioned in \[this\] article have been championed by Jeff Sutherland and other thought leaders.
+* A:
+   > Now you can be smarter than a "thought leader."
+
 ----
 
 ## "Scrum!"  You keep using that word ...
