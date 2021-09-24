@@ -2,7 +2,7 @@
 title: "Agile Coaching is a Fool's Errand"
 ---
 I just spoke to a couple managers who rightly see a need to modernize their organization, and whose CEO is rightly skeptical of Agile Coaches[^1].  They both have legitimate concerns. 
-Our obstacle is the long history of magical management fads leading to today's fad: the concept of "Agile Coach."
+Our obstacle is the long history of magical management fads leading to today's fad: the "Agile Coach" role.
 
 There's a reason I stopped calling myself an Agile Coach years ago.  
 
