@@ -20,10 +20,10 @@ We want to help people discover principles of *organizational design*,
 (the organization's policies and structure), and how to optimize that organizational design 
 for adaptiveness.  Does our organizational design promote *out-learning our competition* about our customer's needs?
 Does it allow us to constantly adjust our direction?  Everything else flows from that.  Failing to address organizational design
-means the impact of any "Agile Coach" will be temporary and superficial.
+means the impact of an Agile Coach will be temporary and superficial.
 
 This is rarely what a company expects – or gets –
-when it hires an "Agile Coach."  More often than not, management and the Agile Coach are playing a game 
+when it hires an Agile Coach.  More often than not, management and the Agile Coach are playing a game 
 Eric Berne[^2] would call "Look How Hard We Tried."  Agile Coaches push processes and ways of working on 
 teams while trying to "change management culture."  Upper management, middle management, and workers rarely share
 the same [system optimization goal](/you-wont-change-your-organization-without-an-optimization-goal).  And who needs
