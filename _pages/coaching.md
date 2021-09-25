@@ -3,7 +3,7 @@ permalink: /coaching
 title: Coaching and Consulting
 ---
 
-![MJ-agile-coach](assets/images/MJ.png){: height="130px" width="130px" .align-right}
+![MJ-coach](assets/images/MJ.png){: height="130px" width="130px" .align-right}
 
 {% include toc %}
 
@@ -45,9 +45,9 @@ The most common complaint we hear in trainings is "Why isn't my manager in this 
 one third of the challenges that participants raise in training are things we'd like management's
 help with.
 
-The best Agile adoptions we've been involved with were both _top down_ and _bottom up_.
+The best adoptions we've been involved with were both _top down_ and _bottom up_.
 
-WARNING: Agility is a greater opportunity -- and greater challenge -- for the entire organization than training sponsors
+WARNING: Broad adaptiveness is a greater opportunity -- and greater challenge -- for the entire organization than training sponsors
 realize at first.
 {: .notice--danger}
 
@@ -131,8 +131,7 @@ and the risk of introducing unintended regression failures.
 ## Mob Programming Facilitation
 
 Your developers spend a surprising amount of time being stuck, or sawing away with tools they don't know need sharpening. 
-A learning technique that's especially useful 
-during Agile adoption is to have a small group of developers sit together and all focus on the same programming 
+A learning technique that's especially useful is to have a small group of developers sit together and all focus on the same programming 
 problems at the same time. This spreads knowledge and skills very rapidly. Consider the possibility that software 
 development is actually *knowledge creation*, not conventional manufacturing or construction.
 
