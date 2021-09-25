@@ -42,7 +42,7 @@ Pure coaching is a legitimate profession with no agenda.  Tacking on "Agile" cor
 > Hi Michael - Your post caught my eye since I've been wrestling with the challenge of how to improve the agile operations of a couple of our teams. They've had a hard time adopting best practices, so my thoughts went to agile coaching. I took a course with you a number of years ago and got a ton out of it, so I value your opinion. If agile coaching is a fool's errand, what would you suggest?
 
 I would suggest starting with a clear [system optimization goal](/you-wont-change-your-organization-without-an-optimization-goal) 
-stated again and again from upper management, including what attachments we're willing to [let go of](/local-optimization-bias).  Also we usually need to broaden the [product definition](/https://less.works/less/framework/product).  If these things are done 
+stated again and again from upper management, including what attachments we're willing to [let go of](/local-optimization-bias).  Also we usually need to broaden the [product definition](https://less.works/less/framework/product).  If these things are done 
 properly, it will imply an organizational design and the desire to learn practices that suit your situation.  Practices that
 are consistent with a system optimization goal of broad adaptiveness include things like Test Driven Development, 
 continuous integration, and mob programming. But calling those things "best practices" does not promote worker ownership of their 

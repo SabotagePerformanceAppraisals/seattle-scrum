@@ -65,7 +65,7 @@ While the focus of LeSS is increased adaptiveness/Agility, not just *releases th
 The experience taught me to be less attached to my idea of what an organization's system optimization goal should be.  There isn't a "right" one.  At the same time I've come to believe that senior management should 
 1. carefully consider what the goal is, 
 2. express it clearly to everyone, and also 
-3. express what attachments we're willing to let go of, particularly the difficult ones.
+3. express what attachments we're willing to [let go of](/local-optimization-bias), particularly the difficult ones.
 
 ## When are goals context sensitive?
 
