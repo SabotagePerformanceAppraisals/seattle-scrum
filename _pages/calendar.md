@@ -9,7 +9,8 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
-| Sept 26-30 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://www.odd-e.jp/training/course-detail/209)
+| Oct 24-28 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://www.odd-e.jp/training/course-detail/210)
+| Nov 14-18 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://www.odd-e.jp/training/course-detail/211)
 
 ----
 
