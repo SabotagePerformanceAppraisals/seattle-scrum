@@ -10,7 +10,6 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:
 | June 05-09 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://www.odd-e.jp/training/course-detail/246)
-| June 26-30 | CSM + CLB | LIVE VIRTUAL[^virtual] | starting at $849 |[register](https://www.pminj.org/nj_csm.mr)
 | July 03-07 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/321)
 | July 31-Aug 04 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/326)
 | Sept 04-08 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $3200 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/331)
