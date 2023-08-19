@@ -25,7 +25,7 @@ effort required.  For now, humans are better at learning and adapting than machi
 
 A human may be more able to defy convention.  For instance, while a language model might 
 suggest UI/UX designs based on historical data, a human might invent a novel solution that 
-break conventions.  
+breaks conventions.  
 
 For that matter, conventional wisdom is sometimes wrong or limiting, requiring the insight
 of a nonconformist human.  And the trainers themselves have biases.  If ChatGPT had been trained on the prevailing orthodoxy of Copernicus's day, it would have said that the Earth was the center of the universe.
