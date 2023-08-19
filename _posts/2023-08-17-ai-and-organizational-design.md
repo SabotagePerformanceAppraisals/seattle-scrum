@@ -28,21 +28,18 @@ suggest UI/UX designs based on historical data, a human might invent a novel sol
 break conventions.  
 
 For that matter, conventional wisdom is sometimes wrong or limiting, requiring the insight
-of a nonconformist human.  And the trainers themselves have biases.  
-If ChatGPT had been trained on the prevailing orthodoxy of Copernicus's day, it would have 
-said that the Earth was the center of the universe.
+of a nonconformist human.  And the trainers themselves have biases.  If ChatGPT had been trained on the prevailing orthodoxy of Copernicus's day, it would have said that the Earth was the center of the universe.
 
 We'll call all this *learning expertise* to distinguish it from routine expertise.  
 
 ## What does GLAD stand for?
 
 Craig Larman has proposed the acronym GLAD to stand for Generative AI LLM (Language Learning Model)
-Assisted Development.  (I guess GAILLMAD contains more capital letters than he can stand.)  
-Craig describes himself as a junior GLAD developer.
+Assisted Development.  (I guess GAILLMAD contains more capital letters than he can stand.)  Craig describes himself as a junior GLAD developer.
 
 ## What will work look like in the future ?
 
-From *The New New Product Development Game* by Takeuchi and Nonaka:
+From *The New New Product Development Game* by Takeuchi and Nonaka (1986):
 
 > Under the rugby approach, the product development process emerges from the constant 
 > interaction of a hand-picked, multidisciplinary team whose members work together from 
