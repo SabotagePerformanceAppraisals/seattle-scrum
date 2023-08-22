@@ -9,8 +9,8 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:|
-| July 31-Aug 04 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $2400 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/326)|
-| Sept 04-08 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $2400 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/331)|
+| October 23-27 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $2400 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/376)|
+| December 18-22 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | $2400 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/381)|
 
 ----
 
