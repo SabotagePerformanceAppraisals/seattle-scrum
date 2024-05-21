@@ -9,7 +9,8 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:|
-| June 3-7 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE VIRTUAL[^virtual] | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/586)|
+
+Please [contact us](https://seattlescrum.com/contact) for information about our upcoming courses.
 
 ----
 
