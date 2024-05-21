@@ -8,7 +8,6 @@ permalink: /calendar
 ## Calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
-| :----------:|:-------------:|:-----------:|:-----:|:---------------:|
 
 Please [contact us](https://seattlescrum.com/contact) for information about our upcoming courses.
 
