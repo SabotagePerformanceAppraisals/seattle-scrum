@@ -8,6 +8,10 @@ permalink: /calendar
 ## Calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
+| :----------:|:-------------:|:-----------:|:-----:|:---------------:|
+| Oct 22-24 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | IN-PERSON | ¥330,000 (税込み) |[register](https://yoake.tech-kai.com/tech/user/courses/676)|
+
+----
 
 Please [contact us](https://seattlescrum.com/contact) for information about our upcoming courses.
 
