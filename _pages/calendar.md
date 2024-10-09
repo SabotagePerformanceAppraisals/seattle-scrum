@@ -10,6 +10,7 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:|
 | October 22-24 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE IN PERSON | ¥330,000 (税込み) |[register](https://yoake.tech-kai.com/tech/user/courses/676)|
+| December 2-6 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE ONLINE | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/796)|
 
 ----
 
