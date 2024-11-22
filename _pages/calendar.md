@@ -7,9 +7,7 @@ permalink: /calendar
 
 ## Calendar
 
-| Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
-| :----------:|:-------------:|:-----------:|:-----:|:---------------:|
-
+We're working on our Q1 schedule. Please check back soon for upcoming public courses.
 
 ----
 
