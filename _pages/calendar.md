@@ -7,7 +7,10 @@ permalink: /calendar
 
 ## Calendar
 
-We're working on our Q1 schedule. Please check back soon for upcoming public courses.
+| Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
+| :----------:|:-------------:|:-----------:|:-----:|:---------------:|
+| June 16-20, 2025 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE ONLINE | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/886)|
+| Aug 25-29, 2025 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE ONLINE | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/891)|
 
 ----
 
