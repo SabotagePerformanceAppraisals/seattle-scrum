@@ -31,6 +31,14 @@ header:
 
 ---
 
+### 中文 (Chinese)
+
+给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
+[![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf)
+
+---
+
+
 ### Español (Spanish)
 
 ¿Por qué Scrum no está haciendo que tu empresa sea muy ágil?: Cómo el tener ideas equivocadas sobre el rol del Product Owner perjudican a su empresa y qué hacer al respecto. 
@@ -74,14 +82,6 @@ Proč “Scrum” sám o sobě neudělá vaší organizaci agilní.
 ![Portuguese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-pt.png)
 ([Contact us](/contact) to join the Portuguese translation volunteers.)
 
----
-
-### 中文 (Chinese)
-
-给⼈惊喜的Scrum 第⼀卷 第⼀集。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。Scrum没有帮助你的公司变得更加敏捷的原因：曲解PO⻆色是如何对组织造成危害的，以及应该如何处理。
-[![Chinese](/images/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cover-cn.png)](/downloads/Why-Scrum-Isnt-Making-Your-Company-Very-Agile-cn.pdf)
-
-([Contact us](/contact) to join the Chinese translation volunteers.)
 
 ---
 
