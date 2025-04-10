@@ -10,8 +10,6 @@ permalink: /calendar
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:|
 | June 4-6, 2025 | Certified LeSS for Executives (CLE) | IN-PERSON, New York | $2299 |[register](https://www.eventbrite.com/e/certified-less-for-executivescle-w-micheal-james-and-gene-gendel-tickets-1301334118379)|
-| June 16-20, 2025 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE ONLINE | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/886)|
-| Aug 25-29, 2025 | 認定スクラムマスター (CSM) + 認定LeSS Basics (CLB) 日本語 | LIVE ONLINE | ¥330,000 (税込み) |[register](https://training.tech-kai.com/tech/user/courses/891)|
 
 ----
 
