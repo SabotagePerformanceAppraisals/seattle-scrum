@@ -9,12 +9,10 @@ permalink: /calendar
 
 | Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
 | :----------:|:-------------:|:-----------:|:-----:|:---------------:|
-| May 26-28, 2025 | CSM + Certified LeSS Basics (CLB) | IN-PERSON, Hangzhou, China | CN¥8500 |[register](https://party.hudongba.com/party/f77u7.html)|
-| June 4-6, 2025 | Certified LeSS for Executives (CLE) | IN-PERSON, New York | $2299 |[register](https://www.eventbrite.com/e/certified-less-for-executivescle-w-micheal-james-and-gene-gendel-tickets-1301334118379)|
 
 ----
 
-Please [contact us](https://seattlescrum.com/contact) for information about our upcoming courses.
+We have no public courses scheduled at this time. Please [contact us](https://seattlescrum.com/contact) if you're interested in seeing a course in your area, or if you would like to schedule a private workshop for your organization.
 
 ----
 
