@@ -7,9 +7,6 @@ permalink: /calendar
 
 ## Calendar
 
-| Dates       | Class         |   Location  | Price[^price] | Register/Inquire|
-| :----------:|:-------------:|:-----------:|:-----:|:---------------:|
-
 ----
 
 We have no public courses scheduled at this time. Please [contact us](https://seattlescrum.com/contact) if you're interested in seeing a course in your area, or if you would like to schedule a private workshop for your organization.
